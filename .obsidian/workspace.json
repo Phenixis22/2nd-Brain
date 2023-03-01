@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68d3cae11df6b0bb",
+        "id": "079f45fe07eb7b15",
         "type": "tabs",
         "children": [
           {
-            "id": "6a29a00f317f1d46",
+            "id": "1d617d79964cc7e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Ressources/Journal/2023/02/2023-02-28.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-01.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b06f1076e58d391c",
+            "id": "49092af064aa13c5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Ressources/Journal/2023/02/2023-02-28.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Ressources/Journal/2023/02/2023-02-28.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Ressources/Journal/2023/02/2023-02-28.md"
+                "file": "3. Ressources/Journal/2023/03/2023-03-01.md"
               }
             }
           }
@@ -152,10 +152,19 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6a29a00f317f1d46",
+  "active": "1d617d79964cc7e0",
   "lastOpenFiles": [
-    "3. Ressources/Journal/2023/02/2023-02-27.md",
+    "1. Projects/Liste de mes projets.md",
+    "3. Ressources/Journal/2023/2023.md",
+    "3. Ressources/Journal/2023/2023-janvier.md",
+    "3. Ressources/Journal/2023/02/2023-02-05 (conflict 2023-02-05-18-30-39).md",
+    "3. Ressources/Journal/2023/02/2023-02-04 (conflict 2023-02-05-18-30-38).md",
+    "3. Ressources/Journal/2023/02/2023-02-02 (conflict 2023-02-05-18-30-38).md",
+    "3. Ressources/Journal/2023/03/2023-03-01.md",
+    "5. À Trier/Abréviation.md",
     "3. Ressources/Journal/2023/02/2023-02-28.md",
+    "3. Ressources/Journal/2023/03",
+    "3. Ressources/Journal/2023/02/2023-02-27.md",
     "3. Ressources/Journal/2023/02/2023-02-26.md",
     "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
     "1. Projects/Année 22-23/Philosophie/Que devons-nous faire.md",
@@ -175,14 +184,6 @@
     "3. Ressources/Journal/2023/02/2023-02-21.md",
     "3. Ressources/Journal/2023/02/2023-02-20.md",
     "3. Ressources/Cours/Économie/Concepts économiques fondamentaux.md",
-    "3. Ressources/Entrepreunariat/auto-entrepreneur.md",
-    "1. Projects/Liste de mes projets.md",
-    "1. Projects/Projet de formation motivé/Qualité - Exemple.md",
-    "0. Modèles/Nouveau projet.md",
-    "4. Archives/The Only Study Guide You'll Ever Need ✅/Les anciens contrôles sont le nouveau manuel.md",
-    "5. À Trier/Étapes pour bien commencer quelque chose.md",
-    "1. Projects/PSC1/PSC1.md",
-    "1. Projects/PSC1/Sans titre.md",
-    "3. Ressources/À Permanoter/The 7 Habits of Highly Effective People/The 7 Habits of Highly Effective People - quotes.md"
+    "3. Ressources/Entrepreunariat/auto-entrepreneur.md"
   ]
 }
