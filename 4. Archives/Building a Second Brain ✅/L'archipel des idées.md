@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#1. The Archipelago of Ideas: Give Yourself Stepping-Stones]]

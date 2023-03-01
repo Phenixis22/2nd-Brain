@@ -1,0 +1,2 @@
+Un jour, Steve Harvey, un présentateur extrêmement connu aux États-Unis, a dit qu'un homme ''successful'' ne dormait pas 8 heures par jour car c'était 1/3 de la journée. Je comprends ce raisonnement et j'y crois, en partie. C'est pour cela que je donne la règle de **dormir 8h par nuit au <mark class="hltr-default">maximum</mark> et de dormir en moyenne 6h par nuit** sauf si je me rends compte que ce nombre d'heures ne me convient pas.
+

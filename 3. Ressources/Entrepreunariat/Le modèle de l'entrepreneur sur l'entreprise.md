@@ -1,0 +1,1 @@
+![[The E-Myth - quotes#Le modèle de l’entrepreneur]]

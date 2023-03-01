@@ -1,0 +1,1 @@
+	![[Building a Second Brain - quotes#Your Turn: Move Quickly, Touch Lightly]]

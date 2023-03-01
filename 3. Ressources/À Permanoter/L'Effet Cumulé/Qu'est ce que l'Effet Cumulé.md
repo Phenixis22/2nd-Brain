@@ -1,0 +1,5 @@
+![[Le principe de l'Effet Cumulé]]
+![[Un exemple des bénéfices de l'Effet Cumulé]]
+![[Plus de bénéfices qu'il n'y paraît]]
+![[L'Effet Cumulé requiert une discipline et un travail]]
+![[Les résultats de l'Effet Cumulé prennent du temps]]

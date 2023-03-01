@@ -1,0 +1,16 @@
+Date : 20 #août-2022
+***
+![[Les titres]]
+![[Les liens]]
+![[Le formatage du texte]]
+![[Les listes]]
+![[Une citation]]
+![[Du code]]
+![[Les tableaux]]
+![[Les séparations]]
+![[Un pied de page]]
+![[Les commentaires]]
+![[Les callouts]]
+![[Les slides]]
+![[Les exposants]]
+![[Les timelines]]

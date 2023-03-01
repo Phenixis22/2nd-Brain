@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#Giving Your First Brain a New Job]]

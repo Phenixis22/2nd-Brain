@@ -1,0 +1,1 @@
+![[The Psychology of Money - quotes#9. Wealth is what you don't see]]

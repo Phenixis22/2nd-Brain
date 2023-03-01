@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#Assembling Building Blocks: The Secret to Frictionless Output]]

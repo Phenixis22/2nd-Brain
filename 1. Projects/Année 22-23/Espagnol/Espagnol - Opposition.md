@@ -1,0 +1,1 @@
+Mientras que - al contrario - por el contrario - en cambio - por otro lado

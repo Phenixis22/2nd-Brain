@@ -1,0 +1,1 @@
+[[Méthode carte Anki]], [[Retrospective revision timetable]], spaced répétition, active recalls

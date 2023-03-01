@@ -1,0 +1,1 @@
+Un livre est <mark class="hltr-default">un concentré d'**expériences** et de **connaissances** d'un être humain</mark> distillé en une version ne prenant que quelques heures à lire. ^0

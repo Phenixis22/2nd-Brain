@@ -1,0 +1,73 @@
+11 #novembre-2022
+![[Morning Brew.png]]
+# 🇺🇸 Good Morning
+On Veterans Day, we want to express our deep gratitude to all those who have served in the US military.
+
+-   **Here’s one factoid:** Gulf War-era veterans now make up the largest share of US veterans, having surpassed Vietnam-era veterans in 2016.
+-   **And another:** The share of veterans who are women is projected to increase significantly, from 11% currently to 18% in 2046.
+
+On a logistical note, most banks are closed today, but the stock market is open.
+
+—_Neal Freyman, Abby Rubenstein, Matty Merritt_
+# Markets News
+| Market's name | Level      | % gain/lost                             |
+| ------------- | ---------- | --------------------------------------- |
+| Nasdaq        | 11,114.15  | <mark class="hltr-green">+7.35%</mark>  |
+| S&P           | 3,956.37   | <mark class="hltr-green">+5.54%</mark>  |
+| Dow           | 33,715.37  | <mark class="hltr-green">+3.70%</mark>  |
+| 10-Year       | 3.819%     | <mark class="hltr-red">-32.2 bps</mark> |
+| Bitcoin       | $17,586.88 | <mark class="hltr-green">+11.94%</mark> |
+| Ethereum      | $1,300.85  | <mark class="hltr-green">+19.52%</mark> |
+-   **Markets:** Stocks went [b-a-n-a-n-a-s](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cuY25iYy5jb20vMjAyMi8xMS8wOS9zdG9jay1tYXJrZXQtZnV0dXJlcy1vcGVuLXRvLWNsb3NlLW5ld3MuaHRtbA/6360d8c913646a717506c2efBa222270c) after the consumer price index report showed that inflation cooled last month. All three indexes posted their best days since 2020, and, while we don’t usually write out points totals, the Dow gained more than 1,000 points (which is pretty cool). Crypto also bounced back after Wednesday’s FTX-related sell-off.
+# News of the day - Inflation is coming down y’all
+Like edibles, interest rate hikes take a while to kick in. But when they do, you can definitely feel the effects.
+
+Yesterday’s [inflation report](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvaW5mbGF0aW9uLXVuaXRlZC1zdGF0ZXMtZWNvbm9teS1idXNpbmVzcy1jb25zdW1lci1wcmljZXMtMDM5ZDgyOWI4NzRiZTYyMzcwNDFlNWYwYWIwMzJhZDE_dXRtX2NhbXBhaWduPW1iJnV0bV9tZWRpdW09bmV3c2xldHRlciZ1dG1fc291cmNlPW1vcm5pbmdfYnJldw/6360d8c913646a717506c2efB24a0e41d) showed that US consumer price growth came in lower than expected in October and dropped from the month before. It’s a hopeful sign that Fed Chair Jerome Powell’s rate hikes, paired with easing supply chain snags, are starting to cool off inflation.
+
+The deets:
+
+-   The consumer price index increased 7.7% annually and 0.4% monthly. That yearly figure is the slowest rate since January.
+-   But more important is the slowdown in core CPI, which is a better gauge of inflation because it strips out volatile food and gas prices. Core CPI rose 0.3% monthly in October, a big drop from 0.6% in September and August.
+
+## What’s pushing inflation lower?
+
+Prices of _goods_ are slowing down considerably, led by declines in apparel and used cars (sorry, Carvana). Economists had been expecting goods inflation to chill out now that supply chain bottlenecks have been cleared, and it’s encouraging to see that show up in the data.
+
+Inflation in _service_-based industries is historically a tougher nut to crack, but even there prices cooled as airfares, sporting event tickets, and medical care became cheaper. And while shelter prices remain painfully high, private-sector data has shown that rental and housing costs are decreasing in the US (it’ll just take time for that to show up in CPI).
+
+***Buzz Killington enters the chat.*** While inflation could be on the comedown, a 7.7% rate of inflation is significantly higher than the Fed’s 2% target, so don’t expect J-Pow to stop hiking rates anytime soon. Also, you don’t have to be a statistics prof to know that a one-month sample size is too small to draw any broad conclusions from—more data is needed to prove this cooling off is actually a trend.
+
+**Bottom line:** Coming after the Phillies loss in the World Series, October’s CPI report inches up the probability that the economy could glide to a “soft landing” after this inflation shock.—_NF_
+# World - Tour de headlines
+![SBF tweet apologizing for FTX collapse](https://ci6.googleusercontent.com/proxy/IctKkxXtFku-D7bAIlRss8p01cZPfORrXtN9VqKgrq1p9aN1QRHckvFzRvqCvIVYG0nva97EYmUSvcPtKmm45IXEJQFspf1ksUt8deUPaUnfKCPwKO6KCpVOzVwlVawpBM7dR_PVPOZtl4MQJWo5m4Pi1AordkUB3qKALcdgFalb0GP6UVpyVyVYwlCYjX4rcA=s0-d-e1-ft#https://cdn.sanity.io/images/bl383u0v/production/6c7ac16497f59af4681c44ae4b21556f34150fda-1500x1000.jpg?w=670&q=70&auto=format)_Sam Bankman-Fried on Twitter_
+
+**👎 SBF apologizes as FTX scrambles to stay alive.** Following his crypto exchange’s epic implosion, FTX boss Sam Bankman-Fried (SBF) said he was sorry for mistakes he made, and pledged to “[give anything I have to](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMTEtMTAvYmFua21hbi1mcmllZC12b3dzLXRvLWdpdmUtYW55dGhpbmctZm9yLWNhcGl0YWwtYXMtZnR4LWZsYWlscz9zcmVmPUtrUHpwWnZ6/6360d8c913646a717506c2efB495a208f)” in order to raise the $4 billion in capital FTX needs to avoid bankruptcy. As finance cops bear down on the company, [shady activities](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9mdHgtdGFwcGVkLWludG8tY3VzdG9tZXItYWNjb3VudHMtdG8tZnVuZC1yaXNreS1iZXRzLXNldHRpbmctdXAtaXRzLWRvd25mYWxsLTExNjY4MDkzNzMyP21vZD1ocF9sZWFkX3BvczU/6360d8c913646a717506c2efBff390f5f) are coming to light: FTX loaned its affiliated firm, Alameda Research, ~$10 billion worth of customer assets to fund high-risk bets, per the WSJ.
+
+**🏈 Washington takes on the Commanders.** In a lawsuit filed yesterday, DC’s Attorney General Karl Racine accused the Washington Commanders, team owner Daniel Snyder, the NFL, and NFL Commissioner Roger Goodell of [withholding](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3Nwb3J0cy8yMDIyLzExLzEwL3NueWRlci1hdHRvcm5leS1nZW5lcmFsLWxhd3N1aXQtY29tbWFuZGVycy8_dXRtX2NhbXBhaWduPW1iJnV0bV9tZWRpdW09bmV3c2xldHRlciZ1dG1fc291cmNlPW1vcm5pbmdfYnJldw/6360d8c913646a717506c2efBf3b2ab70) information about the team’s alleged toxic workplace culture from DC residents, allowing the Commanders and the NFL to benefit financially. The lawsuit comes just over one week after Snyder signaled he was planning to sell the team.
+
+**🇺🇸 Election update:** The balance of power in DC became only a bit clearer yesterday as votes continue to be counted in competitive House and Senate races. The GOP appears on track to eke out a win in the House, but they still need to win two of the three outstanding Senate races to gain control of that chamber. Meanwhile, in a surprisingly close House race in Colorado, Democrat Adam Frisch and incumbent GOP Rep. Lauren Boebert are separated by a razor-thin margin that could trigger a recount.
+# Grab bag - Key performance indicators
+![Joe Chahayed, (CH) left, holds up a check for $1,000,000. for the retailer selling bonus and Daniel Chahayed, right, at Joes Service Center on Tuesday, Nov. 8](https://ci5.googleusercontent.com/proxy/hsepltsZ0njhMAHS46YlAwiO4Y3hiO6P25tAFMZd4Mk1diyje2haKEAo_oPl9J_9xlr4yRMwrNK_MaHgwXRqI6xm5kf4Fzj61kb8NmI0kFBMx6qBjnW1xTv-HD8Zm-zn1XpH53KXWn0A3JYBAjqDSPeZXw6-MbheCZrgjnQFDoWskd1HuAxMCshDD3Y9J0Ci=s0-d-e1-ft#https://cdn.sanity.io/images/bl383u0v/production/49839930ec936fc1b7b816f50c0f585f93e7df19-1024x683.jpg?w=670&q=70&auto=format)_Francine Orr/Los Angeles Times via Getty Images_
+
+**Stat:** These gas industry profits are seriously getting out of hand. Joseph Chahayed, the owner of a gas station in Altadena, California, was awarded a [$1 million prize](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cuaW5zaWRlci5jb20vcG93ZXJiYWxsLXRpY2tldC1nYXMtc3RhdGlvbi1vd25lci1ib251cy1zZWxsaW5nLXdpbm5pbmctdGlja2V0LTIwMjItMTE_dXRtX2NhbXBhaWduPW1iJnV0bV9tZWRpdW09bmV3c2xldHRlciZ1dG1fc291cmNlPW1vcm5pbmdfYnJldw/6360d8c913646a717506c2efB999921b5) for selling the winning Powerball jackpot ticket. A true mensch, Chahayed said he’d share his award with his family members…though at least one of them doesn’t need the cash. Chahayed’s son-in-law is Domata Peko, a defensive tackle in the NFL.
+
+**Quote:** “May this tusk root out the lice of the hair and the beard.”
+
+It’s official: Humans have been [complaining](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vbmV3cy9hbmNpZW50LWNvbWItaXNyYWVsLWZpcnN0LXNlbnRlbmNlLWV2ZXItZm91bmQtY2FuYWFuaXRlLWFscGhhYmV0LWxpY2UvP3V0bV9jYW1wYWlnbj1tYiZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1tb3JuaW5nX2JyZXc/6360d8c913646a717506c2efB80bd7958) about head lice for at least 3,700 years. Israeli archaeologists found this inscription on an ancient comb, which could be the earliest known full sentence in Canaanite alphabetical script, a study published on Wednesday said. Interestingly, this comb was dug up in 2016, but a researcher only noticed that an itchy Canaanite wrote something on it late last year.
+
+**Look:** Photos of our world impacted by climate change. ([New York Times](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMi8xMS8wOC93b3JsZC9jbGltYXRlLWNoYW5nZS1nbG9iYWwtcGhvdG9zLmh0bWw_dW5sb2NrZWRfYXJ0aWNsZV9jb2RlPTZ6M19ERkhWWU1Fb0t6cFBoelFKY3BrQmh2cF9XSXkwUjd3RXhxd0JhTVBET3RyY1JZZXhiUmRSS0I0bnlmendnQ3lGek9ub3pwZ0Z5TTlWUl84X1F2YmRRLUxGZndEd0dUV3JFZ1oycEdlRzRwUzByWG5mUlBseGxwSE56Q0dFOGRvd0ZrM05YWG1tV3JTYUJpSnJ4Ny1Oak15N3A1dGVUeGJCOFlNN0E1ZWQ4bkx4SWZ5TXhKaVF0a0VmSmx4UkJyb1p6SVhaanhJcEFjRGNDdEtxSGQyRXlQOVk3YTNXQm9rN2F2d3h0dDRadTRTZW1mbkNQRE1KY2xlVmhGOXcta1ppb0hoMlgzMDg4NmdmXzdtT2NIbFQzV2NoZG90YV9pNFNQT3NYM2VDaUlsc25mRFlGTC05S1hQOGpiQUJaWFlmdEoyYWoyVF9YYVgyTzRUd0tleWhyYmE0JnNtaWQ9c2hhcmUtdXJs/6360d8c913646a717506c2efB392f4151))
+# What else is brewing
+-   [A federal judge](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cucmV1dGVycy5jb20vbGVnYWwvdXMtanVkZ2UtZGVjbGFyZXMtYmlkZW5zLXN0dWRlbnQtZGVidC1yZWxpZWYtcGxhbi11bmNvbnN0aXR1dGlvbmFsLTIwMjItMTEtMTEvP3V0bV9jYW1wYWlnbj1tYiZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1tb3JuaW5nX2JyZXc/6360d8c913646a717506c2efB7d50bf20) in Texas blocked President Biden’s student loan cancellation program, adding to the legal troubles of Biden’s executive action to wipe out $430 billion in student debt.
+-   [Alex Jones](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvZW50ZXJ0YWlubWVudC1zaG9vdGluZ3MtYnVzaW5lc3MtY29ubmVjdGljdXQtYWxleC1qb25lcy1jNmQwNTYzZGMxN2U3YmZhODNhODgxYjQ0ZTdiOWVlYz91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efBb97ea7dc) and his company were ordered to pay an extra $473 million in damages for promoting conspiracy theories about the Sandy Hook school shooting. Jones’s total judgment now stands at $1.44 billion.
+-   [Hurricane Nicole](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMTEtMTAvbmljb2xlLWlzLWZpcnN0LW5vdmVtYmVyLWh1cnJpY2FuZS10by1zdHJpa2UtdXMtaW4tMzcteWVhcnM_c3JlZj1La1B6cFp2eg/6360d8c913646a717506c2efB583d3f25) became the first hurricane to make landfall in the US during November in 37 years, coming ashore near Vero Beach, FL, as a Category 1 storm.
+-   [KFC](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3dvcmxkLWV1cm9wZS02MzQ5OTA1Nz91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efB2db19a0f) apologized after it sent out a Kristallnacht promotion to customers in Germany, blaming it on an “error in our system.”
+# Brew's bets
+**Is that…“Jingle Bells”?** Heardle, the Wordle for songs, released a Christmas music-themed game. [Play it here](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly9jaHJpc3RtYXMuaGVhcmRsZWRlY2FkZXMuY29tLz91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efB7341e6be).
+
+**These places do not exist:** Here are [two](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9taWRqb3VybmV5LmFyY2hpdGVjdHVyZS8_dXRtX2NhbXBhaWduPW1iJnV0bV9tZWRpdW09bmV3c2xldHRlciZ1dG1fc291cmNlPW1vcm5pbmdfYnJldw/6360d8c913646a717506c2efB05957a22) [sites](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly90aGlzaG91c2Vkb2Vzbm90ZXhpc3Qub3JnL2FuLWVjby1mcmllbmRseS1kZXNpZ24tZnJvbS1waW50ZXJlc3QvMjAzNDQ1OTg_dXRtX2NhbXBhaWduPW1iJnV0bV9tZWRpdW09bmV3c2xldHRlciZ1dG1fc291cmNlPW1vcm5pbmdfYnJldw/6360d8c913646a717506c2efBafb1e0d6) that show AI-generated architecture.
+
+**Dr Pepper vs. the copycats:** Can John Green [taste the difference](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1yY09NM0gwNktJNA/6360d8c913646a717506c2efBf7915a7b)?
+
+**Cell-therapy startup.** Cellares makes a “factory in a box” for [cell-therapy manufacturing](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ucXdseExUa2lWMA/6360d8c913646a717506c2efC31441726)—treatments crafted from patients’ own DNA. See how healthcare and automation unite, aided by [fast, reliable, and secure connectivity](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ucXdseExUa2lWMA/6360d8c913646a717506c2efD31441726). Sponsored content by AT&T Business.*
+
+**Your best sleep:** This [clinically-tested CBD hot chocolate](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly9zaG9wYmVhbS5jb20vcHJvZHVjdHMvc2xlZXAtcG93ZGVyP3ZhcmlhbnQ9Mzk5OTQwOTAwOTQ2NDcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09c3BvbnNvcnNoaXAmdXRtX2NhbXBhaWduPW1vcm5pbmdicmV3X2JyZXdzYmV0c18xMTExMjIy/6360d8c913646a717506c2efBd0602d09)—packed with ingredients like melatonin and magnesium to help you get quality shut-eye—is now available in white chocolate peppermint ![](https://ci6.googleusercontent.com/proxy/xeKm1GnHkGAxcCvlVUJyYf6Rf1Uz0sYAZxVEZhrJbJkCuiUKteH-9cxL9yr2D0ddYhsB00Z-N9kG8HUDpuYoiGDHMGPzDC8KTBPdq015DTQ75S4Z9MvF_zC0mgx9Gkc0XQmw_z-hwjOIrWAj30tTENQnBFRChKvc=s0-d-e1-ft#https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/hot-beverage_2615.png). [Get up to 50% off sitewide](https://link.morningbrew.com/click/29665268.3687013/aHR0cHM6Ly9zaG9wYmVhbS5jb20vcHJvZHVjdHMvc2xlZXAtcG93ZGVyP3ZhcmlhbnQ9Mzk5OTQwOTAwOTQ2NDcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09c3BvbnNvcnNoaXAmdXRtX2NhbXBhaWduPW1vcm5pbmdicmV3X2JyZXdzYmV0c18xMTExMjIy/6360d8c913646a717506c2efCd0602d09).*

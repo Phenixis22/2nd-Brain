@@ -1,0 +1,3 @@
+Pour bien tenir un journal, je dois savoir pourquoi le faire, dans quel but, qu'est ce que je cherche à faire, etc...
+
+Je pense que mélanger le journaling entre mon téléphone et mon carnet est une bonne méthode pour dissocier ma vie "perso" de ma vie "pro". Mon carnet serait pour le matin et le soir où je me poserai pendant 5-10 minutes (vraiment !) et j'écrirai tout ce qui me viendra en tête, etc... pour poser mes pensées, etc... Mon téléphone sera plus pour la journée, où j'aurai envie d'écrire ou de noter comment je me sens, etc... J'écrirai dans Samsung Notes.

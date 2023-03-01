@@ -1,0 +1,1 @@
+Philosophe de l'Antiquité, disciple de [[Socrate]] ayant répandues ces idées

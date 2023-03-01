@@ -1,0 +1,1 @@
+![[The Psychology of Money - quotes#2. Luck & risk]]

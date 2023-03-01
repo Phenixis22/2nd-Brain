@@ -1,0 +1,33 @@
+# #décembre-2022
+- [ ] 🗣️ Affirmations du soir ^01-12
+- [ ] 🗣️ Affirmations du soir ^02-12
+- [ ] 🗣️ Affirmations du soir ^03-12
+- [ ] 🗣️ Affirmations du soir ^04-12
+- [ ] 🗣️ Affirmations du soir ^05-12
+- [ ] 🗣️ Affirmations du soir ^06-12
+- [ ] 🗣️ Affirmations du soir ^07-12
+- [ ] 🗣️ Affirmations du soir ^08-12
+- [ ] 🗣️ Affirmations du soir ^09-12
+- [ ] 🗣️ Affirmations du soir ^10-12
+- [ ] 🗣️ Affirmations du soir ^11-12
+- [ ] 🗣️ Affirmations du soir ^12-12
+- [ ] 🗣️ Affirmations du soir ^13-12
+- [ ] 🗣️ Affirmations du soir ^14-12
+- [ ] 🗣️ Affirmations du soir ^15-12
+- [ ] 🗣️ Affirmations du soir ^16-12
+- [ ] 🗣️ Affirmations du soir ^17-12
+- [ ] 🗣️ Affirmations du soir ^18-12
+- [ ] 🗣️ Affirmations du soir ^19-12
+- [ ] 🗣️ Affirmations du soir ^20-12
+- [ ] 🗣️ Affirmations du soir ^21-12
+- [x] 🗣️ Affirmations du soir ^22-12
+- [ ] 🗣️ Affirmations du soir ^23-12
+- [ ] 🗣️ Affirmations du soir ^24-12
+- [ ] 🗣️ Affirmations du soir ^25-12
+- [ ] 🗣️ Affirmations du soir ^26-12
+- [ ] 🗣️ Affirmations du soir ^27-12
+- [ ] 🗣️ Affirmations du soir ^28-12
+- [ ] 🗣️ Affirmations du soir ^29-12
+- [ ] 🗣️ Affirmations du soir ^30-12
+- [ ] 🗣️ Affirmations du soir ^31-12
+

@@ -1,0 +1,56 @@
+- [x] Choisir ma philosophie de la profondeur
+	- [ ] Monastique
+	- [x] Bimodale
+		- Lundi-Vendredi = superficiel
+		- Samedi-Dimanche = profond
+		- Vacances = profond
+	- [ ] Rythmique
+	- [ ] Journalistique
+- [x] Créer un rituel 
+	- [x] Où et combien de temps ?
+		- Dans mon bureau
+		- Durée déterminée
+			- 2h45 le matin de 7h20 à 10h, pause possible au bout d'1heure et demi
+			- 1h30 l'après-midi
+	- [x] Rituel d'avant et d'après séance :
+		- [x] Avant
+			- Déterminer mes objectifs de la séance
+			- Mon critère d'efficacité
+			- Ma marque de fin
+		- [x] Après
+			- Noter les activités effectuées
+			- Noter l'heure de fin
+			- Mon efficacité
+			- Mon ressenti sur la séance
+	- [x] Quelle mesure/critère de profondeur ?
+		- cf critère d'efficacité notée juste avant la séance
+	- [x] Quel soutien de concentration ? (Café, marche, etc...)
+		- Eau
+		- Pause
+		- Énergie du réveil
+- [ ] Grands moyens ?
+	- Pour l'instant, avec ma philosophie de la profondeur, non. Mais l'année prochaine, quand je serai à Vannes, Nantes, ou n'importe où avec un appartement ou l'internat, j'irai à la bibliothèque/coffee shop/... pour avoir accès à un environnement de travail.
+- [ ] Collaboration ?
+	- Non je ne pense pas, car je n'ai pas pour l'instant de correspondant/mentor/pair avec qui communiqué, rivaliser, etc... Mais, dès que possible, oui !
+	- [ ] Si oui, avec qui ?
+- [ ] 4DX
+	- [x] Objectif précis, motivant et ambitieux
+		- cf objectifs d'avant séance pour objectifs à court termes
+		- Idées :
+			- Lire 52 livres par an
+			- Gagner 1000€ avec un travail sur internet (ventes, création de contenu, etc...)
+			- Bâtir une communauté que je peux aider, avec un serveur discord pour communiquer, etc...
+	- [x] S'évaluer selon les indicateurs stratégiques (nb heures)
+		- Compter le nombre d'heures chaque fin de journée et les noter
+	- [x] Tableau d'affichage stimulant
+		- Tableau juste au dessus de mon ordinateur
+		- Rappel de mes semaines les plus productives
+			- Top 3 des semaines selon mon nombre d'heures dans la profondeur
+			- Top 10 des semaines selon mon nombre d'heures dans la profondeur
+	- [x] Bilans hebdomadaires
+		- Pour calculer le nombre d'heures dans la profondeur et actualiser le classement
+		- Pour revoir les objectifs de la semaine précédente
+		- Pour écrire les objectifs de la semaine suivance
+- [x] Aucun travail le soir
+	- À partir de 20h le weekend
+	- À partir de 18h45 la semaine

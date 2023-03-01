@@ -1,0 +1,2 @@
+Une expression est une combinaison d'un ou de plusieurs valeurs qu'un langage de programmation va interpréter, calculer pour produire une valeur différente.
+Une instruction est la plus petit partie d'un élément indépendant de votre code qui attend qu'une action soit effectuée. Elle ne renvoie aucune valeur.

@@ -1,0 +1,1 @@
+Gamifier est un verbe signifiant "rendre ludique" quelque chose qui ne l'est pas

@@ -1,0 +1,1 @@
+![[L'Effet Cumulé - quotes#La mentalité micro-ondes]]

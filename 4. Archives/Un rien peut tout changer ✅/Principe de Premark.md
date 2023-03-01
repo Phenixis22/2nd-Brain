@@ -1,0 +1,1 @@
+Des comportements plus probables renforceront des comportements moins probables

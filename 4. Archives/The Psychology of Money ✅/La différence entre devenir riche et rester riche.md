@@ -1,0 +1,1 @@
+![[The Psychology of Money - quotes#5. Getting Wealthy Vs Staying wealthy]]

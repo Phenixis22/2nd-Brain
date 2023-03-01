@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#The Noticing Habits: Using Your Second Brain to Engineer Luck]]

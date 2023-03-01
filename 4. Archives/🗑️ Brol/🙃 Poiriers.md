@@ -1,0 +1,66 @@
+# #décembre-2022
+- [ ] 🙃 Poiriers (non effectué la veille) ^01-12
+- [ ] 🙃 Poiriers ^02-12
+- [ ] 🙃 Poiriers ^03-12
+- [ ] 🙃 Poiriers ^04-12
+- [ ] 🙃 Poiriers ^05-12
+- [x] 🙃 Poiriers ^06-12
+- [ ] 🙃 Poiriers ^07-12
+- [ ] 🙃 Poiriers ^08-12
+- [ ] 🙃 Poiriers ^09-12
+- [ ] 🙃 Poiriers ^10-12
+- [ ] 🙃 Poiriers ^11-12
+- [ ] 🙃 Poiriers ^12-12
+- [ ] 🙃 Poiriers ^13-12
+- [ ] 🙃 Poiriers ^14-12
+- [ ] 🙃 Poiriers ^15-12
+- [ ] 🙃 Poiriers ^16-12
+- [ ] 🙃 Poiriers ^17-12
+- [ ] 🙃 Poiriers ^18-12
+- [ ] 🙃 Poiriers ^19-12
+- [ ] 🙃 Poiriers ^20-12
+- [ ] 🙃 Poiriers ^21-12
+- [ ] 🙃 Poiriers ^22-12
+- [ ] 🙃 Poiriers ^23-12
+- [ ] 🙃 Poiriers ^24-12
+- [ ] 🙃 Poiriers ^25-12
+- [ ] 🙃 Poiriers ^26-12
+- [ ] 🙃 Poiriers ^27-12
+- [ ] 🙃 Poiriers ^28-12
+- [ ] 🙃 Poiriers ^29-12
+- [ ] 🙃 Poiriers ^30-12
+- [ ] 🙃 Poiriers ^31-12
+
+# #novembre-2022
+- [ ] Poiriers ^01-11
+- [ ] Poiriers ^02-11
+- [ ] Poiriers ^03-11
+- [ ] Poiriers ^04-11
+- [ ] Poiriers ^05-11
+- [ ] Poiriers ^06-11
+- [ ] Poiriers ^07-11
+- [ ] Poiriers ^08-11
+- [ ] Poiriers ^09-11
+- [ ] Poiriers ^10-11
+- [ ] Poiriers ^11-11
+- [ ] Poiriers ^12-11
+- [ ] Poiriers ^13-11
+- [ ] Poiriers ^14-11
+- [ ] Poiriers ^15-11
+- [ ] Poiriers ^16-11
+- [ ] Poiriers ^17-11
+- [ ] Poiriers ^18-11
+- [ ] Poiriers ^19-11
+- [ ] Poiriers ^20-11
+- [ ] Poiriers ^21-11
+- [ ] Poiriers ^22-11
+- [ ] Poiriers ^23-11
+- [ ] Poiriers ^24-11
+- [ ] Poiriers ^25-11
+- [ ] Poiriers ^26-11
+- [ ] Poiriers ^27-11
+- [x] Poiriers ^28-11
+- [x] Poiriers ^29-11
+- [ ] Poiriers ^30-11
+- [ ] Poiriers ^31-11
+

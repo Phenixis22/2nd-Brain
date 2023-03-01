@@ -1,0 +1,11 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 2,
+  "customFolder": "1. Projects/À Permanoter/L'Effet Cumulé/",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "[[{{new_note_title}}]]",
+  "refactoredNoteTemplate": "{{date:DD #MMMM-YYYY #YYYY-[W]WW}}\nSource : [[{{title}}]]\n\n![[L'Effet Cumulé - quotes#"
+}

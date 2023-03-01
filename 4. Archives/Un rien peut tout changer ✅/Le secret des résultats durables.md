@@ -1,0 +1,6 @@
+Source : [[Un rien peut tout changer - quotes#Conclusion : Le secret des résultats durables]]
+# Rééxplication avec mes mots
+```ad-quote
+title: "Un petit changement peut-il transformer votre vie ? Il est peu probable que vous l’admettiez. Mais si vous en ajoutez un ? Puis un autre ? Et ainsi de suite… À un moment donné, vous devrez admettre que votre vie a été transformée par de petits changements.Le succès n’est pas un objectif à atteindre ni une ligne d’arrivée à franchir.<br>C’est un système qui doit être amélioré, un processus qui doit être sans cesse peaufiné.<br>C’est un processus continu. Il n’y a pas de ligne d’arrivée. Il n’y a pas de solution unique et définitive. Chaque fois que vous cherchez à vous améliorer, vous pouvez passer d’une loi du changement de comportement à l’autre, jusqu’à rencontrer l’obstacle suivant.<br>Rendez-le évident. Rendez-le attrayant. Rendez-le facile. Rendez-le satisfaisant. Encore et encore.<br>Toujours en quête du prochain pourcentage d’amélioration réalisé."<br>*- James Clear*
+color: 204, 82, 0
+```

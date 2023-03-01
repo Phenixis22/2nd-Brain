@@ -1,0 +1,1 @@
+![[L'Effet Cumulé - quotes#L’effet ricochet]]

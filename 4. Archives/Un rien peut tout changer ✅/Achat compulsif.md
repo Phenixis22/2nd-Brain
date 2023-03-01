@@ -1,0 +1,3 @@
+Statut : #to-do 
+Tiré de [[Un rien peut tout changer - quotes]]:
+>En 1952, l’économiste Hawkins Stern décrivit un phénomène qu’il baptisa Achat compulsif basé sur une suggestion (Suggestion Impulse Buying ), qui « se déclenche lorsqu’un client voit un produit pour la première fois et en visualise le besoin ». En d’autres termes, les clients achèteront occasionnellement des produits non parce qu’ils les veulent, mais en raison de leur présentation.

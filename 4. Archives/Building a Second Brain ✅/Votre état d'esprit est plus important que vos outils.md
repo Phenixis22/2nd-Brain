@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#Mindset Over Toolset—The Quest for the Perfect App]]

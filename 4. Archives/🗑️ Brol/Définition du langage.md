@@ -1,0 +1,2 @@
+[[Les 4 accords Toltèques]]
+==Le langage est le **code de compréhension et de communication** entre êtres humains==. Chaque lettre, chaque mot de chaque langue ==représente **un point** sur lequel on s'est mis d'accord==.

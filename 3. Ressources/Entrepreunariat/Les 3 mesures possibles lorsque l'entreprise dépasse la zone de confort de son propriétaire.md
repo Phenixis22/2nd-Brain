@@ -1,0 +1,1 @@
+![[The E-Myth - quotes#Chapitre 5 SORTIR DE SA ZONE DE CONFORT]]

@@ -1,0 +1,7 @@
+[Stop being lazy](https://www.youtube.com/watch?v=BeYMuIo45O0)
+[Get up and make it happen](https://www.youtube.com/watch?v=Ym9a6kuoLVc)
+[Kill procrastination](https://www.youtube.com/watch?v=cReNMdszDX0)
+[Push yourself](https://www.youtube.com/watch?v=iIxRp_qFxyE)
+[Work harder than everybody](https://www.youtube.com/watch?v=x8dkKKSIySY)
+[Discipline your thoughts](https://www.youtube.com/watch?v=G2JojDC8N_s)
+[Don't stop](https://www.youtube.com/watch?v=dnWDQMXVEgY)

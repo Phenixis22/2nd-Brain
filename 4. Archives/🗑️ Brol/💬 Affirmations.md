@@ -1,0 +1,64 @@
+# #décembre-2022
+- [x] 💬 Affirmations ^01-12
+- [x] 💬 Affirmations ^02-12
+- [ ] 💬 Affirmations ^03-12
+- [ ] 💬 Affirmations ^04-12
+- [x] 💬 Affirmations ^05-12
+- [x] 💬 Affirmations ^06-12
+- [x] 💬 Affirmations ^07-12
+- [ ] 💬 Affirmations ^08-12
+- [x] 💬 Affirmations ^09-12
+- [x] 💬 Affirmations ^10-12
+- [x] 💬 Affirmations ^11-12
+- [x] 💬 Affirmations ^12-12
+- [x] 💬 Affirmations ^13-12
+- [ ] 💬 Affirmations ^14-12
+- [ ] 💬 Affirmations ^15-12
+- [ ] 💬 Affirmations ^16-12
+- [ ] 💬 Affirmations ^17-12
+- [ ] 💬 Affirmations ^18-12
+- [x] 💬 Affirmations ^19-12
+- [ ] 💬 Affirmations ^20-12
+- [ ] 💬 Affirmations ^21-12
+- [ ] 💬 Affirmations ^22-12
+- [ ] 💬 Affirmations ^23-12
+- [x] 💬 Affirmations ^24-12
+- [ ] 💬 Affirmations ^25-12
+- [ ] 💬 Affirmations ^26-12
+- [ ] 💬 Affirmations ^27-12
+- [ ] 💬 Affirmations ^28-12
+- [ ] 💬 Affirmations ^29-12
+- [ ] 💬 Affirmations ^30-12
+- [ ] 💬 Affirmations ^31-12
+
+# #novembre-2022
+- [ ] Affirmations ^01-11
+- [ ] Affirmations ^02-11
+- [ ] Affirmations ^03-11
+- [ ] Affirmations ^04-11
+- [ ] Affirmations ^05-11
+- [ ] Affirmations ^06-11
+- [ ] Affirmations ^07-11
+- [ ] Affirmations ^08-11
+- [ ] Affirmations ^09-11
+- [ ] Affirmations ^10-11
+- [ ] Affirmations ^11-11
+- [ ] Affirmations ^12-11
+- [ ] Affirmations ^13-11
+- [ ] Affirmations ^14-11
+- [ ] Affirmations ^15-11
+- [ ] Affirmations ^16-11
+- [ ] Affirmations ^17-11
+- [ ] Affirmations ^18-11
+- [ ] Affirmations ^19-11
+- [ ] Affirmations ^20-11
+- [x] Affirmations ^21-11
+- [ ] Affirmations ^22-11
+- [x] Affirmations ^23-11
+- [x] Affirmations ^24-11
+- [x] Affirmations ^25-11
+- [x] Affirmations ^26-11
+- [x] Affirmations ^27-11
+- [x] Affirmations ^28-11
+- [x] Affirmations ^29-11
+- [x] Affirmations ^30-11

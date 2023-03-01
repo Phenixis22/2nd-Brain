@@ -1,0 +1,14 @@
+# Matin
+%%Que souhaitez-vous réellement ?%% Je ne veux plus faire de bêtises à cause de ma maladresse%%Pourquoi souhaitez-vous cela ?%% car cette dernière est un poids pour moi et mes proches.%%Qui vous-engagez vous à être pour cela ?%% Je m'engage à être adroit et à faire attention à mes mouvements %%Que vous-engagez vous à faire pour obtenir cela%%en prenant conscience de mes gestes et en m'assurant de les faire de manière contrôlée.
+
+%%Que souhaitez-vous réellement ?%% Je ne veux plus voir les objets à vendre comme des produits à consommer mais plutôt comme des sources d'idées%%Pourquoi souhaitez-vous cela ?%% car je veux aider le monde entier en créant des produits utiles à leurs vies.%%Qui vous-engagez vous à être pour cela ?%% Je m'engage à prendre le point de vue d'un producteur et non d'un consommateur%%Que vous-engagez vous à faire pour obtenir cela%% en me demandant ce que je peux apprendre d'un produit à vendre, d'une mise en vente, etc...
+
+%%Que souhaitez-vous réellement ?%% Je veux **avoir le contrôle** sur ce que je fais, ce que je ne fais pas, et que ces actions soient en adéquation avec mes objectifs les plus profonds%%Pourquoi souhaitez-vous cela ?%% car c'est uniquement avec ce contrôle que je pourrai **atteindre ces objectifs**.%%Qui vous-engagez vous à être pour cela ?%% Je m'engage à devenir **pleinement responsable** de mes actes%%Que vous-engagez vous à faire pour obtenir cela%% en étant **discipliné**, **persévérant** et **résilient** %%Ajoutez des citations et des philosophies qui vous inspirent%% comme les personnes ayant le plus de **succès**.
+
+Mon corps est programmé pour s'endormir à 22h30. Je serai donc prêt à dormir à 22h30 pour me reposer pendant 7h30 jusqu'au matin suivant. En attendant, je vais passer une journée productive qui me rendra fier de moi.
+# Soir
+C'est l'heure pour moi d'aller me coucher. Je viens de passer une magnifique journée, une journée pleine de vie avec de bons comme de mauvais moments. Je vais passer une nuit de sommeil suffisante, reposante et calme. Ces quelques heures de sommeil sont importantes car elles me permettront de remplir ma barre d'énergie et ma barre de volonté.
+
+Mon corps est programmé pour se réveiller à 6h10. Je me réveillerai donc en pleine forme, prêt à attaquer une autre journée idéale ! Je commencerai par aller aux toilettes pour me réveiller grâce aux mouvements et à la lumière. Je ferai 2-3 salutations au soleil ensuite, pour me réveiller physiquement avant de méditer afin de me réveiller spirituellement. Ainsi, ma journée se débutera calmement.
+
+Il est maintenant temps pour moi de me reposer, de calmer mon esprit, de respirer profondément et de m'endormir paisiblement. J'applique le mélange d'huile essentielle sur mes poignets, je trouve une position confortable et ferme les yeux afin de m'endormir.

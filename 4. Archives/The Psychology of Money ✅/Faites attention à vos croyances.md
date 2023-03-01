@@ -1,0 +1,1 @@
+![[The Psychology of Money - quotes#18. When you'll believe everything]]

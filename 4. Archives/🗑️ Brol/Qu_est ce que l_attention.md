@@ -1,0 +1,1 @@
+L'attention est ==la capacité à être sélectif et à **se concentrer exclusivement** sur ce que l'on veut percevoir==. Nous sommes capables de ==percevoir **des millions** de choses simultanément==, mais ==en utilisant notre attention, **nous pouvons maintenir ce que nous voulons au premier plan** de notre conscience==

@@ -1,0 +1,1 @@
+![[The E-Myth - quotes#Chapitre 2 L’ENTREPRENEUR, LE MANAGER ET LE TECHNICIEN]]

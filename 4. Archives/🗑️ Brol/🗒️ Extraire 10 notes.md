@@ -1,0 +1,65 @@
+# #décembre-2022
+- [ ] 🗒️ Extraire 10 notes (non effectué la veille) ^01-12
+- [ ] 🗒️ Extraire 10 notes ^02-12
+- [ ] 🗒️ Extraire 10 notes ^03-12
+- [ ] 🗒️ Extraire 10 notes ^04-12
+- [ ] 🗒️ Extraire 10 notes ^05-12
+- [ ] 🗒️ Extraire 10 notes ^06-12
+- [ ] 🗒️ Extraire 10 notes ^07-12
+- [ ] 🗒️ Extraire 10 notes ^08-12
+- [ ] 🗒️ Extraire 10 notes ^09-12
+- [ ] 🗒️ Extraire 10 notes ^10-12
+- [ ] 🗒️ Extraire 10 notes ^11-12
+- [ ] 🗒️ Extraire 10 notes ^12-12
+- [ ] 🗒️ Extraire 10 notes ^13-12
+- [ ] 🗒️ Extraire 10 notes ^14-12
+- [ ] 🗒️ Extraire 10 notes ^15-12
+- [ ] 🗒️ Extraire 10 notes ^16-12
+- [ ] 🗒️ Extraire 10 notes ^17-12
+- [ ] 🗒️ Extraire 10 notes ^18-12
+- [ ] 🗒️ Extraire 10 notes ^19-12
+- [ ] 🗒️ Extraire 10 notes ^20-12
+- [ ] 🗒️ Extraire 10 notes ^21-12
+- [ ] 🗒️ Extraire 10 notes ^22-12
+- [ ] 🗒️ Extraire 10 notes ^23-12
+- [ ] 🗒️ Extraire 10 notes ^24-12
+- [ ] 🗒️ Extraire 10 notes ^25-12
+- [ ] 🗒️ Extraire 10 notes ^26-12
+- [ ] 🗒️ Extraire 10 notes ^27-12
+- [ ] 🗒️ Extraire 10 notes ^28-12
+- [ ] 🗒️ Extraire 10 notes ^29-12
+- [ ] 🗒️ Extraire 10 notes ^30-12
+- [ ] 🗒️ Extraire 10 notes ^31-12
+
+# #novembre-2022
+- [ ] Extraire 10 notes ^01-11
+- [ ] Extraire 10 notes ^02-11
+- [ ] Extraire 10 notes ^03-11
+- [ ] Extraire 10 notes ^04-11
+- [ ] Extraire 10 notes ^05-11
+- [ ] Extraire 10 notes ^06-11
+- [ ] Extraire 10 notes ^07-11
+- [ ] Extraire 10 notes ^08-11
+- [ ] Extraire 10 notes ^09-11
+- [ ] Extraire 10 notes ^10-11
+- [ ] Extraire 10 notes ^11-11
+- [ ] Extraire 10 notes ^12-11
+- [ ] Extraire 10 notes ^13-11
+- [ ] Extraire 10 notes ^14-11
+- [ ] Extraire 10 notes ^15-11
+- [ ] Extraire 10 notes ^16-11
+- [ ] Extraire 10 notes ^17-11
+- [ ] Extraire 10 notes ^18-11
+- [ ] Extraire 10 notes ^19-11
+- [ ] Extraire 10 notes ^20-11
+- [ ] Extraire 10 notes ^21-11
+- [ ] Extraire 10 notes ^22-11
+- [ ] Extraire 10 notes ^23-11
+- [ ] Extraire 10 notes ^24-11
+- [ ] Extraire 10 notes ^25-11
+- [ ] Extraire 10 notes ^26-11
+- [x] Extraire 10 notes ^27-11
+- [/] Extraire 10 notes ^28-11
+- [x] Extraire 10 notes (non effectué la veille) ^29-11
+- [ ] Extraire 10 notes ^30-11
+

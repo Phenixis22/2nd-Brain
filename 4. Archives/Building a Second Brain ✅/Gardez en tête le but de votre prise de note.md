@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#Your Turn: Keep Your Future Self in Mind]]

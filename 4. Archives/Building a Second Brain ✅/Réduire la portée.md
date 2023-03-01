@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#3. Dial Down the Scope: Ship Something Small and Concrete]]

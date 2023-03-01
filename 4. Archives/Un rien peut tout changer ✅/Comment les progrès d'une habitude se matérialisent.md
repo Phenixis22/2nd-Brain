@@ -1,0 +1,2 @@
+<mark class="hltr-default">Les progrès dû à une habitude ne sont pas réguliers.</mark> Les premiers jours, premières semaines ne montrent très peu de résultats. Les habitudes ne semblent faire aucune différence jusqu'à ce qu'un seuil, appelé "Le plateau du Potentiel Latent" par James Clear dans [[Un rien peut tout changer]], soit atteint. Voilà comment visualiser les progrès d'une habitude :
+![[Plateau du potentiel latent.png]]

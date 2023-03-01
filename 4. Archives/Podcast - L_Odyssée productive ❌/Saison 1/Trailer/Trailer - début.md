@@ -1,0 +1,3 @@
+Légende : </br> **gras** = appuyer sur le mot </br> <u>souligné</u> = finir le mot doucement </br> [nb] = laisse un blanc de à peu près nb seconde
+
+Bonjour et bienvenue dans l'Odyssée productive ! Le principe de ce podcast est de vous proposer un <u>voyage</u>. Un voyage mélant **aventure**, **apprentissage** et <u>découverte</u>. [1] Je vous narrerai une histoire chaque **jour** durant ce voyage et un **résumé** en fin de <u>semaine</u>, de ce que notre héros aura vécu durant cette période.

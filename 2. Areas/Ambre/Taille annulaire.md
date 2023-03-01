@@ -1,0 +1,1 @@
+55mm de circonférence et 19-20mm de diamètre

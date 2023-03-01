@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"efc59ea8278136f6","x":-142,"y":-103,"width":207,"height":95,"color":"1","type":"text","text":"# Chambre\nDimensions : \nUtilité : \n"},
+		{"id":"5f0ac7e88d4aa22e","x":-142,"y":-8,"width":207,"height":95,"color":"#00ccff","type":"text","text":"# Salle de bain 1\nDimensions : \nUtilité : \n"}
+	],
+	"edges":[
+		{"id":"bc553a1a19a3d982","fromNode":"efc59ea8278136f6","fromSide":"bottom","toNode":"5f0ac7e88d4aa22e","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+[Ali Abdaal a fait une vidéo sur les CVs qu'il a lu](https://www.youtube.com/watch?v=MqXjqOy-TA8)

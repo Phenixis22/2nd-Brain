@@ -1,0 +1,5 @@
+Source : [[The Only Study Guide You'll Ever Need - quotes]]
+# Rééxplication avec mes mots
+Plus que lier vos idées à des objets courant de votre vie, vous pouvez lier les objets que vous aurez dans la salle d'examen avec des connaissances. C'est comme cela que sortir une suite de stylos de votre trousse vous pemettra de vous rappeler de vos définitions. Comme dit dans [[Le palace mental de Sherlock Holmes|cette note]], cette technique est basée sur la création d'[[Faites des associations|associations]] et sur [[Les rappels actifs]] de [[La technique SAAD]]. Mais comment cela se fait ? Simplement parce que vous créez des liens entre une idée abstraite et un objet physique. Et ensuite, vous répétez l'idée abstraite au point de rendre cela automatique. Sauf que, au début, lorsque vous essayez de vous rappelez ce que vous avez lié à tel ou tel objet, vous utilisez les rappels actifs ce qui vous aide encore plus à emmagasiner l'idée.
+# Les liens
+Extension du [[Le palace mental de Sherlock Holmes|palace mental de Sherlock Holmes]] 

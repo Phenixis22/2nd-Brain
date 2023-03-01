@@ -1,0 +1,10 @@
+Source : [[The Only Study Guide You'll Ever Need - quotes]]
+# Rééxplication avec mes mots
+Pour s'assurer de l'efficacité de votre examen blanc, respectez ces règles :
+- **Utilisez des questions déjà répondues auparavant**. Vous aurez ainsi la réponse exacte et demandée comme corrigé. Cela vous assure d'avoir des questions proches de celles pouvant être posées lors de l'examen. Si vous n'avez pas de question généraliste sur les sujets que vous voulez aborder, n'hésitez pas à demander à votre professeur de vous en faire une.
+- **Chronométrez vous**. Connaître le temps qu'il vous faut pour répondre parfaitement à un examen blanc vous permet de vous améliorer avec le temps^[[[3. Ressources/Productivité/Quotes#^1]]]. 
+- **Faites toujours un plan**. Un examen blanc avec un plan est toujours mieux réussi qu'un examen sans. Avoir une route claire et précise à suivre vous permet d'aller plus rapidement sans être mis en danger. C'est pareil avec les examens : si vous préparez ce que vous allez faire, vous pourrez vous lancer tête baissé sans avoir peur de mal faire car vous suivrez la route prévues, votre GPS sera en marche en train de vous guider.
+- **Organisez et structurez**. Avoir une structure claire et facile à suivre vous permettra de laisser votre inconscient travailler pour vous. Vous n'aurez juste à suivre la méthode qu'il a enregistrée. Ce point est particulièrement important pour les dissertations qui ont [[Macro et micro structure d'une dissertation|une macro et une micro structure]].
+- **Ayez toujours différents mots pour "suggérer"**. Si votre examen se base sur de nombreux documents, citations, sources, etc... utiliser un seul et même mot rendra votre texte plus lisible mais redondant. Mémorisez une liste de mot sophistiqués pour introduire^[ [[Mots d'introduction de données]]] vos sources annexes et vous en serez récompensés. 
+- **Demander l'avis de quelqu'un sur votre copie**. Basé sur [[L'effet Ikéa]], il est préférable de montrer votre copie à quelqu'un ayant un avis extérieur car ce dernier saura être objectif. Il n'y a rien de plus puissant qu'un retour sur vos écrits.
+# Les liens

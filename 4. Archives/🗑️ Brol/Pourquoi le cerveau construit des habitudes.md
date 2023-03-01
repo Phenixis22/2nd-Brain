@@ -1,0 +1,1 @@
+<mark class="hltr-default">Les habitudes sont des solutions **fiables** aux problèmes **récurrents**</mark> de notre environnement. Le cerveau crée une règle mentale : s'il se passe ceci, alors fais cela. Grâce à cela, <mark class="hltr-default">le cerveau **libère l'espace mental** nécessaire à la liberté de pensée et à la créativité</mark>.

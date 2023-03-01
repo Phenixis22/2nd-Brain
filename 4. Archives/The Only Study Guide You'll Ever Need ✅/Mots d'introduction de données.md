@@ -1,0 +1,8 @@
+- Souligne
+- Montre que
+- Signifie
+- Prouve
+- Corrobore
+- Indique
+- Implique
+- Connotes

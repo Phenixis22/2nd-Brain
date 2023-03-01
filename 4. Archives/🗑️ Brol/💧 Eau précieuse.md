@@ -1,0 +1,64 @@
+# #décembre-2022
+- [x] 💧 Eau précieuse ^01-12
+- [x] 💧 Eau précieuse ^02-12
+- [ ] 💧 Eau précieuse ^03-12
+- [ ] 💧 Eau précieuse ^04-12
+- [x] 💧 Eau précieuse ^05-12
+- [ ] 💧 Eau précieuse ^06-12
+- [x] 💧 Eau précieuse ^07-12
+- [x] 💧 Eau précieuse ^08-12
+- [x] 💧 Eau précieuse ^09-12
+- [x] 💧 Eau précieuse ^10-12
+- [ ] 💧 Eau précieuse ^11-12
+- [x] 💧 Eau précieuse ^12-12
+- [ ] 💧 Eau précieuse ^13-12
+- [ ] 💧 Eau précieuse ^14-12
+- [ ] 💧 Eau précieuse ^15-12
+- [ ] 💧 Eau précieuse ^16-12
+- [ ] 💧 Eau précieuse ^17-12
+- [ ] 💧 Eau précieuse ^18-12
+- [ ] 💧 Eau précieuse ^19-12
+- [ ] 💧 Eau précieuse ^20-12
+- [ ] 💧 Eau précieuse ^21-12
+- [ ] 💧 Eau précieuse ^22-12
+- [ ] 💧 Eau précieuse ^23-12
+- [ ] 💧 Eau précieuse ^24-12
+- [ ] 💧 Eau précieuse ^25-12
+- [ ] 💧 Eau précieuse ^26-12
+- [ ] 💧 Eau précieuse ^27-12
+- [ ] 💧 Eau précieuse ^28-12
+- [ ] 💧 Eau précieuse ^29-12
+- [ ] 💧 Eau précieuse ^30-12
+- [ ] 💧 Eau précieuse ^31-12
+
+# #novembre-2022
+- [ ] 💧 Eau précieuse ^01-11
+- [ ] 💧 Eau précieuse ^02-11
+- [ ] 💧 Eau précieuse ^03-11
+- [ ] 💧 Eau précieuse ^04-11
+- [ ] 💧 Eau précieuse ^05-11
+- [ ] 💧 Eau précieuse ^06-11
+- [ ] 💧 Eau précieuse ^07-11
+- [ ] 💧 Eau précieuse ^08-11
+- [ ] 💧 Eau précieuse ^09-11
+- [ ] 💧 Eau précieuse ^10-11
+- [ ] 💧 Eau précieuse ^11-11
+- [ ] 💧 Eau précieuse ^12-11
+- [ ] 💧 Eau précieuse ^13-11
+- [ ] 💧 Eau précieuse ^14-11
+- [ ] 💧 Eau précieuse ^15-11
+- [ ] 💧 Eau précieuse ^16-11
+- [ ] 💧 Eau précieuse ^17-11
+- [ ] 💧 Eau précieuse ^18-11
+- [ ] 💧 Eau précieuse ^19-11
+- [ ] 💧 Eau précieuse ^20-11
+- [x] 💧 Eau précieuse ^21-11
+- [/] 💧 Eau précieuse ^22-11
+- [x] 💧 Eau précieuse ^23-11
+- [x] 💧 Eau précieuse ^24-11
+- [/] 💧 Eau précieuse ^25-11
+- [/] 💧 Eau précieuse ^26-11
+- [x] 💧 Eau précieuse ^27-11
+- [/] 💧 Eau précieuse ^28-11
+- [x] 💧 Eau précieuse  (non effectué la veille) ^29-11
+- [x] 💧 Eau précieuse ^30-11

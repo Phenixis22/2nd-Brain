@@ -1,0 +1,4 @@
+Source : [[Un rien peut tout changer - quotes#Comment revenir à de bonnes habitudes après avoir « dérapé » ?]]
+# Rééxplication avec mes mots
+Utilisez une règle simple mais extrêmement importante: "Jamais deux fois de suite". Faites de votre priorité le fait d'effectuer votre habitude la fois suivante. Vous ne pouvez pas être parfait, mais vous pouvez rebondir. Une erreur ne fait pas de vous un perdant, ce qui fait de vous un perdant est de prendre l'habitude de ne pas faire votre habitude. Perdre une habitude pendant un court laps de temps, 1 jour ou à 1 reprise, n'a pas d'importance tant que cela reste un court laps de temps. Il est difficile de poursuivre une habitude aussi bien que l'on le voudrait, mais rien n'est parfait donc quelques erreurs contenues ne vous feront pas abandonnées tant qu'elles restent contenues.  
+# Les liens

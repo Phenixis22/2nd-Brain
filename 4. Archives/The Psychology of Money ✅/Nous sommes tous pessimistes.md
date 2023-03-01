@@ -1,0 +1,1 @@
+![[The Psychology of Money - quotes#17. The seduction of pessimism]]

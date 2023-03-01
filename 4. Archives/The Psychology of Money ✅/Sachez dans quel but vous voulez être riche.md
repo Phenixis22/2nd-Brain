@@ -1,0 +1,1 @@
+![[The Psychology of Money - quotes#8. Man in the car paradox]]

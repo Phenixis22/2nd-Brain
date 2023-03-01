@@ -1,0 +1,1 @@
+Quelqu'un qui rentre dans un club fermé très sélectif mais qui doit accepter un accord avec des personnes contre ce club.

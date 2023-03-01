@@ -1,0 +1,1 @@
+https://0220056s.pronote.toutatice.fr/pronote/mobile.eleve.html

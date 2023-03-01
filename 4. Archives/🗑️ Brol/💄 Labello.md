@@ -1,0 +1,64 @@
+# #décembre-2022
+- [x] 💄 Labello ^01-12
+- [x] 💄 Labello ^02-12
+- [x] 💄 Labello ^03-12
+- [ ] 💄 Labello ^04-12
+- [x] 💄 Labello ^05-12
+- [x] 💄 Labello ^06-12
+- [ ] 💄 Labello ^07-12
+- [x] 💄 Labello ^08-12
+- [x] 💄 Labello ^09-12
+- [ ] 💄 Labello ^10-12
+- [ ] 💄 Labello ^11-12
+- [ ] 💄 Labello ^12-12
+- [ ] 💄 Labello ^13-12
+- [ ] 💄 Labello ^14-12
+- [ ] 💄 Labello ^15-12
+- [ ] 💄 Labello ^16-12
+- [ ] 💄 Labello ^17-12
+- [ ] 💄 Labello ^18-12
+- [ ] 💄 Labello ^19-12
+- [ ] 💄 Labello ^20-12
+- [ ] 💄 Labello ^21-12
+- [ ] 💄 Labello ^22-12
+- [ ] 💄 Labello ^23-12
+- [ ] 💄 Labello ^24-12
+- [ ] 💄 Labello ^25-12
+- [ ] 💄 Labello ^26-12
+- [ ] 💄 Labello ^27-12
+- [ ] 💄 Labello ^28-12
+- [ ] 💄 Labello ^29-12
+- [ ] 💄 Labello ^30-12
+- [ ] 💄 Labello ^31-12
+
+# #novembre-2022
+- [ ] Labello ^01-11
+- [ ] Labello ^02-11
+- [ ] Labello ^03-11
+- [ ] Labello ^04-11
+- [ ] Labello ^05-11
+- [ ] Labello ^06-11
+- [ ] Labello ^07-11
+- [ ] Labello ^08-11
+- [ ] Labello ^09-11
+- [ ] Labello ^10-11
+- [ ] Labello ^11-11
+- [ ] Labello ^12-11
+- [ ] Labello ^13-11
+- [ ] Labello ^14-11
+- [ ] Labello ^15-11
+- [ ] Labello ^16-11
+- [ ] Labello ^17-11
+- [ ] Labello ^18-11
+- [ ] Labello ^19-11
+- [ ] Labello ^20-11
+- [ ] Labello ^21-11
+- [ ] Labello ^22-11
+- [ ] Labello ^23-11
+- [ ] Labello ^24-11
+- [ ] Labello ^25-11
+- [ ] Labello ^26-11
+- [ ] Labello ^27-11
+- [ ] Labello ^28-11
+- [x] Labello ^29-11
+- [x] Labello ^30-11

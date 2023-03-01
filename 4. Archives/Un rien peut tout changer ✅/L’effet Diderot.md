@@ -1,0 +1,1 @@
+Selon l'effet Diderot, l'obtention d'une nouvelle possession crée souvent une spirale de consommation entraînant des achats supplémentaires.

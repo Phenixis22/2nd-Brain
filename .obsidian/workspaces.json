@@ -1,0 +1,931 @@
+{
+  "workspaces": {
+    "Prise de note sur contenu": {
+      "main": {
+        "id": "1c988a0020053269",
+        "type": "split",
+        "children": [
+          {
+            "id": "eeead39075810a69",
+            "type": "tabs",
+            "dimension": 87.146529562982,
+            "children": [
+              {
+                "id": "94e659b2f410fd4a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "1926b6ff19397989",
+            "type": "tabs",
+            "dimension": 12.853470437017995,
+            "children": [
+              {
+                "id": "b06ad69e65013d07",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5. À Trier/Contenu à consommer.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "467ed834481dd168",
+        "type": "split",
+        "children": [
+          {
+            "id": "5766bd06716315b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b06f1076e58d391c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a54f60dc50dbb1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#toDistill",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d5a87bc3fd472a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e301d1e2df3b0d68",
+        "type": "split",
+        "children": [
+          {
+            "id": "1014f3cb274802b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "020c994e20c194a4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "87cc813311a1f990",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ecf476380b6072e5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a457879aa669d30f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "94e659b2f410fd4a"
+    },
+    "Unité actuelle": {
+      "main": {
+        "id": "1c988a0020053269",
+        "type": "split",
+        "children": [
+          {
+            "id": "e5c15ae4551f8f50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75fafd26a513d4c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Areas/Finlande/Finnois/Unité 09.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "ef3e408f489779cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Areas/Finlande/Finnois/Verbes et conjugaison.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "6a40f6689fb4f099",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Areas/Finlande/Finnois/Duolingo Finnois.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "467ed834481dd168",
+        "type": "split",
+        "children": [
+          {
+            "id": "5766bd06716315b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b06f1076e58d391c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a54f60dc50dbb1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#toDistill",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d5a87bc3fd472a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e301d1e2df3b0d68",
+        "type": "split",
+        "children": [
+          {
+            "id": "1014f3cb274802b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "020c994e20c194a4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2. Areas/Finlande/Finnois/Unité 09.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "87cc813311a1f990",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2. Areas/Finlande/Finnois/Unité 09.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ecf476380b6072e5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a457879aa669d30f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2. Areas/Finlande/Finnois/Unité 09.md"
+                  }
+                }
+              },
+              {
+                "id": "6e3eb06100334273",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Ouvrir la note quotidienne": false,
+          "cmdr:Open this week": false,
+          "cmdr:Open this month": false,
+          "cmdr:Open this year": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+          "switcher:Ouvrir le sélecteur rapide": true,
+          "graph:Ouvrir la vue graphique": true,
+          "canvas:Create new canvas": true,
+          "templates:Insérer le modèle": true,
+          "command-palette:Ouvrir la palette de commandes": true,
+          "audio-recorder:Démarrer / arrêter l'enregistrement": true,
+          "workspaces:Gérer les espaces de travail": true,
+          "periodic-notes:Open this week": true
+        }
+      },
+      "active": "75fafd26a513d4c8"
+    },
+    "Newsletter": {
+      "main": {
+        "id": "1c988a0020053269",
+        "type": "split",
+        "children": [
+          {
+            "id": "4a7579c756721bbd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a4b8b3025939134",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Ali Abdaal/Newsletter - Ali Abdaal.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "2ff5f84b615d4ea9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Nico/Newsletter - Nico.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "a6ea3a3d04847ec1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/James Clear/Newsletter - James Clear.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "eda35ba5d41e301c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Morning Brew/Newsletter - Morning Brew.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "75f2b8ad3b5d0b88",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Money Scoop/Newsletter - Money Scoop.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "ecd68b29f2de1b53",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Incrypto/Newsletter - Incrypto.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "5ebf3cb304c93d12",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Newsletter - Eliott Meunier.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "a575fba952d4b1f4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Newsletter - Kaizen Lane.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "467ed834481dd168",
+        "type": "split",
+        "children": [
+          {
+            "id": "5766bd06716315b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b06f1076e58d391c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a54f60dc50dbb1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#toDistill",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d5a87bc3fd472a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e301d1e2df3b0d68",
+        "type": "split",
+        "children": [
+          {
+            "id": "1014f3cb274802b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "020c994e20c194a4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Ali Abdaal/Newsletter - Ali Abdaal.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "87cc813311a1f990",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Ali Abdaal/Newsletter - Ali Abdaal.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ecf476380b6072e5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a457879aa669d30f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4. Archives/Newsletter/Ali Abdaal/Newsletter - Ali Abdaal.md"
+                  }
+                }
+              },
+              {
+                "id": "229dbfc3c808ff62",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "0a4b8b3025939134"
+    },
+    "Veille": {
+      "main": {
+        "id": "1c988a0020053269",
+        "type": "split",
+        "children": [
+          {
+            "id": "f19a4fe610a9e376",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54e71c6f9b72538b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "467ed834481dd168",
+        "type": "split",
+        "children": [
+          {
+            "id": "5766bd06716315b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b06f1076e58d391c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a54f60dc50dbb1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#toDistill",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d5a87bc3fd472a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e301d1e2df3b0d68",
+        "type": "split",
+        "children": [
+          {
+            "id": "1014f3cb274802b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "020c994e20c194a4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "87cc813311a1f990",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ecf476380b6072e5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a457879aa669d30f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "54e71c6f9b72538b"
+    },
+    "Extraction": {
+      "main": {
+        "id": "1c988a0020053269",
+        "type": "split",
+        "children": [
+          {
+            "id": "fa0e66d0f5da3fd5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "62020d0a042b90e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/À Permanoter/L'Effet Cumulé/L'Effet Cumulé - quotes.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "b4b6a0cb813adefa",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "3. Ressources/Pièces jointes/PDF/Livres/L'effet cumulé.pdf"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2005fe323fc9d58f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f8f771757fa255c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/À Permanoter/L'Effet Cumulé/L'Effet cumulé.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "c9b412cd2bc3eda0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/À Permanoter/L'Effet Cumulé/Vos choix, votre succès.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "467ed834481dd168",
+        "type": "split",
+        "children": [
+          {
+            "id": "5766bd06716315b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b06f1076e58d391c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a54f60dc50dbb1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#toDistill",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d5a87bc3fd472a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e301d1e2df3b0d68",
+        "type": "split",
+        "children": [
+          {
+            "id": "1014f3cb274802b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "020c994e20c194a4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1. Projects/À Permanoter/L'Effet Cumulé/Vos choix, votre succès.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "87cc813311a1f990",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1. Projects/À Permanoter/L'Effet Cumulé/Vos choix, votre succès.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ecf476380b6072e5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a457879aa669d30f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1. Projects/À Permanoter/L'Effet Cumulé/Vos choix, votre succès.md"
+                  }
+                }
+              },
+              {
+                "id": "229dbfc3c808ff62",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Ouvrir la note quotidienne": false,
+          "cmdr:Open this week": false,
+          "cmdr:Open this month": false,
+          "cmdr:Open this year": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+          "switcher:Ouvrir le sélecteur rapide": true,
+          "graph:Ouvrir la vue graphique": true,
+          "canvas:Create new canvas": true,
+          "templates:Insérer le modèle": true,
+          "command-palette:Ouvrir la palette de commandes": true,
+          "audio-recorder:Démarrer / arrêter l'enregistrement": true,
+          "workspaces:Gérer les espaces de travail": true,
+          "periodic-notes:Open this week": true
+        }
+      },
+      "active": "c9b412cd2bc3eda0"
+    }
+  },
+  "active": "Unité actuelle"
+}

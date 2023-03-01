@@ -1,0 +1,65 @@
+# #décembre-2022
+- [x] Morse (non effectué la veille) ^01-12
+- [x] Morse ^02-12
+- [ ] Morse ^03-12
+- [ ] Morse ^04-12
+- [ ] Morse ^05-12
+- [x] Morse ^06-12
+- [ ] Morse ^07-12
+- [ ] Morse ^08-12
+- [ ] Morse ^09-12
+- [x] Morse ^10-12
+- [x] Morse ^11-12
+- [ ] Morse ^12-12
+- [ ] Morse ^13-12
+- [ ] Morse ^14-12
+- [ ] Morse ^15-12
+- [ ] Morse ^16-12
+- [ ] Morse ^17-12
+- [ ] Morse ^18-12
+- [x] Morse ^19-12
+- [ ] Morse ^20-12
+- [ ] Morse ^21-12
+- [ ] Morse ^22-12
+- [ ] Morse ^23-12
+- [ ] Morse ^24-12
+- [ ] Morse ^25-12
+- [ ] Morse ^26-12
+- [ ] Morse ^27-12
+- [ ] Morse ^28-12
+- [ ] Morse ^29-12
+- [ ] Morse ^30-12
+- [ ] Morse ^31-12
+
+# #novembre-2022
+- [ ] Morse ^01-11
+- [ ] Morse ^02-11
+- [ ] Morse ^03-11
+- [ ] Morse ^04-11
+- [ ] Morse ^05-11
+- [ ] Morse ^06-11
+- [ ] Morse ^07-11
+- [ ] Morse ^08-11
+- [ ] Morse ^09-11
+- [ ] Morse ^10-11
+- [ ] Morse ^11-11
+- [ ] Morse ^12-11
+- [ ] Morse ^13-11
+- [ ] Morse ^14-11
+- [ ] Morse ^15-11
+- [ ] Morse ^16-11
+- [ ] Morse ^17-11
+- [ ] Morse ^18-11
+- [ ] Morse ^19-11
+- [ ] Morse ^20-11
+- [ ] Morse ^21-11
+- [ ] Morse ^22-11
+- [ ] Morse ^23-11
+- [ ] Morse ^24-11
+- [ ] Morse ^25-11
+- [ ] Morse ^26-11
+- [ ] Morse ^27-11
+- [/] Morse ^28-11
+- [x] Morse (non enfectué la veille) ^29-11
+- [ ] Morse ^30-11
+

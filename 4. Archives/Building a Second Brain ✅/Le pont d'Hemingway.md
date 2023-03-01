@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#2. The Hemingway Bridge: Use Yesterday’s Momentum Today]]

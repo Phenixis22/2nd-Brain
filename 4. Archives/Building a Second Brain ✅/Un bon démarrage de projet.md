@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#Checklist 1: Project Kickoff]]

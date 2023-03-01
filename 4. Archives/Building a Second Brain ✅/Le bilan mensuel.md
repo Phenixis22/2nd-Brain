@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#A Monthly Review Template: Reflect for Clarity and Control]]

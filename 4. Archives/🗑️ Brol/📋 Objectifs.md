@@ -1,0 +1,33 @@
+# #décembre-2022
+- [ ] 📋 Objectifs ^01-12
+- [ ] 📋 Objectifs ^02-12
+- [ ] 📋 Objectifs ^03-12
+- [ ] 📋 Objectifs ^04-12
+- [ ] 📋 Objectifs ^05-12
+- [ ] 📋 Objectifs ^06-12
+- [ ] 📋 Objectifs ^07-12
+- [ ] 📋 Objectifs ^08-12
+- [ ] 📋 Objectifs ^09-12
+- [ ] 📋 Objectifs ^10-12
+- [ ] 📋 Objectifs ^11-12
+- [ ] 📋 Objectifs ^12-12
+- [ ] 📋 Objectifs ^13-12
+- [ ] 📋 Objectifs ^14-12
+- [ ] 📋 Objectifs ^15-12
+- [ ] 📋 Objectifs ^16-12
+- [ ] 📋 Objectifs ^17-12
+- [x] 📋 Objectifs ^18-12
+- [x] 📋 Objectifs ^19-12
+- [ ] 📋 Objectifs ^20-12
+- [ ] 📋 Objectifs ^21-12
+- [ ] 📋 Objectifs ^22-12
+- [ ] 📋 Objectifs ^23-12
+- [x] 📋 Objectifs ^24-12
+- [ ] 📋 Objectifs ^25-12
+- [ ] 📋 Objectifs ^26-12
+- [ ] 📋 Objectifs ^27-12
+- [ ] 📋 Objectifs ^28-12
+- [ ] 📋 Objectifs ^29-12
+- [ ] 📋 Objectifs ^30-12
+- [ ] 📋 Objectifs ^31-12
+

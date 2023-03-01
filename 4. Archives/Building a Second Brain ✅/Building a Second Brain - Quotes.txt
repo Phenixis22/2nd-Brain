@@ -1,0 +1,2362 @@
+#toDistill
+# Part two : The method : the four steps of code
+## Capture - keep what resonates
+### Capture criteria: how to avoid keeping too much (or too little)
+
+It starts with realizing that in any piece of content, ==the value is not evenly distributed==. There are always certain parts that are especially interesting, helpful, or valuable to you.
+==**We are the judges, editors, and interpreters** of the information we choose to let into our lives.==
+
+#### Capture Criteria #1: Does It Inspire Me?
+There is ==a way to evoke a sense of inspiration more regularly: **keep a collection of inspiring quotes, photos, ideas, and stories**.== Any time you need a break, a new perspective, or a dash of motivation, you can look through it and see what sparks your imagination.
+
+#### Capture Criteria #2: Is It Useful?
+Sometimes you come across a piece of information that isn’t necessarily inspiring, but ==you know it might come in handy in the future==. *These piece of information have a side of utility, so you should keep them in your Second Brain.*
+
+#### Capture Criteria #3: Is It Personal?
+One of the most valuable kinds of ==information to keep is personal information==—your own thoughts, reflections, memories, and mementos.
+
+#### Capture Criteria #4: Is It Surprising?
+The renowned information theorist Claude Shannon had a simple definition for “information”: ==information is **things which surprises you**. If you’re not surprised, then **you already knew it at some level**, so why take note of it?== Sometimes you come across an idea that is neither inspiring, personal, nor obviously useful, but there is something surprising about it.
+
+### Ultimately, Capture What Resonates
+As you consume a piece of content, listen for an internal feeling of being moved or surprised by the idea you’re taking in. ==This special feeling of “resonance”—like an echo in your soul—is your intuition telling you that something is literally “**noteworthy**". **Emotions organize**—rather than disrupt—rational thinking==.
+If you ignore that inner voice of intuition, over time it will slowly quiet down and fade away. ==If you practice listening to what it is telling you, the inner voice will grow stronger.== You’ll start to hear it in all kinds of situations.
+==It’s a good idea to capture key information about the source of a note==, such as the original web page address, the title of the piece, the author or publisher, and the date it was published.
+Also, ==it’s often helpful to capture **chapter titles, headings, and bullet-point lists**==, since they add structure to your notes and represent distillation already performed
+
+### Beyond your Notetaking app:
+#### Choosing capture tools
+
+The act of capture takes only moments, to hit share, export, or save.
+Think of ==your capture tools as your extended nervous system==, reaching out into the world to allow you to sense your surroundings.
+Make sure your best findings get routed back to your notes app where you can put them all together and act on them.
+#### The  surprising Benefits of externalizingour thoughts
+==Your Second Brain gives you a place to corral the jumble of thoughts tumbling through your head and park them in a waiting area for safekeeping==.
+First, ==you are much more likely to remember information you’ve written down in your own words. Writing creates new knowledge that wasn’t there before==. Each word you write triggers mental cascades and internal associations, leading to further ideas, all of which can come tumbling out onto the page or screen
+==Thinking doesn’t just produce writing; writing also enriches thinking.==
+In a wide range of controlled studies, writing about one’s inner experiences led to a drop in visits to the doctor, improved immune systems, and reductions in distress.
+Perhaps the most immediate benefit of capturing content outside our heads is that ==**we escape what I call the “reactivity loop”**—the hamster wheel of urgency, outrage, and sensationalism that characterizes so much of the Internet==
+With a Second Brain as a shield against the media storm, ==we no longer have to react to each idea immediately, or risk losing it forever==.
+It’s important to keep capturing relatively **effortless** because it is only the first step. ==You need to do it enough that it becomes second nature, while conserving your time and energy for the later steps when the value of the ideas you’ve found can be fully unleashed==.
+Capture isn’t about doing more. ==It’s about taking notes on the experiences you’re already having==.
+If at any point you feel stuck or overwhelmed, step back and remember that nothing is permanent in the digital world. Digital content is endlessly malleable, so you don’t have to commit to any decision forever. While every step of CODE complements the others, you can also use them one at a time
+
+## Organize - Save for actionability
+
+Be regular and orderly in your life so that you may be violent and original in your work.
+—Gustave Flaubert, French novelist
+
+*****
+
+Twyla Tharp’s box reveals the true value of a simple container: it is easy to use, easy to understand, easy to create, and easy to maintain. It can be moved from place to place without losing its contents. A container requires no effort to identify, to share with others, and to put in storage when it’s no longer needed. We don’t need complex, sophisticated systems to be able to produce complex, sophisticated works
+
+*****
+
+Studies have shown that the environment we find ourselves in powerfully shapes our thinking
+
+*****
+
+Your Second Brain isn’t just a tool—it’s an environment. It is a garden of knowledge full of familiar, winding pathways, but also secret and secluded corners
+
+*****
+
+Gardens are natural, but they don’t happen by accident. They require a caretaker to seed the plants, trim the weeds, and shape the paths winding through them
+
+*****
+
+Your Second Brain is like a mind cathedral that you can step into any time you want to shut out the world and imagine a world of your own.
+
+*****
+
+You’ll start to pay closer attention to the books you read, the conversations you have, and the interviews you listen to, knowing that any interesting idea you encounter can be reliably saved and utilized
+
+*****
+
+Every time I fell off the organizing wagon, I reverted to dropping all my notes and files into a folder for whichever project I was currently focused on
+
+*****
+
+Why didn’t I just organize my files that way all the time?
+
+*****
+
+That is what I did, and to my surprise, it worked
+
+*****
+
+I eventually named this organizing system PARA,* which stands for the four main categories of information in our lives: Projects, Areas, Resources, and Archives
+
+*****
+
+These four categories are universal, encompassing any kind of information, from any source, in any format, for any purpose.
+
+*****
+
+Instead of having to sort your notes according to a complex hierarchy of topics and subtopics, you have to answer only one simple question: “In which project will this be most useful?”
+
+*****
+
+I will show you how to take the notes you’ve captured and save them according to a practical use case. By taking that small extra step of putting a note into a folder (or tagging it*) for a specific project, such as a psychology paper you’re writing or a presentation you’re preparing, you’ll encounter that idea right at the moment it’s most relevant. Not a moment before, and not a moment after.
+
+*****
+
+If there isn’t a current project that your note would be useful for, we have a couple of other options of where to put it, including dedicated places for each of the main “areas” of your life that you are responsible for, and “resources,” which is like a personal library of references, facts, and inspiration.
+
+*****
+
+Over time, as you complete your projects, master new skills, and progress toward your goals, you’ll discover that some notes and resources are no longer actionable. I’ll show you how to move them to your “archives” to keep them out of sight but within easy reach.
+
+*****
+
+PARA guides you in quickly sorting your ideas according to what really matters: your goals ^360849
+
+*****
+
+You’ll always need to use multiple platforms to move your projects forward.
+No single platform can do everything. The intention here is not to use a single software program, but to use a single organizing system
+
+*****
+
+With the PARA system, every piece of information you want to save can be placed into one of just four categories:
+1. Projects: Short-term efforts in your work or life that you’re working on now.
+2. Areas: Long-term responsibilities you want to manage over time.
+3. Resources: Topics or interests that may be useful in the future.
+4. Archives: Inactive items from the other three categories.
+
+*****
+
+Projects have a couple of features that make them an ideal way to organize modern work. First, they have a beginning and an end; they take place during a specific period of time and then they finish. Second, they have a specific, ^91e8f5
+
+*****
+
+Whether you’re self-employed, at a large corporation, or somewhere in between, we are all moving toward a world of project-based work
+
+*****
+
+As important as projects are, not everything is a project
+
+*****
+
+It’s something that we will have to think about and manage, in one way or another, for as long as we live. It doesn’t have a final objective.
+
+*****
+
+Examples of areas from your personal life could include: Activities or places you are responsible for: Home/apartment; Cooking; Travel; Car.
+People you are responsible for or accountable to: Friends; Kids; Spouse;
+Pets.
+Standards of performance you are responsible for: Health; Personal growth; Friendships; Finances.
+
+*****
+
+In your job or business:
+Departments or functions you are responsible for: Account management;
+Marketing; Operations; Product development.
+People or teams you are responsible for or accountable to: Direct reports;
+Manager; Board of directors; Suppliers.
+Standards of performance you are responsible for: Professional development; Sales and marketing; Relationships and networking;
+Recruiting and hiring.
+
+*****
+
+While there is no goal to reach, there is a standard that you want to uphold in each of these areas
+
+*****
+
+The third category of information that we want to keep is resources. This is basically a catchall for anything that doesn’t belong to a project or an area and could include any topic you’re interested in gathering information about.
+
+*****
+
+What topics are you interested in? Architecture; Interior design; English literature; Beer brewing.
+What subjects are you researching? Habit formation; Notetaking; Project management; Nutrition.
+What useful information do you want to be able to reference?
+Vacation itineraries; Life goals; Stock photos; Product testimonials.
+Which hobbies or passions do you have? Coffee; Classic movies; Hip-hop music; Japanese anime.
+
+*****
+
+They are trends you are keeping track of, ideas related to your job or industry, hobbies and side interests, and things you’re merely curious about
+
+*****
+
+Finally, we have our archives. This includes any item from the previous three categories that is no longer active
+
+*****
+
+Projects that are completed or canceled Areas of responsibility that you are no longer committed to maintaining (such as when a relationship ends or after moving out of your apartment) Resources that are no longer relevant (hobbies you lose interest in or subjects you no longer care about)
+
+*****
+
+PARA is a universal system of organization designed to work across your digital world ^4d2b01
+
+*****
+
+Setting up folders is relatively easy. The harder question that strikes fear into the heart of every organizer is “Where do I put this?”
+
+*****
+
+The temptation when initially capturing notes is to also try to decide where they should go and what they mean
+
+*****
+
+the moment you first capture an idea is the worst time to try to decide what it relates to
+
+*****
+
+First, because you’ve just encountered it and haven’t had any time to ponder its ultimate purpose, but more importantly, because forcing yourself to make decisions every time you capture something adds a lot of friction to the process
+
+*****
+
+Think of it as a waiting area where new ideas live until you are ready to digest them into your Second Brain.
+
+*****
+
+The four main categories are ordered by actionability to make the decision of where to put notes as easy as possible:
+Projects are most actionable because you’re working on them right now and with a concrete deadline in mind.
+Areas have a longer time horizon and are less immediately actionable.
+Resources may become actionable depending on the situation.
+Archives remain inactive unless they are needed.
+
+*****
+
+starting at the top of the list and moving down:
+1. In which project will this be most useful?
+2. If none: In which area will this be most useful?
+3. If none: Which resource does this belong to?
+4. If none: Place in archives.
+
+*****
+
+It can be easy to let our projects and goals fall by the wayside when life gets busy. Personal projects and long-term goals feel especially flexible
+
+*****
+
+Organizing by actionability counteracts our tendency to constantly procrastinate and postpone our aspirations to some far-off future
+
+*****
+
+There is a parallel between PARA and how kitchens are organized
+
+*****
+
+The archives are like the freezer —items are in cold storage until they are needed, which could be far into the future. Resources are like the pantry—available for use in any meal you make, but neatly tucked away out of sight in the meantime. Areas are like the fridge—items that you plan on using relatively soon, and that you want to check on more frequently. Projects are like the pots and pans cooking on the stove—the items you are actively preparing right now
+
+*****
+
+nstead of organizing ideas according to where they come from, I recommend organizing them according to where they are going
+
+*****
+
+The purpose of a single note or group of notes can and does change over time as your needs and goals change
+
+*****
+
+Completed Projects Are the Oxygen of Your Second Brain
+
+*****
+
+people need clear workspaces to be able to create
+
+*****
+
+We cannot do our best thinking and our best work when all the “stuff” from the past is crowding and cluttering our space
+
+*****
+
+creating new things is what really matters
+
+*****
+
+I’d see a fire light up in people’s eyes when they reached the finish line and published that slideshow or exported that video or printed that résumé. The newfound confidence they had in themselves was unmistakable as they walked out of the store knowing they had everything they needed to move forward
+
+*****
+
+completed creative projects are the blood flow of your Second Brain
+
+*****
+
+It doesn’t matter how small the victories. Even the tiniest breakthrough can become a stepping-stone to more creative, more interesting futures than you can imagine.
+
+*****
+
+move quickly and touch lightly
+
+*****
+
+She saw that my standard approach to my work was brute force: to stay late at the office, fill every single minute with productivity, and power through mountains of work as if my life depended on it
+
+*****
+
+it was a path to burnout
+
+*****
+
+Not only did I exhaust my mental and physical reserves time and again; my frontal assaults weren’t even very effective
+
+*****
+
+I didn’t know how to set my intentions, craft a strategy, and look for sources of leverage that would allow me to accomplish things with minimal effort
+
+*****
+
+My mentor advised me to “move quickly and touch lightly” instead. To look for the path of least resistance and make progress in short steps
+
+*****
+
+don’t make organizing your Second Brain into yet another heavy obligation. Ask yourself: “What is the smallest, easiest step I can take that moves me in the right direction?”
+
+*****
+
+that step is generally to create folders for each of your active projects in your notes app
+
+*****
+
+Start by asking yourself, “What projects am I currently committed to moving forward?” and then create a new project folder for each one
+
+*****
+
+Notice what’s on your mind: What’s worrying you that you haven’t taken the time to identify as a project? What needs to happen that you’re not making consistent progress on?
+Look at your calendar: What do you need to follow up on from the past?
+What needs planning and preparation for the future?
+Look at your to-do list: What actions are you already taking that are actually part of a bigger project you’ve not yet identified? What communication or follow-up actions you’ve scheduled with people are actually part of a bigger project?
+Look at your computer desktop, downloads folder, documents folder, bookmarks, emails, or open browser tabs: What are you keeping around because it is part of a larger project?
+
+*****
+
+Although you can and should use PARA across all the platforms where you store information
+
+*****
+
+Practice capturing new notes, organizing them into folders, and moving them from one folder to another
+
+*****
+
+Each time you finish a project, move its folder wholesale to the archives, and each time you start a new project, look through your archives to see if any past project might have assets you can reuse.
+
+*****
+
+The key thing to keep in mind is that these categories are anything but final.
+PARA is a dynamic, constantly changing system, not a static one
+
+*****
+
+you never have to worry about getting it perfect, or having it finished
+
+*****
+
+Coppola’s story demonstrates that we can systematically gather building blocks from our reading and research that ultimately make the final product richer, more interesting, and more impactful
+
+*****
+
+We can also use our notes to drill down to the essence of the stories, research, examples, and metaphors that make up our own source material
+
+*****
+
+This is the third step of CODE, to Distill
+
+*****
+
+Our notes are things to use, not just things to collect
+
+*****
+
+When you initially capture a note, you may have only seconds to get it into your Second Brain
+
+*****
+
+When you first capture them, your notes are like unfinished pieces of raw material. They require a bit more refinement to turn them into truly valuable knowledge assets
+
+*****
+
+you need to be able to store something quickly and save any future refinement for later
+
+*****
+
+In this sense, notetaking is like time travel—you are sending packets of knowledge through time to your future self.
+
+*****
+
+You probably consume a lot of books, articles, videos, and social media posts full of interesting insights, but what are the chances that you’ll be ready to put any given piece of advice into action right at that instant?
+
+*****
+
+In my experience, life is constantly pushing and pulling us away from our priorities
+
+*****
+
+It’s difficult to imagine ever forgetting the new idea. It’s changed our lives forever! But after a few hours or days or weeks, it starts to fade from our memory
+
+*****
+
+That way your excitement and enthusiasm for your knowledge builds over time instead of fading away
+
+*****
+
+The most important factor in whether your notes can survive that journey into the future is their discoverability—how easy it is to discover what they contain and access the specific points that are most immediately useful.
+
+*****
+
+Librarians think about discoverability when deciding how to lay out books on the shelves
+
+*****
+
+Discoverability is the element most often missing from people’s notes. It’s easy to save tons and tons of content, but turning it into a form that will be accessible in the future is another matter
+
+*****
+
+To enhance the discoverability of your notes, we can turn to a simple habit you probably remember from school: highlighting the most important points
+
+*****
+
+It’s your job to “sell” them on the value of the notes you are taking now
+
+*****
+
+each note is like a product you are creating for the benefit of that future customer
+
+*****
+
+the more notes they gather, the more the volume of information grows, the more time and effort it takes to review it all, and the less time they have to do so
+
+*****
+
+Paradoxically, the more notes they collect, the less discoverable they become
+
+*****
+
+Distillation is at the very heart of all effective communication
+
+*****
+
+What if your future self was just as important as these VIPs
+
+*****
+
+Progressive Summarization is the technique I teach to distill notes down to their most important points
+
+*****
+
+It is a simple process of taking the raw notes you’ve captured and organized and distilling them into usable material that can directly inform a current project
+
+*****
+
+The technique is simple: you highlight the main points of a note, and then highlight the main points of those highlights, and so on, distilling the essence of a note in several “layers.”
+
+*****
+
+To enhance the discoverability of this note, I need to add a second layer of distillation
+
+*****
+
+All I have to do is bold the main points within the note
+
+*****
+
+This could include keywords that provide hints of what this text is about, phrases that capture what the original author was trying to say, or sentences that especially resonated with me even if I can’t explain why
+
+*****
+
+For those notes that are especially long, interesting, or valuable, it is sometimes worth adding a third layer of highlighting
+
+*****
+
+I advise using the “highlighting” feature offered by most notes apps, which paints passages in bright yellow just like the fluorescent highlighters we used in school (which appear in light gray below)
+
+*****
+
+There is one more layer we can add, though it is quite rarely needed. For only the very few sources that are truly unique and valuable, I’ll add an “executive summary” at the top of the note with a few bullet points summarizing the article in my own words
+
+*****
+
+The best sign that a fourth layer is needed is when I find myself visiting a note again and again, clearly indicating that it is one of the cornerstones of my thinking
+
+*****
+
+The layers of Progressive Summarization give you multiple ways of interacting with your notes depending on the needs of the moment
+
+*****
+
+just focus on layers two, three, or four. You can customize how much attention you spend on a note based on your energy level and time available
+
+*****
+
+It’s like having a digital map of your notes that can be zoomed in or out depending on how many details you want to see
+
+*****
+
+sometimes you want to zoom in and examine one specific research finding, while other times you want to zoom out and see the broad sweep of an argument all at once
+
+*****
+
+With Progressive Summarization, you are building up a map of the best ideas found in your Second Brain
+
+*****
+
+Highlighting can sometimes feel risky
+
+*****
+
+The multiple layers of Progressive Summarization are like a safety net; if you go in the wrong direction, or make a mistake, you can always just go back to the original version and try again. Nothing gets forgotten or deleted.
+
+*****
+
+Progressive Summarization helps you focus on the content and the presentation of your notes
+
+*****
+
+Most importantly, it keeps your attention on the substance of what you’re reading or learning, which is what matters in the long term
+
+*****
+
+this casual reading and listening tends to range over a wide number of topics and interests, you are exposed to more diverse ideas than usual.
+
+*****
+
+We can look at masters of creativity throughout history to see how distilling their ideas shaped their work
+
+*****
+
+Starting with the top left image and moving across and down, Picasso deconstructed the shapes of the bull one step at a time
+
+*****
+
+The result points to a mysterious aspect of the creative process: it can end up with a result that looks so simple, it seems like anyone could have made it.
+
+*****
+
+That simplicity masks the effort that was needed to get there
+
+*****
+
+Progressive Summarization is not a method for remembering as much as possible—it is a method for forgetting as much as possible
+
+*****
+
+As you distill your ideas, they naturally improve, because when you drop the merely good parts, the great parts can shine more brightly
+
+*****
+
+we inevitably have to make decisions about what to throw away
+
+*****
+
+Mistake #1: Over-Highlighting
+
+*****
+
+If you’re going to capture everything, you might as well capture nothing.
+
+*****
+
+A helpful rule of thumb is that each layer of highlighting should include no more than 10–20 percent of the previous layer.
+
+*****
+
+Mistake #2: Highlighting Without a Purpose in Mind
+
+*****
+
+you should do it when you’re getting ready to create something.
+
+*****
+
+wait until you know how you’ll put the note to use
+
+*****
+
+any given note won’t necessarily ever be useful
+
+*****
+
+The rule of thumb to follow is that every time you “touch” a note, you should make it a little more discoverable for your future self
+
+*****
+
+Mistake #3: Making Highlighting Difficult
+
+*****
+
+Don’t worry about analyzing, interpreting, or categorizing each point to decide whether to highlight it.
+
+*****
+
+When you learn the art of distillation, you will gain a lifelong skill that will impact every area of your life
+
+*****
+
+Distillation is at the heart of the communication that is so central to our friendships, our working relationships, and our leadership abilities. Notetaking gives you a way to deliberately practice the skill of distilling every day
+
+*****
+
+The effort we put into Progressive Summarization is meant for one purpose:
+to make it easy to find and work with our notes in the future
+
+*****
+
+Distilling makes our ideas small and compact, so we can load them up into our minds with minimal effort
+
+*****
+
+we need to prioritize our ability to quickly rediscover the ideas that we already have in our Second Brain.
+
+*****
+
+When the opportunity arrives to do our best work, it’s not the time to start reading books and doing research. You need that research to already be done
+
+*****
+
+Each time you decide to add a highlight, you are developing your judgment:
+distinguishing the bits that truly matter from those that don’t
+
+*****
+
+There are few things more satisfying than the feeling of making consistent progress
+
+*****
+
+The emerging Octavia made three rules for herself:
+1. Don’t leave your home without a notebook, paper scraps, something to write with.
+2. Don’t walk into the world without your eyes and ears focused and open.
+3. Don’t make excuses about what you don’t have or what you would do if you did, use that energy to “find a way, make a way
+
+*****
+
+The myth of the writer sitting down before a completely blank page, or the artist at a completely blank canvas, is just that—a myth
+
+*****
+
+If there is a secret to creativity, it is that it emerges from everyday efforts to gather and organize our influences
+
+*****
+
+How to Protect Your Most Precious Resource
+
+*****
+
+As knowledge workers, attention is our most scarce and precious resource
+
+*****
+
+The ability to intentionally and strategically allocate our attention is a competitive advantage in a distracted world
+
+*****
+
+Attention can be cultivated but also destroyed—by distractions, interruptions, and environments that don’t protect it. The challenge we face in building a Second Brain is how to establish a system for personal knowledge that frees up attention, instead of taking more of it
+
+*****
+
+If we consider how precious little time we have to produce something extraordinary in our careers, it becomes imperative that we recycle that knowledge back into a system where it can become useful again
+
+*****
+
+The final stage of the creative process, Express, is about refusing to wait until you have everything perfectly ready before you share what you know
+
+*****
+
+Intermediate Packets:
+The Power of Thinking Small
+
+*****
+
+if you’re stuck on a task, break it down into smaller steps.
+
+*****
+
+Each of these terms is the equivalent of a “rough draft” you create as part of the process of making something new
+
+*****
+
+Here’s what most people miss: it’s not enough to simply divide tasks into smaller pieces—you then need a system for managing those pieces.
+
+*****
+
+That system is your Second Brain, and the small pieces of work-in-process it contains I call “Intermediate Packets.”
+
+*****
+
+Intermediate Packets are the concrete, individual building blocks that make up your work
+
+*****
+
+Like LEGO blocks, the more pieces you have, the easier it is to build something interesting. Imagine that instead of starting your next project with a blank slate, you started with a set of building blocks—research findings, web clippings, PDF highlights, book notes, back-of-the-envelope sketches— that represent your long-term effort to make sense of your field, your industry, and the world at large.
+
+*****
+
+Reusing Intermediate Packets of work frees up our attention for higher-order, more creative thinking. Thinking small is the best way to elevate your horizons and expand your ambitions.
+
+*****
+
+There are five kinds of Intermediate Packets you can create and reuse in your work:
+Distilled notes: Books or articles you’ve read and distilled so it’s easy to get the gist of what they contain (using the Progressive Summarization technique you learned in the previous chapter, for example).
+Outtakes: The material or ideas that didn’t make it into a past project but could be used in future ones.
+Work-in-process: The documents, graphics, agendas, or plans you produced during past projects.
+Final deliverables: Concrete pieces of work you’ve delivered as part of past projects, which could become components of something new.
+Documents created by others: Knowledge assets created by people on your team, contractors or consultants, or even clients or customers, that you can reference and incorporate into your work
+
+*****
+
+You should always cite your sources and give credit where credit is due. A scientist doesn’t obscure her sources—she points to them so others can retrace her footsteps
+
+*****
+
+Making the shift to working in terms of Intermediate Packets unlocks several very powerful benefits.
+First, you’ll become interruption-proof because you are focusing only on one small packet at a time, instead of trying to load up the entire project into your mind at once. You become less vulnerable to interruptions, because you’re not trying to manage all the work-in-process in your head.
+Second, you’ll be able to make progress in any span of time. Instead of waiting until you have multiple uninterrupted hours—which, let’s face it, is rare and getting rarer—you can look at how many minutes you have free and choose to work on an IP that you can get done within that time, even if it’s tiny. Big projects and goals become less intimidating because you can just keep breaking them down into smaller and smaller pieces, until they fit right into the gaps in your day.
+Third, Intermediate Packets increase the quality of your work by allowing you to collect feedback more often. Instead of laboring for weeks in isolation, only to present your results to your boss or client and find out you went in the wrong direction, you craft just one small building block at a time and get outside input before moving forward. You’ll find that people give much better feedback if they’re included early, and the work is clearly in progress.
+Fourth, and best of all, eventually you’ll have so many IPs at your disposal that you can execute entire projects just by assembling previously created IPs. This is a magical experience that will completely change how you view productivity. The idea of starting anything from scratch will become foreign to you—why not draw on the wealth of assets you’ve invested in in the past?
+
+*****
+
+By “thinking small,” you can focus on creating just one IP each time you sit down to work, without worrying about how viable it is or whether it will be used in the exact way you envisioned
+
+*****
+
+Assembling Building Blocks:
+The Secret to Frictionless Output
+
+*****
+
+Every time you make a sketch, design a slide, record a short video on your phone, or post on social media, you are undertaking a small creative act that produces a tangible by-product. Consider the different kinds of documents and other content that you probably regularly produce as part of your normal routines
+--
+Liste d'exemple suit
+
+*****
+
+How could you acquire or assemble each of these components, instead of having to make them yourself?
+
+*****
+
+Most professionals I work with already have and use Intermediate Packets
+
+*****
+
+Your Second Brain is the repository of things you are already creating and using anyway. All we are doing is adding a little bit of structure and intentionality to how we use them: capturing them in one place, such as a digital notes app, so we can find them with a search;
+organizing them according to our projects, areas, and resources, so we have a dedicated place for each important aspect of our lives; and distilling them down to their most essential points, so they can be quickly accessed and retrieved.
+
+*****
+
+Over time, your ability to quickly tap these creative assets and combine them into something new will make all the difference in your career trajectory, business growth, and even quality of life
+
+*****
+
+The Express step is where we practice and hone our ability to retrieve what we need, when we need it. It’s the step where we build the confidence that our Second Brain is working for us.
+
+*****
+
+Let’s take a closer look at the process of retrieval: How can you find and retrieve Intermediate Packets when you need them?
+
+*****
+
+This isn’t a trivial question, because the connection between IPs we’ve saved in the past and future projects is often quite unpredictable
+
+*****
+
+These are some of the most valuable connections—when an idea crosses the boundaries between subjects. They can’t be planned or predicted. They can emerge only when many kinds of ideas in different shapes and sizes are mixed together.
+
+*****
+
+there is no single, perfectly reliable retrieval system
+
+*****
+
+Together they are more powerful than any computer yet more flexible than any human mind
+
+*****
+
+Those four retrieval methods are:
+1. Search 2. Browsing 3. Tags 4. Serendipity
+
+*****
+
+Retrieval Method #1: Search
+
+*****
+
+Search has the benefit of costing almost nothing in terms of time and effort
+
+*****
+
+Search should be the first retrieval method you turn to
+
+*****
+
+as with every tool, it has its limitations
+
+*****
+
+Retrieval Method #2: Browsing
+
+*****
+
+If you’ve followed the PARA system outlined in Chapter 5 to organize your notes, you already have a series of dedicated folders for each of your active projects, areas of responsibility, resources, and archives.
+
+*****
+
+As powerful as search can be, studies5 have found that in many situations people strongly prefer to navigate their file systems manually, scanning for the information they’re looking for
+
+*****
+
+Browsing allows us to gradually home in on the information we are looking for, starting with the general and getting more and more specific
+
+*****
+
+There are a variety of features offered by notes apps that make it easy to browse your hierarchy of folders. Some apps allow you to “sort” a list of notes by different criteria, such as date created
+
+*****
+
+Other apps allow you to show only images and web clippings, enabling rapid visual scanning to see if anything catches your eye
+
+*****
+
+Most notes apps allow you to open multiple windows and compare their contents side by side so you can look for patterns and move content between them.
+
+*****
+
+Once again, there are limitations to what you can find by browsing folders.
+
+*****
+
+Retrieval Method #3: Tags
+
+*****
+
+Tags are like small labels you can apply to certain notes regardless of where they are located
+
+*****
+
+The main weakness of folders is that ideas can get siloed from each other, making it hard to spark interesting connections. Tags can overcome this limitation by infusing your Second Brain with connections, making it easier to see cross-disciplinary themes and patterns that defy simple categorization.
+
+*****
+
+You might have various notes that you want to draw on to design this page, but don’t want to move them from the project, area, and resource folders where they’re currently located
+
+*****
+
+It’s time for tags
+
+*****
+
+Once you’ve found enough material to work with, you can perform a single search—for the “FAQ” tag—and instantly see all the notes you’ve tagged collected in one place
+
+*****
+
+Retrieval Method #4: Serendipity
+
+*****
+
+Beyond searching, browsing, and tagging, there is a frontier of possibility that simply cannot be planned or predicted by human minds.
+
+*****
+
+There are moments when it feels like the stars align and a connection between ideas jumps out at you like a bolt of lightning from a blue sky.
+These are the moments creatives live for.
+
+*****
+
+Serendipity takes a few different forms when it comes to retrieval
+
+*****
+
+First, while using the previous retrieval methods, it is a good idea to keep your focus a little broad. Don’t begin and end your search with only the specific folder that matches your criteria. Make sure to look through related categories, such as similar projects, relevant areas, and different kinds of resources.
+
+*****
+
+you can focus only on the highlighted passages and review notes far faster than having to read every word
+
+*****
+
+Second, serendipity is amplified by visual patterns. This is why I strongly suggest saving not only text notes but images as well (which is difficult to do in other kinds of software such as word processors). Our brains are naturally attuned to visuals. We intuitively absorb colors and shapes in the blink of an eye, using far less energy than it takes to read words. Some digital notes apps allow you to display only the images saved in your notes, which is a powerful way of activating the more intuitive, visual parts of your brain.
+
+*****
+
+Third, sharing our ideas with others introduces a major element of serendipity. When you present an idea to another person, their reaction is inherently unpredictable. They will often be completely uninterested in an aspect you think is utterly fascinating; they aren’t necessarily right or wrong, but you can use that feedback either way. The reverse can also happen. You might think something is obvious, while they find it mind-blowing. That is also useful feedback. Others might point out aspects of an idea you never considered, suggest looking at sources you never knew existed, or contribute their own ideas to make it better. All these forms of feedback are ways of drawing on not only your first and Second Brains, but the brains of others as well.
+
+*****
+
+Three Stages of Expressing:
+What Does It Look Like to Show Our Work?
+
+*****
+
+Remember: Retrieve an Idea Exactly When It’s Needed
+
+*****
+
+You don’t need to invent a new theory or write the next great novel to derive value from your Second Brain. Within days of capturing ideas that resonate with you, you’ll start to notice opportunities to share them with others to their benefit
+
+*****
+
+Connect: Use Notes to Tell a Bigger Story
+
+*****
+
+Creative expression isn’t always about self-promotion or advancing our own career. Some of our most beautiful, creative acts are ones in which we connect the dots for others in ways they wouldn’t be able to do themselves
+
+*****
+
+Create: Complete Projects and Accomplish Goals Stress-Free
+
+*****
+
+your Second Brain is a vital repository of all the bits and pieces you’ll want in front of you when you sit down to focus. It is a creative environment you can step into at any time, in any place, when it’s time to make things happen
+
+*****
+
+Creativity Is Inherently Collaborative
+
+*****
+
+A common myth of creativity is that of the solitary artist, working in total isolation. We are implicitly told that we must shut ourselves off from the influence of others and flesh out our masterpiece by the sweat of our brow
+
+*****
+
+this isn’t how creativity works at all
+
+*****
+
+Reframing your work in terms of Intermediate Packets isn’t just about doing the same old stuff in smaller chunks. That doesn’t unlock your true potential.
+The transformation comes from the fact that smaller chunks are inherently more shareable and collaborative.
+
+*****
+
+It’s less confronting to hear criticism on one small aspect of your work, at an early stage when you still have time to correct it, than getting a negative reaction after months of effort.
+
+*****
+
+You can use each little piece of intermediate feedback to refine what you’re making—to make it more focused, more appealing, more succinct, or easier to understand
+
+*****
+
+The fundamental difficulty of creative work is that we are often too close to it to see it objectively. Getting feedback is really about borrowing someone else’s eyes to see what only a novice can see. It’s about stepping outside your subjective point of view and noticing what’s missing from what you’ve made.
+
+*****
+
+You start looking for every opportunity to share your outputs and gain some clarity on how other people are likely to receive it. These moments are so important that you will begin changing how you work in order to get feedback as early and often as possible, because you know it is much easier to gather and synthesize the thoughts of others than to come up with an endless series of brilliant thoughts on your own
+
+*****
+
+There are certain notes in your Second Brain that are disproportionately valuable, that you will find yourself returning to again and again. These are the cornerstones of your work on which everything else is built, but you can’t usually know which notes are cornerstones up front. You discover them by sharing your ideas with others, and seeing which ones resonate with them. It is by sharing our ideas with other people that we discover which ones represent our most valuable expertise.
+
+*****
+
+Everything Is a Remix
+
+*****
+
+No one creates anything out of a pure void
+
+*****
+
+Instead of fabricating new pieces from scratch, these premade parts—from models of World War II flak cannons, US Navy battleships, fighter planes, T-34 tanks, and submarines—can be used to add texture and fine detail to special effects scenes in a fraction of the time and at a fraction of the cost it would normally take.
+
+*****
+
+Don’t take the work of others wholesale; borrow aspects or parts of their work
+
+*****
+
+think of “your work” as something separate from yourself.
+
+*****
+
+Reframing your productivity in terms of Intermediate Packets is a major step toward this turning point
+
+*****
+
+As the potential of your intellectual assets becomes apparent, you’ll start to look for any way to spend your time creating such assets and avoid one-off tasks whenever possible
+
+*****
+
+Your Turn: You Only Know What You Make
+
+*****
+
+To truly “know” something, it’s not enough to read about it in a book.
+
+*****
+
+To truly make an idea stick, you have to engage with it
+
+*****
+
+We learn by making concrete things
+
+*****
+
+It is when you begin expressing your ideas and turning your knowledge into action that life really begins to change. You’ll read differently, becoming more focused on the parts most relevant to the argument you’re building.
+You’ll ask sharper questions, no longer satisfied with vague explanations or leaps in logic. You’ll naturally seek venues to show your work, since the feedback you receive will propel your thinking forward like nothing else.
+You’ll begin to act more deliberately in your career or business, thinking several steps beyond what you’re consuming to consider its ultimate potential.
+
+*****
+
+it’s about taking ownership of your work, your ideas, and your potential to contribute in whatever arena you find yourself in
+
+*****
+
+You have to believe that the smallest idea has the potential to change people’s lives. If you don’t believe that now, start with the smallest project you can think of to begin to prove to yourself that your ideas can make a difference.
+
+*****
+
+All of these are acts of self-expression enabling you to begin unlocking your full creative potential
+
+*****
+
+PART THREE The Shift Making Things Happen
+
+*****
+
+Chapter 8 The Art of Creative Execution
+
+*****
+
+Creative products are always shiny and new; the creative process is ancient and unchanging.
+—Silvano Arieti, psychiatrist and author of Creativity: The Magic Synthesis
+
+*****
+
+I saw how rigorous his routines had to be to allow him to pursue his creative calling while raising a family.
+
+*****
+
+He had a series of what he called his “strategies.” These were habits and tricks that he used to integrate creativity into every aspect of his life and quickly get into a creative state of mind whenever he had time to paint.
+
+*****
+
+My father planned for creativity. He strategized his creativity. When it was time to make progress on a painting, he gave it his full focus, but that wasn’t the only time he exercised his imagination
+
+*****
+
+What I learned from my father is that by the time you sit down to make progress on something, all the work to gather and organize the source material needs to already be done. We can’t expect ourselves to instantly come up with brilliant ideas on demand
+
+*****
+
+All the steps of the CODE Method are designed to do one thing: to help you put your digital tools to work for you so that your human, fallible, endlessly creative first brain can do what it does best. Imagine. Invent.
+Innovate. Create.
+
+*****
+
+Building a Second Brain is really about standardizing the way we work, because we only really improve when we standardize the way we do something
+
+*****
+
+Through the simple acts of capturing ideas, organizing them into groups, distilling the best parts, and assembling them together to create value for others, we are practicing the basic moves of knowledge work in such a way that we can improve on them over time.
+
+*****
+
+This standardized routine is known as the creative process
+
+*****
+
+The products of creativity are constantly changing
+
+*****
+
+The creative process is ancient and unchanging
+
+*****
+
+One of the most important patterns that underlies the creative process is called “divergence and convergence.”
+
+*****
+
+Divergence and Convergence: A Creative Balancing Act
+--
+*Image juste au dessus*
+
+*****
+
+If you look at the process of creating anything, it follows the same simple pattern, alternating back and forth between divergence and convergence.
+
+*****
+
+A creative endeavor begins with an act of divergence. You open the space of possibilities and consider as many options as possible
+
+*****
+
+you begin to gather different kinds of outside inspiration, expose yourself to new influences, explore new paths, and talk to others about what you’re thinking
+
+*****
+
+The number of things you are looking at and considering is increasing—you are diverging from your starting point.
+
+*****
+
+The purpose of divergence is to generate new ideas, so the process is necessarily spontaneous, chaotic, and messy
+
+*****
+
+You can’t fully plan or organize what you’re doing in divergence mode, and you shouldn’t try
+
+*****
+
+As powerful and necessary as divergence is, if all we ever do is diverge, then we never arrive anywhere
+
+*****
+
+at some point you must start discarding possibilities and converging toward a solution
+
+*****
+
+Otherwise, you will never get the rewarding sense of completion that comes with hitting “send” or “publish” and stepping back from the canvas or screen knowing you got the job done.
+
+*****
+
+Convergence forces us to eliminate options, make trade-offs, and decide what is truly essential. It is about narrowing the range of possibilities so that you can make forward progress and end up with a final result you are proud of. Convergence allows our work to take on a life of its own and become something separate from ourselves
+
+*****
+
+If we overlay the four steps of CODE onto the model of divergence and convergence, we arrive at a powerful template for the creative process in our time.
+--
+*image en dessous*
+
+*****
+
+The first two steps of CODE, Capture and Organize, make up divergence.
+They are about gathering seeds of imagination carried on the wind and storing them in a secure place. This is where you research, explore, and add ideas. The final two steps, Distill and Express, are about convergence. They help us shut the door to new ideas and begin constructing something new out of the knowledge building blocks we’ve assembled.
+
+*****
+
+The Three Strategies I Use to Bring Creative Work Together
+
+*****
+
+Your Second Brain is a powerful ally in overcoming the universal challenge of creative work—sitting down to make progress and having no idea where to start.
+
+*****
+
+Should you do more research, or start organizing the research you’ve already done?
+Should you widen your horizons, or narrow your focus?
+Should you start something new, or finish something you’ve already started?
+When you distinguish between the two modes of divergence and convergence, you can decide each time you begin to work which mode you want to be in, which gives you the answers to the questions above
+
+*****
+
+In divergence mode, you want to open up your horizons and explore every possible option
+
+*****
+
+If you decide to enter convergence mode, do the opposite: close the door, put on noise-canceling headphones, ignore every new input, and ferociously chase the sweet reward of completion
+
+*****
+
+Of the two stages of this process, convergence is where most people struggle
+
+*****
+
+The more imaginative and curious you are, the more diverse your interests, and the higher your standards and commitment to perfection, the more difficult you will likely find it to switch from divergence mode into convergence mode
+
+*****
+
+When you sit down to finish something—whether it’s an explanatory email, a new product design, a research report, or a fundraising strategy—it can be so tempting to do more research
+
+*****
+
+Those actions are tempting because they feel like productivity. They feel like forward progress, when in fact they are divergent acts that postpone the moment of completion.
+
+*****
+
+There are three powerful strategies for completing creative projects I recommend to help you through the pitfalls of convergence. Each of them depends on having a Second Brain where you can manipulate and shape information without worrying it will disappear
+
+*****
+
+1. The Archipelago of Ideas:
+Give Yourself Stepping-Stones
+
+*****
+
+The Archipelago of Ideas technique is valuable any time you are starting a new piece of work
+
+*****
+
+gives you a way to plan your progress even when performing tasks that are inherently unpredictable.
+
+*****
+
+To create an Archipelago of Ideas, you divergently gather a group of ideas, sources, or points that will form the backbone of your essay, presentation, or deliverable. Once you have a critical mass of ideas to work with, you switch decisively into convergence mode and link them together in an order that makes sense.
+
+*****
+
+This Archipelago of Ideas includes external sources as in my example above, but also notes I’ve taken based on my own thoughts and experiences
+
+*****
+
+This gives me the best of both worlds: I can focus only on the relevant points right in front of me, but all the other details I might need are just a click away
+
+*****
+
+Creating outlines digitally instead of on paper offers multiple major advantages
+
+*****
+
+A digital outline is far more malleable and flexible—you can add bullet points and cross them off, rearrange and expand on them, add bolding and highlights, and edit them after the fact as your thinking changes.
+The outline can link to more detailed content—instead of trying to cram every last point onto the same page, you can link to both your own private notes and public resources on the web, which helps avoid overloading the outline with too much detail.
+The outline is interactive and multimedia—you can add not only text, but images, GIFs, videos, attachments, diagrams, checkboxes, and more.
+The outline is searchable—even if it gets long, you have a powerful search feature to instantly call up any term you’re looking for.
+The outline can be accessed and edited from anywhere—unlike a piece of paper in a notebook, your outline is instantaneously synced to every one of your devices, and it can be viewed, edited, and added to from anywhere
+
+*****
+
+An Archipelago of Ideas separates the two activities your brain has the most difficulty performing at the same time: choosing ideas (known as selection) and arranging them into a logical flow (known as sequencing).
+
+*****
+
+The reason it is so difficult to perform these activities simultaneously is they require different modes: selection is divergent, requiring an open state of mind that is willing to consider any possibility. Sequencing is convergent, requiring a more closed state of mind focused only on the material you already have in front of you.
+
+*****
+
+The goal of an archipelago is that instead of sitting down to a blank page or screen and stressing out about where to begin, you start with a series of small stepping-stones to guide your efforts. First you select the points and ideas you want to include in your outline, and then in a separate step, you rearrange and sequence them into an order that flows logically. This makes both of those steps far more efficient, less taxing, and less vulnerable to interruption.
+
+*****
+
+2. The Hemingway Bridge
+
+*****
+
+He would always end a writing session only when he knew what came next in the story. Instead of exhausting every last idea and bit of energy, he would stop when the next plot point became clear. This meant that the next time he sat down to work on his story, he knew exactly where to start. He built himself a bridge to the next day, using today’s energy and momentum to fuel tomorrow’s writing
+
+*****
+
+You can think of a Hemingway Bridge as a bridge between the islands in your Archipelago of Ideas. You may have the islands, but that is just the first step. The much more challenging work is linking them together into something that makes sense
+
+*****
+
+The Hemingway Bridge is a way of making each creative leap from one island to the next less dramatic and risky: you keep some energy and imagination in reserve and use it as a launchpad for the next step in your progress.
+
+*****
+
+How do you create a Hemingway Bridge? Instead of burning through every last ounce of energy at the end of a work session, reserve the last few minutes to write down some of the following kinds of things in your digital notes:
+Write down ideas for next steps: At the end of a work session, write down what you think the next steps could be for the next one.
+Write down the current status: This could include your current biggest challenge, most important open question, or future roadblocks you expect.
+Write down any details you have in mind that are likely to be forgotten once you step away: Such as details about the characters in your story, the pitfalls of the event you’re planning, or the subtle considerations of the product you’re designing.
+Write out your intention for the next work session: Set an intention for what you plan on tackling next, the problem you intend to solve, or a certain milestone you want to reach.
+
+*****
+
+you’ll have a rich set of jumping-off points and next steps waiting for you
+
+*****
+
+I often find that my subconscious mind keeps working in the background to help me improve on those thoughts
+
+*****
+
+To take this strategy a step further, there is one more thing you can do as you wrap up the day’s work: send off your draft or beta or proposal for feedback.
+
+*****
+
+The next time you sit down to work on it again, you’ll have their input and suggestions to add to the mix of material you’re working with.
+
+*****
+
+3. Dial Down the Scope:
+
+*****
+
+“Scope” is a term from project management that has been adopted by software developers, from whom I learned it while working in Silicon Valley.
+
+*****
+
+The scope refers to the full set of features a software program might include
+
+*****
+
+We also deliver complex pieces of work under strict deadlines. We also have limited time, money, attention, and support—there are always constraints we must work within
+
+*****
+
+the delay ends up creating more problems than it solves
+
+*****
+
+We start to lose motivation as the time horizon stretches out longer and longer
+
+*****
+
+Postponing our goals and desires to “later” often ends up depriving us of the very experiences we need to grow.
+
+*****
+
+The problem isn’t a lack of time. It is that we forget that we have control over the scope of the project. We can “dial it down” to a more manageable size, and we must if we ever want to see it finished.
+
+*****
+
+Waiting until you have everything ready before getting started is like sitting in your car and waiting to leave your driveway until all the traffic lights across town are green at the same time
+
+*****
+
+Dialing Down the Scope recognizes that not all the parts of a given project are equally important. By dropping or reducing or postponing the least important parts, we can unblock ourselves and move forward even when time is scarce
+
+*****
+
+Your Second Brain is a crucial part of this strategy, because you need a place to save the parts that get postponed or removed.
+
+*****
+
+This is a completely normal and necessary part of any creative process.
+
+*****
+
+That doesn’t mean you have to throw away those parts. One of the best uses for a Second Brain is to collect and save the scraps on the cuttingroom floor in case they can be used elsewhere
+
+*****
+
+You never know when the rejected scraps from one project might become the perfect missing piece in another. The possibilities are endless.
+
+*****
+
+Knowing that nothing I write or create truly gets lost—only saved for later use—gives me the confidence to aggressively cut my creative works down to size without fearing that I’ve wasted effort or that I’ll lose the results of my thinking forever. Knowing that I can always release a fix, update, or follow up on anything I’ve made in the past gives me the courage to share my ideas before they’re perfectly ready and before I have them all figured out. And sharing before I feel ready has completely altered the trajectory of my career.
+
+*****
+
+How can you know which direction to take your thinking without feedback from customers, colleagues, collaborators, or friends? And how can you collect that feedback without showing them something concrete? This is the chicken-and-egg problem of creativity: you don’t know what you should create, but you can’t discover what people want until you create something.
+
+*****
+
+Dialing Down the Scope is a way of short-circuiting that paradox and testing the waters with something small and concrete, while still protecting the fragile and tentative edges of your work.
+
+*****
+
+Divergence and convergence are not a linear path, but a loop: once you complete one round of convergence, you can take what you’ve learned right back into a new cycle of divergence. Keep alternating back and forth, making iterations each time until it’s something you can consider “done” or “complete” and share more widely.
+
+*****
+
+Divergence and Convergence in the Wild:
+Behind the Scenes of a Home Project
+
+*****
+
+Your Turn: Move Fast and Make Things
+
+*****
+
+Start by picking one project you want to move forward on
+--
+Projet ''Permis''
+
+*****
+
+Pick a venue for sharing that you feel comfortable with.
+
+*****
+
+Throughout every step of this process, be sure to keep notes on anything you learn or discover, or any new Intermediate Packets you might want to seek out
+
+*****
+
+Chapter 9 The Essential Habits of Digital Organizers
+
+*****
+
+Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks . . . It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity.
+—James Clear, author of Atomic Habits
+
+*****
+
+Your Second Brain is a practical system for enhancing your productivity and your creativity
+
+*****
+
+While these domains are often seen as mutually exclusive opposites—one concrete and defined; the other abstract and open-ended—instead I see them as complementary
+
+*****
+
+When we have confidence in our creative process, we don’t have to think about it as much, significantly reducing the background stress of constantly worrying whether we’re going in the right direction.
+
+*****
+
+This balance between order and creativity is something that we can build into our Second Brain intentionally
+
+*****
+
+Like every system, a Second Brain needs regular maintenance
+
+*****
+
+“Being organized” isn’t a personality trait you’re born with, nor is it merely a matter of finding the right apps or tools. Being organized is a habit —a repeated set of actions you take as you encounter, work with, and put information to use
+
+*****
+
+The Mise-en-Place Way to Sustainable Productivity
+
+*****
+
+This fundamental tension—between quality and quantity—is a tension we share as knowledge workers. We also must produce work to an extremely high standard, and we must do it fast, continuously, all year long. We are like sprinters who are also trying to run a marathon.
+
+*****
+
+Chefs have a particular system for accomplishing this daunting feat. It’s called mise en place, a culinary philosophy used in restaurants around the world. Developed in France starting in the late 1800s, mise en place is a step-by-step process for producing high-quality food efficiently. Chefs can never afford to stop the whole kitchen just so they can clean up. They learn to keep their workspace clean and organized in the flow of the meals they are preparing
+
+*****
+
+Chefs use mise en place—a philosophy and mindset embodied in a set of practical techniques—as their “external brain.” 1 It gives them a way to externalize their thinking into their environment and automate the repetitive parts of cooking so they can focus completely on the creative parts.
+
+*****
+
+We have a lot to learn as knowledge workers from the system of mise en place
+
+*****
+
+For us as well, the only time we have available to maintain our systems is during the execution of our regular work.
+
+*****
+
+There’s no time that’s magically going to become available for you to stop everything and completely reorganize your digital world
+
+*****
+
+We tend to notice our systems need maintenance only when they break down, which we then blame on our lack of self-discipline or our failure to be sufficiently productive.
+
+*****
+
+it is about adopting a dynamic, flexible system and set of habits to continually access what we need without throwing our environment (and mind) into chaos
+
+*****
+
+Each of these habits creates boundaries—of time, space, and intention—around the states of mind that you want to protect and promote in your life
+
+*****
+
+Project Checklists: Ensure you start and finish your projects in a consistent way, making use of past work.
+Weekly and Monthly Reviews: Periodically review your work and life and decide if you want to change anything.
+Noticing Habits: Notice small opportunities to edit, highlight, or move notes to make them more discoverable for your future self.
+
+*****
+
+The Project Checklist Habit: The Key to Starting Your Knowledge Flywheel
+
+*****
+
+What most people are missing, however, is a feedback loop—a way to “recycle” the knowledge that was created as part of past efforts so it can be used in future ones as well
+
+*****
+
+This is exactly how I want you to treat your attention—as an asset that gets invested and produces a return, which in turn can be reinvested back into other ventures
+
+*****
+
+If you look closely, there are two key moments in this process of recycling knowledge. Two places where the paths diverge, and you have the chance to do something different than you’ve done before.
+
+*****
+
+Checklist #1: Project Kickoff
+
+*****
+
+The successful start of the project is more or less left to chance.
+
+*****
+
+Every goal, collaboration, or assignment we take on can be defined as a project, which gives it shape, focus, and a sense of direction
+
+*****
+
+This is where the Project Kickoff Checklist comes in.
+Here’s my own checklist:
+1. Capture my current thinking on the project.
+2. Review folders (or tags) that might contain relevant notes.
+3. Search for related terms across all folders.
+4. Move (or tag) relevant notes to the project folder.
+5. Create an outline of collected notes and plan the project.
+
+*****
+
+1. Capture my current thinking on the project.
+
+*****
+
+I often find that the moment a project begins to form in my mind, I start to have ideas and opinions about it. I like to start by creating a blank note and doing a brainstorm of any thoughts that come to mind. This first note is then placed inside a new project folder dedicated to storing all the notes I’ll be creating related to it.
+
+*****
+
+Here are some questions I use to prompt this initial brainstorm:
+What do I already know about this project?
+What don’t I know that I need to find out?
+What is my goal or intention?
+Who can I talk to who might provide insights?
+What can I read or listen to for relevant ideas?
+
+*****
+
+I prefer using bullet points so the information is compact and can easily be moved around.
+
+*****
+
+2. Review folders (or tags) that might contain relevant notes
+
+*****
+
+I look through any existing folders that might contain information relevant to the new project I’m starting, including related templates, outlines, and outtakes from previous projects. PARA and Progressive Summarization really come in handy here: I already have a variety of folders, each containing a curated set of notes, highlighted and summarized so I can rapidly recall what they’re about
+
+*****
+
+3. Search for related terms across all folders
+
+*****
+
+The third step is to perform searches for any notes I might have missed. Sometimes there are valuable ideas buried in unexpected places, which I may not find through browsing alone.
+
+*****
+
+I run a series of searches for terms related to the new project, scanning the results and quickly jumping into any note that seems relevant. Progressive Summarization helps here too, enabling me to zoom into and out of notes without having to absorb their full contents.
+
+*****
+
+4. Move (or tag) relevant notes to the project folder
+
+*****
+
+I move to the project folder, titled after the name of the new project I’m starting. Alternatively, depending on the capabilities of your notes app, you can also tag or link any relevant notes with the project, so you don’t have to move them from their original location
+
+*****
+
+The important thing isn’t where a note is located, but whether you can reference it quickly while staying focused on the project at hand.
+
+*****
+
+5. Create an outline of collected notes and plan the project.
+
+*****
+
+it’s time to pull together the material I’ve gathered and create an outline (an Archipelago of Ideas) for the project
+
+*****
+
+My goal is to end up not just with a loose collection of ideas. It is to formulate a logical progression of steps that make it clear what I should do next.
+
+*****
+
+The form this outline takes depends on the nature of the project
+
+*****
+
+You should think of this five-step checklist as a first pass, taking no more than twenty to thirty minutes. You’re only trying to get a sense of what kind of material you already have in your Second Brain
+
+*****
+
+I encourage you to use my kickoff checklist as a starting point and customize it over time as you understand how it fits into your own context.
+
+*****
+
+Here are some other options for actions you might want to include in your own version:
+Answer premortem* questions: What do you want to learn? What is the greatest source of uncertainty or most important question you want to answer? What is most likely to fail?
+Communicate with stakeholders: Explain to your manager, colleagues, clients, customers, shareholders, contractors, etc., what the project is about and why it matters.
+Define success criteria: What needs to happen for this project to be considered successful? What are the minimum results you need to achieve, or the “stretch goals” you’re striving for?
+Have an official kickoff: Schedule check-in calls, make a budget and timeline, and write out the goals and objectives to make sure everyone is informed, aligned, and clear on what is expected of them. I find that doing an official kickoff is useful even if it’s a solo project!
+
+*****
+
+Checklist #2: Project Completion
+
+*****
+
+Now let’s take a look at the Project Completion Checklist, the other side of the equation
+
+*****
+
+This is one of the best reasons to keep our projects small: so that we get to feel a fulfilling sense of completion as often as possible.
+
+*****
+
+We don’t want to limit ourselves to merely celebrating the end of a project.
+We want to learn from the experience and document any thinking that could add value in the future. This is where the Project Completion Checklist is essential. It’s a series of steps you can take to decide if there are any reusable knowledge assets worth keeping, before archiving the rest. The only way that the Kickoff Checklist we just looked at will be feasible is if you’ve previously taken the time to save and preserve material from past projects.
+
+*****
+
+Here’s my checklist:
+1. Mark project as complete in task manager or project management app.
+2. Cross out the associated project goal and move to “Completed” section.
+3. Review Intermediate Packets and move them to other folders.
+4. Move project to archives across all platforms.
+5. If project is becoming inactive: add a current status note to the project folder before archiving.
+
+*****
+
+1. Mark project as complete in task manager or project management app
+
+*****
+
+This is the first step is making sure the project is in fact finished
+
+*****
+
+If all the tasks I find there are done, I can mark it as complete and move on to the following steps
+
+*****
+
+2. Cross out the associated project goal and move to “Completed” section
+
+*****
+
+Each project I work on usually has a corresponding goal
+
+*****
+
+I like to take a moment and reflect on whether the goal I initially set for this project panned out
+
+*****
+
+The amount of time you spend thinking about these questions depends on the size of the project. A massive team endeavor might justify hours of in-depth analysis, while a small personal side project might deserve only a few minutes of reflection.
+
+*****
+
+I also like to cross out the goal and move it to a different section called “Completed.”
+
+*****
+
+Any time I need some motivation, I can look through this list and be reminded of all the meaningful goals I’ve achieved in the past. It doesn’t matter if the goal is big or small—keeping an inventory of your victories and successes is a wonderful use for your Second Brain.
+
+*****
+
+3. Review Intermediate Packets and move them to other folders.
+
+*****
+
+I’ll look through the folder for the completed project to identify any Intermediate Packets I created that could be repurposed in the future
+
+*****
+
+It takes a certain lens to see each of these documents and files not as disposable, but as tangible by-products of quality thinking
+
+*****
+
+If you can start your thinking where you left off last time, you’ll be far ahead compared to starting from zero every time.
+
+*****
+
+Any IPs I decide could be relevant to another project, I move to that project’s folder. The same goes for notes relevant to areas or resources. This is a forgiving decision, and it’s okay if you don’t catch every single one. The full contents of everything you archive away will always show up in future searches, so you don’t have to worry that anything will be lost.
+
+*****
+
+4. Move project to archives across all platforms
+
+*****
+
+it’s time to move the project folder to the archives in my notes app, as well as any other platforms I used during the project
+
+*****
+
+5. If project is becoming inactive: add a current status note to the project folder before archiving
+
+*****
+
+I still want to archive it so it’s out of sight, but in this special case, there’s one final action I take.
+
+*****
+
+I add a new note to the project folder titled “Current status,” and jot down a few comments so I can pick it back up in the future
+
+*****
+
+Here are some other items you can include on your Project Completion Checklist. I encourage you to personalize it for your own needs:
+Answer postmortem questions: What did you learn? What did you do well? What could you have done better? What can you improve for next time?
+Communicate with stakeholders: Notify your manager, colleagues, clients, customers, shareholders, contractors, etc., that the project is complete and what the outcomes were.
+Evaluate success criteria: Were the objectives of the project achieved?
+Why or why not? What was the return on investment?
+Officially close out the project and celebrate: Send any last emails, invoices, receipts, feedback forms, or documents, and celebrate your accomplishments with your team or collaborators so you receive the feeling of fulfillment for all the effort you put in.
+
+*****
+
+The first pass on your Project Completion Checklist should be completed in even less time than the Project Kickoff Checklist
+
+*****
+
+Put in just enough effort that your future self will be able to decide if the material is relevant to their needs
+
+*****
+
+The purpose of using project checklists isn’t to make the way you work rigid and formulaic. It is to help you start and finish projects cleanly and decisively, so you don’t have “orphaned” commitments that linger on with no end in sight. Think of these checklists as scaffolding—a supporting structure that ensures what you’re building can stand on its own. Just as scaffolding eventually gets taken down, these habits will get absorbed into the way you think and become completely second nature. You won’t even consider starting something new without querying your Second Brain to see if there is any material you can reuse.
+
+*****
+
+The Review Habit: Why You Should Batch Process Your Notes (and How Often)
+
+*****
+
+Let’s dive into the details and see how Weekly and Monthly Reviews can help you maintain your Second Brain in a state of readiness for whatever arrives at your doorstep
+
+*****
+
+A Weekly Review Template: Reset to Avoid Overwhelm
+
+*****
+
+Here is my own Weekly Review Checklist
+
+*****
+
+1. Clear my email inbox.
+2. Check my calendar.
+3. Clear my computer desktop.
+4. Clear my notes inbox.
+5. Choose my tasks for the week.
+
+*****
+
+1. Clear my email inbox.
+
+*****
+
+I start by clearing my email inbox of any emails lingering from the past week
+
+*****
+
+I’ve found that if I let messages accumulate from one week to the next, it makes it hard to figure out what’s new and requires action and what’s left over from the past
+
+*****
+
+Any action items I find get saved in my task manager, and any notes I capture get saved in my notes app.
+
+*****
+
+2. Check my calendar
+
+*****
+
+This is the landscape of my week, showing me the meetings and appointments I need to make room for
+
+*****
+
+I typically look at the last couple of weeks in case there’s anything I need to follow up on, and the upcoming couple of weeks in case there’s anything I need to prepare for.
+
+*****
+
+Once again, anything I need to act on gets saved in my task manager, and any notes get captured in my notes app.
+
+*****
+
+3. Clear my computer desktop
+
+*****
+
+I clear the files that have accumulated on my computer desktop.
+
+*****
+
+I’ve found that if I let them accumulate week after week, eventually my digital environment gets so cluttered that I can’t think straight.
+
+*****
+
+Any files potentially relevant to my projects, areas, or resources get moved to the appropriate PARA folders in my computer’s file system.
+
+*****
+
+4. Clear my notes inbox
+
+*****
+
+the inbox in my notes app is chock-full of interesting tidbits from the previous three steps
+
+*****
+
+At this point I’ll batch process them all at once, making quick, intuitive decisions about which of the PARA folders each note might be relevant to, and creating new folders as needed. There is no “correct” location for a given note, and search is incredibly effective, so I put it in the first place that occurs to me.
+
+*****
+
+notes. It is a simple and practical process of going through my notes inbox, giving each note an informative title, and moving them into the appropriate PARA folders. I don’t highlight or summarize them. I don’t try to understand or absorb their contents. I don’t worry about all the topics they could potentially relate to
+
+*****
+
+This weekly sorting process serves as a light reminder of the knowledge I’ve accumulated over the past week, and ensures I have a healthy flow of new ideas and insights flowing into my Second Brain.
+
+*****
+
+5. Choose my tasks for the week
+
+*****
+
+It’s time to clear the inbox in my task manager app
+
+*****
+
+I take a few minutes to sort them into the appropriate projects and areas.
+
+*****
+
+The final step of my Weekly Review is to select the tasks I’m committing to for the upcoming week
+
+*****
+
+I can make this decision decisively and begin my week with total confidence that I’m working on the right things.
+
+*****
+
+A Monthly Review Template: Reflect for Clarity and Control
+
+*****
+
+I recommend doing a Monthly Review that is a bit more reflective and holistic. It’s a chance to evaluate the big picture and consider more fundamental changes to your goals, priorities, and systems that you might not have the chance to think about in the busyness of the day-to-day.
+
+*****
+
+Here’s mine:
+1. Review and update my goals.
+2. Review and update my project list.
+3. Review my areas of responsibility.
+4. Review someday/maybe tasks.
+5. Reprioritize tasks.
+
+*****
+
+1. Review and update my goals
+
+*****
+
+I start by reviewing my goals for the quarter and the year. I ask myself questions like “What successes or accomplishments did I have?” and “What went unexpectedly and what can I learn from it?”
+
+*****
+
+2. Review and update my project list
+
+*****
+
+This includes archiving any completed or canceled projects, adding any new ones, or updating active projects to reflect how they’ve changed
+
+*****
+
+It’s important that the project list remains a current, timely, and accurate reflection of your real-life goals and priorities
+
+*****
+
+3. Review my areas of responsibility
+
+*****
+
+I’ll think about the major areas of my life, such as my health, finances, relationships, and home life, and decide if there’s anything I want to change or take action on.
+
+*****
+
+4. Review someday/maybe tasks
+
+*****
+
+“Someday/maybe” is a special category for things I’d like to get to someday, but not in the near future
+
+*****
+
+These kinds of future dreams are important to keep track of, but you don’t want them cluttering your priorities today. I’ll take a few minutes to go through my “someday/maybe” tasks just in case any of them have become actionable
+
+*****
+
+5. Reprioritize tasks
+
+*****
+
+I’m often surprised just how much can change in a month. To-dos that seemed critical last month might become irrelevant this month, and vice versa.
+
+*****
+
+The Noticing Habits: Using Your Second Brain to Engineer Luck
+
+*****
+
+I call them “noticing” habits—taking advantage of small opportunities you notice to capture something you might otherwise skip over or to make a note more actionable or discoverable
+
+*****
+
+The nice thing about notes, unlike to-dos, is that they aren’t urgent
+
+*****
+
+If you have the time to organize your notes each week, that’s great. If you don’t, it’s no problem
+
+*****
+
+They remain ready and waiting there for as long as I need.
+
+*****
+
+The most common misconception about organizing I see when I’m working with clients is the belief that organizing requires a heavy lift.
+
+*****
+
+Even on the rare occasions I’ve seen people somehow manage to clear such a big block of time, it never seems to go very well
+
+*****
+
+It’s not natural for humans to completely reorganize their entire world all at once. There are too many layers, too many facets of a human life, to perfectly square every little detail
+
+*****
+
+It’s crucial to stay organized, but it needs to be done a little at a time in the flow of our normal lives
+
+*****
+
+We should avoid doing a lot of heavy lifting up front, not only because it takes up precious time and energy, but because it locks us into a course of action that might not end up being right.
+
+*****
+
+When you spend more time there, you’ll inevitably notice many more small opportunities for change than you expect
+
+*****
+
+Just like professional chefs keep their environment organized with small nudges and adjustments, you can use noticing habits to “organize as you go.”
+
+*****
+
+Your Turn: A Perfect System You Don’t Use Isn’t Perfect
+
+*****
+
+Each of the three kinds of habits I’ve introduced you to—Project Kickoff and Completion Checklists, Weekly and Monthly Reviews, and Noticing Habits —are all meant to be performed quickly in the in-between spaces of your day.
+
+*****
+
+I want to remind you that the maintenance of your Second Brain is very forgiving
+
+*****
+
+Unlike a car engine, nothing will explode, break down, or burst into flames if you let things slide for days, weeks, or even months
+
+*****
+
+The entire point of building a Second Brain and pouring your thoughts into it is to make those thoughts less vulnerable to the passage of time. They will be ready to pick up right where you left off when you have more time or motivation.
+
+*****
+
+To make this concrete:
+There’s no need to capture every idea; the best ones will always come back around eventually.
+There’s no need to clear your inbox frequently; unlike your to-do list, there’s no negative consequence if you miss a given note.
+There’s no need to review or summarize notes on a strict timeline; we’re not trying to memorize their contents or keep them top of mind.
+When organizing notes or files within PARA, it’s a very forgiving decision of where to put something, since search is so effective as a backup option.
+
+*****
+
+We have to remember that we are not building an encyclopedia of immaculately organized knowledge. We are building a working system
+
+*****
+
+For that reason, you should prefer a system that is imperfect, but that continues to be useful in the real conditions of your life
+
+*****
+
+Chapter 10 The Path of Self-Expression
+
+*****
+
+An idea wants to be shared. And, in the sharing, it becomes more complex, more interesting, and more likely to work for more people.
+—adrienne maree brown, writer and activist
+
+*****
+
+Value has shifted from the output of our muscles to the output of our brains
+
+*****
+
+Our knowledge is now our most important asset and the ability to deploy our attention our most valuable skill
+
+*****
+
+Any change in how we interact with information first requires a change in how we think. In this chapter we’ll explore what it looks like and feels like to make that shift
+
+*****
+
+Mindset Over Toolset—The Quest for the Perfect App
+
+*****
+
+The majority of this book has been about acquiring a new set of tools in your relationship to information. However, over the years I’ve noticed that it is never a person’s toolset that constrains their potential, it’s their mindset.
+
+*****
+
+Whatever you are looking for, all these paths eventually lead to the same place, if you are willing to follow: a journey of personal growth
+
+*****
+
+There is no divide between our inner selves and our digital lives: the beliefs and attitudes that shape our thinking in one context inevitably show up in other contexts as well.
+
+*****
+
+Underlying our struggles and challenges with productivity, creativity, and performance is our fundamental relationship to the information in our lives.
+
+*****
+
+That relationship was forged during your upbringing as you encountered new experiences, and was influenced by your personality, learning style, relationships, and your genes. You learned to react in a certain way when faced with new ideas. You adopted a default “blueprint” for how you treated incoming information—with anticipation, fear, excitement, self-doubt, or some complex mix of feelings that is unique to you.
+
+*****
+
+Our attitude toward information profoundly shapes how we see and understand the world and our place in it. Our success in the workforce depends on our ability to make use of information more effectively and to think better, smarter, faster
+
+*****
+
+The quality of our thinking has become one of the central defining features of our identity, our reputation, and our quality of life. We are constantly advised that we need to know more to be able to achieve our goals and dreams.
+
+*****
+
+What would you say if I told you that isn’t true?
+
+*****
+
+The Fear Our Minds Can’t Do Enough
+
+*****
+
+I’m saying that the greater the burden you place on your biological brain to give you everything you want and need, the more it will struggle under the weight of it all
+
+*****
+
+The brain can solve problems, but that isn’t its sole purpose. Your mind was meant for much more.
+
+*****
+
+It is this fundamental attitude toward information that will start to change as you integrate your Second Brain into your life. You will begin to see connections you didn’t know you could make. Ideas about business, psychology, and technology will connect and spawn new revelations you’ve never consciously considered
+
+*****
+
+Once you start seeing even your biggest ambitions in terms of the smaller chunks of information they are made up of, you’ll begin to realize that any experience or passing insight can be valuable
+
+*****
+
+This is the basic choice we have in creating our own experience—which aspects to nourish or starve, using only the magnifying power of our attention
+
+*****
+
+As you build a Second Brain, your biological brain will inevitably change.
+
+*****
+
+It will start to adapt to the presence of this new technological appendage, treating it as an extension of itself. Your mind will become calmer, knowing that every idea is being tracked. It will become more focused, knowing it can put thoughts on hold and access them later. I often hear that people start to feel a tremendous sense of conviction—for their goals, their dreams, and the things they want to change or influence in the world—because they know they have a powerful system behind them amplifying every move they make
+
+*****
+
+Giving Your First Brain a New Job
+
+*****
+
+Instead of trying to optimize your mind so that it can manage every tiny detail of your life, it’s time to fire your biological brain from that job and give it a new one: as the CEO of your life, orchestrating and managing the process of turning information into results
+
+*****
+
+by doing so, freeing it to absorb and integrate new knowledge in more creative ways.
+
+*****
+
+Your Second Brain is always on, has perfect memory, and can scale to any size
+
+*****
+
+Once your biology is no longer the bottleneck on your potential, you’ll be free to expand the flow of information as much as you want without drowning in it
+
+*****
+
+You’ll be more balanced and peaceful, knowing you can step away from that flow at any time because it’s all being stored safely outside your head. You will be more trusting, because you’ve learned to trust a system outside yourself. It will be incredibly humbling and reassuring, in fact, that you are not solely responsible for all the remembering that needs to happen in your life. You will be more open-minded, willing to consider more unorthodox, more challenging, more unfinished ideas, because you have a plentiful supply of alternatives to choose from. You’ll want to expose yourself to more diverse perspectives, from more people, without necessarily committing to any single one. You’ll become a curator of perspectives, free to pick and choose the beliefs and concepts that serve you best in any given situation.
+
+*****
+
+Delegating a job you’ve been doing for a long time is always intimidating.
+
+*****
+
+without our thoughts as distractions, we are left to sit with uncomfortable questions about our future and our purpose.
+
+*****
+
+That is why building a Second Brain is a journey of personal growth
+
+*****
+
+You don’t know exactly who you will be and what it will be like on the other side, but if you persevere through the transition, there is always a new horizon of hope, possibility, and freedom waiting for you on the other side.
+
+*****
+
+The Shift from Scarcity to Abundance
+
+*****
+
+How do you know when you’ve begun making the shift to this new identity I’ve described? The biggest shift that starts to occur as soon as you start creating a Second Brain is the shift from viewing the world through the lens of scarcity to seeing it through the lens of abundance.
+
+*****
+
+We’ve been conditioned to view information through a consumerist lens: that more is better, without limit
+
+*****
+
+The opposite of a Scarcity Mindset is an Abundance Mindset
+
+*****
+
+An Abundance Mindset tells us that there is an endless amount of incredibly powerful knowledge everywhere we look
+
+*****
+
+It also tells us that we don’t need to consume or understand all of it, or even much of it
+
+*****
+
+You don’t need to go out and hunt down insights. All you have to do is listen to what life is repeatedly trying to tell you
+
+*****
+
+Life tends to surface exactly what we need to know
+
+*****
+
+It patiently teaches us in what ways our thinking is not accurate, and those lessons tend to show up across our lives again and again.
+
+*****
+
+Making the shift to a mindset of abundance is about letting go of the things we thought we needed to survive but that no longer serve us. It means giving up low-value work that gives us a false sense of security but that doesn’t call forth our highest selves. It’s about letting go of low-value information that seems important, but that doesn’t make us better people. It’s about putting down the protective shield of fear that tells us we need to protect ourselves from the opinions of others, because that same shield is keeping us from receiving the gifts they want to give us.
+
+*****
+
+The Shift from Obligation to Service
+
+*****
+
+You will transition from doing things primarily out of obligation or pressure to doing things from a spirit of service.
+
+*****
+
+I believe most people have a natural desire within them to serve others.
+They want to teach, to mentor, to help, to contribute. The desire to give back is a fundamental part of what makes us human.
+
+*****
+
+You are under no obligation to help others
+
+*****
+
+I’ve noticed time and again a phenomenon that happens as people collect more and more knowledge in their Second Brain.
+That inner desire to serve slowly comes to the surface
+
+*****
+
+The purpose of knowledge is to be shared. What’s the point of knowing something if it doesn’t positively impact anyone, not even yourself
+
+*****
+
+Knowledge is the only resource that gets better and more valuable the more it multiplies
+
+*****
+
+Knowledge becomes more powerful as it spreads.
+
+*****
+
+People who don’t know where to look for solutions to problems they might not even know they have. You can be that person for them. You can pay forward some of the immense care that has been poured into you by a lifetime of parents, teachers, and mentors
+
+*****
+
+Your Second Brain starts as a system to support you and your goals, but from there it can just as easily be used to support others and their dreams.
+
+*****
+
+The Shift from Consuming to Creating
+
+*****
+
+At its core, it is about cultivating self-awareness and self-knowledge
+--
+The Second Brain 
+
+*****
+
+Every external idea is like a mirror, surfacing within us the truths and the stories that want to be told.
+
+*****
+
+We know more than we can say
+--
+Polanyi’s Paradox
+
+*****
+
+Polanyi observed that there are many tasks we can easily perform as humans that we can’t fully explain
+
+*****
+
+For example, driving a car or recognizing a face
+
+*****
+
+That’s because we are relying on tacit knowledge, which is impossible to describe in exact detail
+
+*****
+
+This problem—known as “self-ignorance”—has been a major roadblock in the development of artificial intelligence and other computer systems.
+Because we cannot describe how we know what we know, it can’t be programmed into software.
+
+*****
+
+As you build your Second Brain, you will collect many facts and figures, but they are just a means to an end: discovering the tacit knowledge that lives within you
+
+*****
+
+We are constantly told that we should be true to ourselves and pursue our deepest desires, but what if you don’t know what your goals and desires are?
+
+*****
+
+Self-direction is impossible without self-knowledge
+
+*****
+
+Our Fundamental Need for Self-Expression
+
+*****
+
+The first was meditation and mindfulness. I began to meditate and discovered a whole realm of spirituality and introspection that I never knew existed. I learned, to my astonishment, that I am not my thoughts. That my thoughts were the constant background chatter of my subconscious mind, and that I could choose whether to “believe” what they were telling me.
+
+*****
+
+Meditation gave me more relief from my symptoms than anything the doctors could prescribe. My pain became my teacher, showing me what needed my attention
+
+*****
+
+self-expression is a fundamental human need
+
+*****
+
+Self-expression is as vital to our survival as food or shelter. We must be able to share the stories of our lives—from the small moments of what happened today at school to our grandest theories of what life is about.
+
+*****
+
+Your Turn: The Courage to Share
+
+*****
+
+You can change lives by sharing yourself with others
+
+*****
+
+It takes courage and vulnerability to stand up and deliver your message. It takes going against the grain, refusing to be quiet and hidden in the face of fear. Finding your voice and speaking your truth is a radical act of self-worth: Who are you to speak up? Who says you have anything to offer?
+Who are you to demand people’s attention and take up their time?
+
+*****
+
+The only way to discover the answer to these questions is by speaking and seeing what comes out
+
+*****
+
+occasionally, you will strike on something—a way of seeing, a perspective, a story—that blows people’s minds and visibly transforms how they see the world
+
+*****
+
+For a brief moment, you get to feel in your bones that we are all in this together
+
+*****
+
+We are all part of a vast tattered fabric of humanity, and your highest calling is simply to play your part in it.
+
+*****
+
+Final Thoughts: You Can Do This
+
+*****
+
+There is no single right way to build a Second Brain. Your system can look like chaos to others, but if it brings you progress and delight, then it’s the right one
+
+*****
+
+As your needs change, give yourself the freedom to discard or take on whichever parts serve you
+
+*****
+
+This isn’t a “take it or leave it” ideology where you must accept all of it or none of it
+
+*****
+
+you can always fall back on the four steps of CODE
+
+*****
+
+If at any point you feel overwhelmed, take a step back and focus on what is immediately necessary: your most important projects and priorities
+
+*****
+
+You can also simplify things by focusing on just one stage of building your Second Brain. Think about where you are now and where you want to be in the near future
+
+*****
+
+Are you hoping to remember more? Focus on developing the practice of capturing and organizing your notes according to your projects, commitments, and interests using PARA.
+
+*****
+
+Are you hoping to connect ideas and develop your ability to plan, influence, and grow in your personal and professional life? Experiment with consistently distilling and refining your notes using Progressive Summarization and revisiting them during weekly reviews.
+
+*****
+
+Are you committed to producing more and better output with less frustration and stress? Focus on creating one Intermediate Packet at a time and looking for opportunities to share them in ever more bold ways.
+
+*****
+
+As you begin your journey, here are twelve practical steps you can take right now to get your Second Brain started
+
+*****
+
+Each one of them is a starting point to begin establishing the habits of personal knowledge management in your life:
+
+*****
+
+1. Decide what you want to capture. Think about your Second Brain as an intimate commonplace book or journal. What do you most want to capture, learn, explore, or share? Identify two to three kinds of content that you already value to get started with.
+
+*****
+
+2. Choose your notes app. If you don’t use a digital notes app, get started with one now. See Chapter 3 and use the free guide at Buildingasecondbrain.com/resources for up-to-date comparisons and recommendations.
+
+*****
+
+3. Choose a capture tool. I recommend starting with a read later app to begin saving any article or other piece of online content you’re interested in for later consumption. Believe me, this one step will change the way you think about consuming content forever.
+
+*****
+
+4. Get set up with PARA. Set up the four folders of PARA (Projects; Areas;
+Resources; Archives) and, with a focus on actionability, create a dedicated folder (or tag) for each of your currently active projects.
+Focus on capturing notes related to those projects from this point forward.
+
+*****
+
+5. Get inspired by identifying your twelve favorite problems. Make a list of some of your favorite problems, save the list as a note, and revisit it any time you need ideas for what to capture. Use these open-ended questions as a filter to decide which content is worth keeping.
+
+*****
+
+6. Automatically capture your ebook highlights. Set up a free integration to automatically send highlights from your reading apps (such as a read later or ebook app) to your digital notes (see my recommendations at Buildingasecondbrain.com/resources).
+
+*****
+
+7. Practice Progressive Summarization. Summarize a group of notes related to a project you’re currently working on using multiple layers of highlighting to see how it affects the way you interact with those notes.
+
+*****
+
+8. Experiment with just one Intermediate Packet. Choose a project that might be vague, sprawling, or simply hard, and pick just one piece of it to work on—an Intermediate Packet. Maybe it is a business proposal, a chart, a run of show for an event, or key topics for a meeting with your boss. Break the project down into smaller pieces, make a first pass at one of the pieces, and share it with at least one person to get feedback.
+
+*****
+
+9. Make progress on one deliverable. Choose a project deliverable you’re responsible for and, using the Express techniques of Archipelago of Ideas, Hemingway Bridge, and Dial Down the Scope, see if you can make decisive progress on it using only the notes in your Second Brain.
+
+*****
+
+10. Schedule a Weekly Review. Put a weekly recurring meeting with yourself on your calendar to begin establishing the habit of conducting a Weekly Review. To start, just clear your notes inbox and decide on your priorities for the week. From there, you can add other steps as your confidence grows.
+
+*****
+
+11. Assess your notetaking proficiency. Evaluate your current notetaking practices and areas for potential improvement using our free assessment tool at Buildingasecondbrain.com/quiz.
+
+*****
+
+12. Join the PKM community. On Twitter, LinkedIn, Substack, Medium, or your platform(s) of choice, follow and subscribe to thought leaders and join communities who are creating content related to personal knowledge management (#PKM), #SecondBrain, #BASB, or #toolsforthought. Share your top takeaways from this book or anything else you’ve realized or discovered. There’s nothing more effective for adopting new behaviors than surrounding yourself with people who already have them
+
+*****
+
+While building a Second Brain is a project—something you can commit to and achieve within a reasonable period of time— using your Second Brain is a lifelong practice
+
+*****
+
+I recommend you revisit Building a Second Brain at various points over time
+
+*****
+
+As you embark on the lifelong path of personal knowledge management, remember that you’ve achieved success before. There have been practices that you’d never heard of before, that are now integral parts of your life.
+
+*****
+
+There have been habits and skills that seemed impossible to master, that you now can’t imagine living without. There have been new technologies that you swore you would never embrace that you now use every day. This is the same
+
+*****
+
+If I could leave you with one last bit of advice, it is to chase what excites you
+
+*****
+
+When you are captivated and obsessed by a story, an idea, or a new possibility, don’t just let that moment pass as if it doesn’t matter
+
+*****
+
+Just be sure to take notes along the way

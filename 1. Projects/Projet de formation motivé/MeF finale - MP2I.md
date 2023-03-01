@@ -1,0 +1,7 @@
+Bonjour Madame, Monsieur. Étant fortement désireux à suivre la formation MP2I dans votre établissement à Vannes, je vous présente les raisons qui font que vous pourriez m'accepter.
+
+Mon choix de spécialité pour le première et la terminale est adapté vis-à-vis de la MP2I car il comportait les spécialités Mathématiques et Numérique et Sciences Informatiques. En Mathématiques, ma moyenne en première est de --,-- et, en terminale, de 14.36 au premier trimestre et 12.20 au deuxième trimestre. En Numérique et Sciences Informatiques, ma moyenne en première est de --,-- et, en terminale, de 19.36 au premier trimestre et 19.20 au deuxième trimestre. Je n'ai pas suivi la spécialité Physique-Chimie en 1ère, pourtant ma moyenne d'enseignement scientifique de première est de 15,10 et, en terminale, de 17,00 au premier trimestre et 20,00 au deuxième trimestre. Ma moyenne d'anglais en première est de 15,30 et, en terminale, de 18,00 au premier trimestre et de 16,00 au deuxième trimestre.
+Ayant suivi la spécialité Mathématiques et NSI en première et terminale, je maîtrise le programme entièrement. De plus, étant intéressés par l'informatique, j'ai appris le language C, Java, et Kotlin grâce à des cours, sur Open Classrooms par exemple, que j'ai approfondi en faisant des exercices sur Codewars.
+Intégré votre lycée sera l'occasion d'améliorer ma capacité à travailler en autonomie de manière efficace.
+
+En espérant qu'à travers cette lettre, ma cadidature réponde à vos attentes.

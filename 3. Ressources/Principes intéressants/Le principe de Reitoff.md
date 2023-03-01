@@ -1,0 +1,1 @@
+S'autoriser de prendre une période de repos sI l'on sait que l'on ne sera pas productif pour pouvoir récupérer rapidement.

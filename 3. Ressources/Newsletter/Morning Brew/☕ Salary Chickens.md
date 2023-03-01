@@ -1,0 +1,66 @@
+![[Morning Brew.png]]
+# Good Morning
+Spooky season has officially ended, and whatever the period in between Halloween and Thanksgiving is called has begun (light coat-a-thon?). Whatever you want to name it, it’s going to be hella busy.
+
+-   The midterms are one week from today.
+-   _Black Panther: Wakanda Forever_ arrives Friday the 11th.
+-   The World Cup begins on the 20th.
+-   A 16-pound Thanksgiving turkey needs to start thawing the 21st, latest.
+
+—_Matty Merritt, Max Knoblauch, Abby Rubenstein, Neal Freyman_
+# Markets News
+| Market's name | Level      | % gain/lost                 |
+| ------------- | ---------- | --------------------------- |
+| Nasdaq        | 10,988.15  | <mark class="hltr-red">-1.03%</mark> |
+| S&P           | 3,871.98   | <mark class="hltr-red">-0.75%</mark> |
+| Dow           | 32,732.95  | <mark class="hltr-red">-0.39%</mark> |
+| 10-Year       | 4.048%     | <mark class="hltr-red">-0.6 bps</mark> |
+| Bitcoin       | $20,465.66 | <mark class="hltr-red">-0.60%</mark> |
+| GameStop      | $28.31     | <mark class="hltr-green">+0.50%</mark> |
+-   **Markets:** Stocks [dipped](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cuY25iYy5jb20vMjAyMi8xMC8zMC9zdG9jay1tYXJrZXQtbmV3cy1mdXR1cmVzLW9wZW4tdG8tY2xvc2UuaHRtbA/6360d8c913646a717506c2efB0177fd6f) a bit yesterday as investors wait for the Fed’s likely move to raise interest rates by 75 basis points again on Wednesday. But it wasn’t a total fright fest on the last day of October: The Dow closed out its best month since 1976. Meme stocks also had another moment as GameStop shares were briefly halted after spiking early in the day. The price dropped back down later—and, as usual, no one can quite explain the jumpiness.
+# News of the day - New York ends salary chicken
+[![Businessperson in black and white with a line of dollar signs.](https://ci4.googleusercontent.com/proxy/BmYw6u7_89vTZ1SZzS-IwzuLcfWHHd03jkFKdGegeqtRf3mqCczd1ZvZ_dTLix2Rx80JjcxfMgebdFEVd5Rw8H5kRw2JrV1wt1U8vAiPWZdrA4XNntdzYCZMAnHR2wDzD2HogzZJRwblquesnQUudK3GPVAK4ytDPUPXy0ovkqP9-pMhnTp43fqZvNPNClMsvA=s0-d-e1-ft#https://cdn.sanity.io/images/bl383u0v/production/d7d1e8d52a8ac859d6d7dc4fef000fff43beba05-1500x1003.jpg?w=670&q=70&auto=format)](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cubW9ybmluZ2JyZXcuY29tL2RhaWx5L3N0b3JpZXMvc2FsYXJ5LXRyYW5zcGFyZW5jeS1sYXctZ29lcy1pbnRvLWVmZmVjdC1pbi1uZXcteW9yaz91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3Jm1pZD0yMzBkZjcwMjQ3ZDk2NjZkMDM0MDk4MDljZTUxNjRkZA/6360d8c913646a717506c2efCbdbd783f)_Photo Illustration: Dianna “Mick” McDougall, Photo: Jose Luis Pelaez Inc/Getty Images_
+
+If you work in New York City, you can celebrate Marked-Down-Halloween-Candy Day by comparing your salary to your future coworkers’. Today a new city law goes into effect that requires companies with four or more employees to disclose a specific [pay range](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cuY25iYy5jb20vMjAyMi8xMC8zMS9zYWxhcnktcmFuZ2VzLWFyZS1jb21pbmctdG8tbnljLWpvYi1hZHMtb24tbm92LTFoZXJlcy13aGF0LXRvLWtub3cuaHRtbD91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efB6128a678) in every job posting.
+
+Several states including Colorado, California, and Washington have already passed similar transparency laws, with more on the horizon.
+
+Supporters of salary transparency laws say the rules will help close racial and gender pay gaps. Even businesses that initially pushed back against the NYC law, calling it another hurdle in a tight labor market, are now submitting to the inevitable pay transparency wave.
+
+**It doesn’t matter where a job is posted:** Internal or external sites, flyers, classified ads—even if a job opening is yelled out in the middle of Times Square by the town crier, it will need a salary range. Indeed said it won’t post any NYC-based roles that don’t include salary ranges as of today.
+
+The law is expected to affect 4 million private-sector employees: It covers full- and part-time roles, internships, and independent contractors.
+
+## Even if you don’t live in NYC, you’ll start to see changes
+
+If an NYC-based company is hiring for a remote role outside of the Big Apple, it won’t technically need to include the salary info. But companies hiring all over the country are now likely to slap salary ranges on every job. Corporations like American Express and Citigroup have already started doing just that. And a majority of workplaces are seriously considering it, according to a [survey](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMTAtMzEvYW1leC1qb2lucy1maXJtcy1wb3N0aW5nLXNhbGFyeS1yYW5nZXMtZm9yLWFsbC11cy1qb2ItcG9zdGluZ3M_c3JuZD1wcmVtaXVtJnNyZWY9S2tQenBadnombGVhZFNvdXJjZT11dmVyaWZ5JTIwd2FsbA/6360d8c913646a717506c2efB0cd14abe) from consulting firm Willis Towers Watson.
+
+**There may be some growing pains…**companies are preparing for a surge of raise requests after employees get a clearer picture of what their bosses are willing to pay for someone to do their jobs.—_MM_
+# World -Tour  de headlines
+![A gold oil drum](https://ci4.googleusercontent.com/proxy/zM7x3JyuyJ_Qxe_lRetYMYkpnMsXiziexitL6aFBXIJ2xkb5GEe_t9Bt-iqGT904So4rw94JRwqax6Y3Iqb0z3UAs8EqGneqgSLDduJyvwbe-txlLeI5-IuFw4UZRyGHxn7lxL8_d1NrgvaU-MOq8RU9DlSTE-J7JjYS1NGtuClexprebzCMWVU4KP5EqMzwKA=s0-d-e1-ft#https://cdn.sanity.io/images/bl383u0v/production/fe3a6f4884f02ef4dfe49a01ba2f35b6581f0ad2-1500x1000.jpg?w=670&q=70&auto=format)
+
+_Francis Scialabba_
+
+🛢️ **Biden threatens oil companies with higher taxes.** Days after oil companies reported massive profits for the last quarter, President Biden [accused](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cucmV1dGVycy5jb20vYnVzaW5lc3MvZW5lcmd5L2JpZGVuLWFkZHJlc3Mtb2lsLWNvbXBhbnktcHJvZml0cy00MzAtcG0tcmVtYXJrcy0yMDIyLTEwLTMxLz91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efB8350c21b) them of profiteering off the war in Ukraine, and urged them to boost production and bring prices down. If they don’t increase output, he vowed to work with Congress to impose higher taxes in his latest bid to bring gas prices down as midterms approach.
+
+🇺🇸 **Pelosi attack suspect wanted to “break her kneecaps,” authorities say.** David DePape, who allegedly broke into House Speaker Nancy Pelosi’s home and beat her husband Paul Pelosi with a hammer, planned to [take her hostage](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvdHdpdHRlci1pbmMtc2FuLWZyYW5jaXNjby1jb25zcGlyYWN5LXRoZW9yaWVzLW5hbmN5LXBlbG9zaS1jb25ncmVzcy1lMmQ4ZmM5MDU1M2MyNGI1ZTUxNjJlMDJlNjM3ODMyMT91dG1fc291cmNlPWhvbWVwYWdlJnV0bV9tZWRpdW09VG9wTmV3cyZ1dG1fY2FtcGFpZ249cG9zaXRpb25fMDI/6360d8c913646a717506c2efB06af1f30) and harm her as a warning to other politicians, a federal criminal complaint filed against him yesterday said. DePape has been charged with assault and attempted kidnapping, as well as other crimes.
+
+🎵 **Turns out everyone was rooting for the anti-hero.** Taylor Swift became the first artist in history to [occupy](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cuYmlsbGJvYXJkLmNvbS9tdXNpYy9jaGFydC1iZWF0L3RheWxvci1zd2lmdC1hbGwtaG90LTEwMC10b3AtMTAtYW50aS1oZXJvLTEyMzUxNjM2NjQvP3V0bV9jYW1wYWlnbj1tYiZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1tb3JuaW5nX2JyZXc/6360d8c913646a717506c2efB06b83f0b) all top 10 spots on the Billboard Hot 100 song chart with tracks from her new album, _Midnights_, last week. And although we’re all still wondering how “Vigilante Shit” squeaked in there, Swift now has the most top 10 songs (40) of any woman artist, beating Madonna by two songs.
+# What else is brewing
+-   [A judge](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMi8xMC8zMS9ib29rcy9wZW5ndWluLXJhbmRvbS1ob3VzZS1zaW1vbi1zY2h1c3Rlci5odG1sP3V0bV9jYW1wYWlnbj1tYiZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1tb3JuaW5nX2JyZXc/6360d8c913646a717506c2efBff11ecd7) blocked Penguin Random House’s acquisition of its publishing rival Simon & Schuster, reflecting the Biden administration's antitrust crackdown. Penguin Random House and its parent company will appeal.
+-   [Shanghai Disney](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3dvcmxkLWFzaWEtNjM0NTYxMDc_dXRtX2NhbXBhaWduPW1iJnV0bV9tZWRpdW09bmV3c2xldHRlciZ1dG1fc291cmNlPW1vcm5pbmdfYnJldw/6360d8c913646a717506c2efB1bed1333) abruptly closed yesterday to comply with China’s strict Covid prevention policies, leaving the park’s visitors trapped inside (with the rides still running) until they could produce negative Covid tests.
+-   [Brazil’s President Jair Bolsonaro](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cucmV1dGVycy5jb20vd29ybGQvYW1lcmljYXMvbHVsYS13aW5zLWJyYXppbGlhbi1lbGVjdGlvbi1ib2xzb25hcm8taGFzLW5vdC1jb25jZWRlZC0yMDIyLTEwLTMxLz91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efBf6250e41), who lost the country’s presidential election on Sunday, did not speak publicly yesterday, raising concerns he might refuse to concede. He plans to address the nation today.
+-   [Former President Trump](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cuY25iYy5jb20vMjAyMi8xMC8zMS90cnVtcC1hc2tzLXN1cHJlbWUtY291cnQtdG8tYmxvY2stY29uZ3Jlc3MtZ2V0dGluZy1oaXMtdGF4LXJldHVybnMuaHRtbD91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efBf57cb727) has asked the Supreme Court to keep his tax returns from getting handed over to Congress.
+-   [Katie Ledecky](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cubnByLm9yZy8yMDIyLzEwLzMxLzExMzI3Njg0MzMva2F0aWUtbGVkZWNreS13b3JsZC1yZWNvcmQtMTUwMD91dG1fY2FtcGFpZ249bWImdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bW9ybmluZ19icmV3/6360d8c913646a717506c2efB64ee62dd) set a new world record for the 1,500-meter freestyle this weekend. The US Olympic swimmer demolished the old record by almost 10 seconds.
+# Brew's bets
+**Need a name?** This [AI business name generator](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly9uYW1lbGl4LmNvbS8_dXRtX2NhbXBhaWduPVJlY29tZW5kbyZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9UmV2dWUlMjBuZXdzbGV0dGVy/6360d8c913646a717506c2efB82285800) will take your keywords and spit out a brand identity for you.
+
+**Winter is coming (but for real):** [10 ways to get your home ready](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly93d3cuY25ldC5jb20vaG9tZS9lbmVyZ3ktYW5kLXV0aWxpdGllcy9wcmVwYXJlLXlvdXItaG9tZS1mb3Itd2ludGVyLXdpdGgtdGhlc2UtMTAtdGlwcy8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXBvY2tldF9oaXRzJnV0bV9jYW1wYWlnbj1QT0NLRVRfSElUUy1FTi1EQUlMWS1SRUNTLTIwMjJfMTBfMzEmc3BvbnNvcmVkPTAmcG9zaXRpb249NSZzY2hlZHVsZWRfY29ycHVzX2l0ZW1faWQ9MWY5NjhhZTYtNjZiNi00ZjM0LTg5NTYtMTUzNGQ0NmUzMzMwP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wb2NrZXRfaGl0cyZ1dG1fY2FtcGFpZ249UE9DS0VUX0hJVFMtRU4tREFJTFktUkVDUy0yMDIyXzEwXzMxJnNwb25zb3JlZD0w/6360d8c913646a717506c2efB46d33111) before it gets cold.
+
+**Hate the sound of your own voice? Us too. But why?** Actress, writer, and director Lake Bell tries to find out in her new audiobook that features contributors like Drew Barrymore, Susie Essman, and Jeff Goldblum. [Check it out](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly9iaXQubHkvaW5zaWRldm9pY2VicmV3P3V0bV9jYW1wYWlnbj1tYiZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1tb3JuaW5nX2JyZXc/6360d8c913646a717506c2efB2ad2b77d).
+
+**A step toward financial security:** Expert financial planning from [Facet Wealth](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly9mYWNldHdlYWx0aC5jb20vbW9ybmluZy1icmV3Lz91dG1fY2FtcGFpZ249aDItMjAyMiZ1dG1fbWVkaXVtPXBhaWQtbWVkaWEtc3BvbnNvcnNoaXAmdXRtX3NvdXJjZT1tb3JuaW5nLWJyZXcmdXRtX3Rlcm09QnJld3MtQmV0cyZ1dG1fY29udGVudD1Ob3YtMQ/6360d8c913646a717506c2efBcba2557a) provides unbiased guidance so you can save, spend, and invest with confidence—now _and_ into the future. [Get 2 months free* during your first year](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly9mYWNldHdlYWx0aC5jb20vbW9ybmluZy1icmV3Lz91dG1fY2FtcGFpZ249aDItMjAyMiZ1dG1fbWVkaXVtPXBhaWQtbWVkaWEtc3BvbnNvcnNoaXAmdXRtX3NvdXJjZT1tb3JuaW5nLWJyZXcmdXRtX3Rlcm09QnJld3MtQmV0cyZ1dG1fY29udGVudD1Ob3YtMQ/6360d8c913646a717506c2efCcba2557a).*
+
+**A fresh $500:** On this season of our _Fresh Invest_ podcast, we’ve covered everything from thematic investing to crypto’s tax implications. [Take this recap quiz](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly9wb2RjYXN0LmZyZXNoaW52ZXN0LnNpdGUvcC8xP3V0bV9jYW1wYWlnbj1tYiZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1tb3JuaW5nX2JyZXc/6360d8c913646a717506c2efB4614e500) for a chance to win one of 10 [$500 prizes from Morning Brew](https://link.morningbrew.com/click/29550149.3642934/aHR0cHM6Ly9wb2RjYXN0LmZyZXNoaW52ZXN0LnNpdGUvcC8xP3V0bV9jYW1wYWlnbj1tYiZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1tb3JuaW5nX2JyZXc/6360d8c913646a717506c2efC4614e500).*
+
+_*This is sponsored advertising content._

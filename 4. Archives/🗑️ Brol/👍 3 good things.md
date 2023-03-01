@@ -1,0 +1,32 @@
+# #décembre-2022
+- [ ] 👍 3 good things ^01-12
+- [ ] 👍 3 good things ^02-12
+- [ ] 👍 3 good things ^03-12
+- [ ] 👍 3 good things ^04-12
+- [ ] 👍 3 good things ^05-12
+- [ ] 👍 3 good things ^06-12
+- [ ] 👍 3 good things ^07-12
+- [x] 👍 3 good things ^08-12
+- [x] 👍 3 good things ^09-12
+- [x] 👍 3 good things ^10-12
+- [x] 👍 3 good things ^11-12
+- [ ] 👍 3 good things ^12-12
+- [ ] 👍 3 good things ^13-12
+- [ ] 👍 3 good things ^14-12
+- [ ] 👍 3 good things ^15-12
+- [ ] 👍 3 good things ^16-12
+- [x] 👍 3 good things ^17-12
+- [x] 👍 3 good things ^18-12
+- [ ] 👍 3 good things ^19-12
+- [ ] 👍 3 good things ^20-12
+- [ ] 👍 3 good things ^21-12
+- [x] 👍 3 good things ^22-12
+- [x] 👍 3 good things ^23-12
+- [ ] 👍 3 good things ^24-12
+- [ ] 👍 3 good things ^25-12
+- [ ] 👍 3 good things ^26-12
+- [ ] 👍 3 good things ^27-12
+- [ ] 👍 3 good things ^28-12
+- [ ] 👍 3 good things ^29-12
+- [ ] 👍 3 good things ^30-12
+- [ ] 👍 3 good things ^31-12

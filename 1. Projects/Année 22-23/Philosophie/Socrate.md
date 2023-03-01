@@ -1,0 +1,1 @@
+Philosophe de l'Antiquité n'ayant rien écrit, dont les pensées ont été répandues grâce à [[Platon]]

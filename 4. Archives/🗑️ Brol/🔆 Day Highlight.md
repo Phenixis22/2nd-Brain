@@ -1,0 +1,64 @@
+# #décembre-2022
+- [x] 🔆 Day Highlight (non effectué la veille) ^01-12
+- [x] 🔆 Day Highlight ^02-12
+- [x] 🔆 Day Highlight ^03-12
+- [ ] 🔆 Day Highlight ^04-12
+- [x] 🔆 Day Highlight ^05-12
+- [x] 🔆 Day Highlight ^06-12
+- [x] 🔆 Day Highlight ^07-12
+- [x] 🔆 Day Highlight ^08-12
+- [ ] 🔆 Day Highlight ^09-12
+- [/] 🔆 Day Highlight ^10-12
+- [/] 🔆 Day Highlight ^11-12
+- [ ] 🔆 Day Highlight ^12-12
+- [ ] 🔆 Day Highlight ^13-12
+- [ ] 🔆 Day Highlight ^14-12
+- [ ] 🔆 Day Highlight ^15-12
+- [ ] 🔆 Day Highlight ^16-12
+- [ ] 🔆 Day Highlight ^17-12
+- [ ] 🔆 Day Highlight ^18-12
+- [x] 🔆 Day Highlight ^19-12
+- [ ] 🔆 Day Highlight ^20-12
+- [ ] 🔆 Day Highlight ^21-12
+- [ ] 🔆 Day Highlight ^22-12
+- [ ] 🔆 Day Highlight ^23-12
+- [x] 🔆 Day Highlight ^24-12
+- [ ] 🔆 Day Highlight ^25-12
+- [ ] 🔆 Day Highlight ^26-12
+- [ ] 🔆 Day Highlight ^27-12
+- [ ] 🔆 Day Highlight ^28-12
+- [ ] 🔆 Day Highlight ^29-12
+- [ ] 🔆 Day Highlight ^30-12
+- [ ] 🔆 Day Highlight ^31-12
+
+# #novembre-2022
+- [ ] Day Highlight ^01-11
+- [ ] Day Highlight ^02-11
+- [ ] Day Highlight ^03-11
+- [ ] Day Highlight ^04-11
+- [ ] Day Highlight ^05-11
+- [ ] Day Highlight ^06-11
+- [ ] Day Highlight ^07-11
+- [ ] Day Highlight ^08-11
+- [ ] Day Highlight ^09-11
+- [ ] Day Highlight ^10-11
+- [ ] Day Highlight ^11-11
+- [ ] Day Highlight ^12-11
+- [ ] Day Highlight ^13-11
+- [ ] Day Highlight ^14-11
+- [ ] Day Highlight ^15-11
+- [ ] Day Highlight ^16-11
+- [ ] Day Highlight ^17-11
+- [ ] Day Highlight ^18-11
+- [ ] Day Highlight ^19-11
+- [ ] Day Highlight ^20-11
+- [ ] Day Highlight ^21-11
+- [ ] Day Highlight ^22-11
+- [/] Day Highlight - commencé mais fin reportée au lendemain car + de temps pour le faire ^23-11
+- [x] Day Highlight ^24-11
+- [ ] Day Highlight ^25-11
+- [x] Day Highlight ^26-11
+- [x] Day Highlight ^27-11
+- [x] Day Highlight ^28-11
+- [/] Day Highlight ^29-11
+- [ ] Day Highlight (pas effectué la veille) ^30-11

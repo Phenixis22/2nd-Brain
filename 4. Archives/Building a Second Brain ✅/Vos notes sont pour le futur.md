@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#Quantum Notetaking: How to Create Notes for an Unknown Future]]

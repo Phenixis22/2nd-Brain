@@ -1,0 +1,1 @@
+![[The Psychology of Money - quotes#7. Freedom]]

@@ -1,0 +1,6 @@
+Les 4 lois du changement sont un ensemble de <mark class="hltr-default">règles **simples**</mark> permettant de <mark class="hltr-default">**créer** de bonnes habitudes</mark> et d'<mark class="hltr-default">**éliminer** les mauvaises</mark>. Chaque loi est liée à une étape de l'habitude.
+
+[[Un rien peut tout changer - quotes#La 1ère loi : L’évidence|La 1ère loi]] est liée au <mark class="hltr-default">déclencheur</mark> et permet de rendre l'habitude <mark class="hltr-default">évidente</mark>.
+[[Un rien peut tout changer - quotes#La 2e loi : L’attractivité|La 2ème loi]] est liée à l'<mark class="hltr-default">envie</mark> et permet de rendre l'habitude <mark class="hltr-default">attractive</mark>.
+[[Un rien peut tout changer - quotes#La 3e loi : La facilité|La 3ème loi]] est liée à la <mark class="hltr-default">réponse</mark> et permet de rendre l'habitude <mark class="hltr-default">facile</mark>.
+[[Un rien peut tout changer - quotes#La 4e loi : La satisfaction|La 4ème loi]] est liée à la <mark class="hltr-default">récompense</mark> et permet de rendre l'habitude <mark class="hltr-default">satisfaisante</mark>.

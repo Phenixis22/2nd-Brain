@@ -1,0 +1,1 @@
+Région dans l'ouest de la France comptant 4 départements : les côtes d'Armor, le Finistère, l'Ille-et-Vilaine, le Morbihan.

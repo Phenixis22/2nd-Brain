@@ -1,0 +1,1 @@
+Le biais des survivants est une forme de <mark class="hltr-default">biais de sélection consistant à **surévaluer les chances de succès** d'une initiative en **concentrant l'attention sur les sujets ayant réussi mais qui sont des exceptions statistiques** plutôt que des cas représentatifs</mark>

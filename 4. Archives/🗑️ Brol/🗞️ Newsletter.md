@@ -1,0 +1,64 @@
+# #décembre-2022
+- [ ] 🗞️ Newsletter (non effectué la veille) ^01-12
+- [ ] 🗞️ Newsletter ^02-12
+- [ ] 🗞️ Newsletter ^03-12
+- [ ] 🗞️ Newsletter ^04-12
+- [ ] 🗞️ Newsletter ^05-12
+- [ ] 🗞️ Newsletter ^06-12
+- [ ] 🗞️ Newsletter ^07-12
+- [ ] 🗞️ Newsletter ^08-12
+- [ ] 🗞️ Newsletter ^09-12
+- [ ] 🗞️ Newsletter ^10-12
+- [ ] 🗞️ Newsletter ^11-12
+- [ ] 🗞️ Newsletter ^12-12
+- [ ] 🗞️ Newsletter ^13-12
+- [ ] 🗞️ Newsletter ^14-12
+- [ ] 🗞️ Newsletter ^15-12
+- [ ] 🗞️ Newsletter ^16-12
+- [ ] 🗞️ Newsletter ^17-12
+- [ ] 🗞️ Newsletter ^18-12
+- [ ] 🗞️ Newsletter ^19-12
+- [ ] 🗞️ Newsletter ^20-12
+- [ ] 🗞️ Newsletter ^21-12
+- [ ] 🗞️ Newsletter ^22-12
+- [ ] 🗞️ Newsletter ^23-12
+- [ ] 🗞️ Newsletter ^24-12
+- [ ] 🗞️ Newsletter ^25-12
+- [ ] 🗞️ Newsletter ^26-12
+- [ ] 🗞️ Newsletter ^27-12
+- [ ] 🗞️ Newsletter ^28-12
+- [ ] 🗞️ Newsletter ^29-12
+- [ ] 🗞️ Newsletter ^30-12
+- [ ] 🗞️ Newsletter ^31-12
+
+# #novembre-2022
+- [ ] Newsletter ^01-11
+- [ ] Newsletter ^02-11
+- [ ] Newsletter ^03-11
+- [ ] Newsletter ^04-11
+- [ ] Newsletter ^05-11
+- [ ] Newsletter ^06-11
+- [ ] Newsletter ^07-11
+- [ ] Newsletter ^08-11
+- [ ] Newsletter ^09-11
+- [ ] Newsletter ^10-11
+- [ ] Newsletter ^11-11
+- [ ] Newsletter ^12-11
+- [ ] Newsletter ^13-11
+- [ ] Newsletter ^14-11
+- [ ] Newsletter ^15-11
+- [ ] Newsletter ^16-11
+- [ ] Newsletter ^17-11
+- [ ] Newsletter ^18-11
+- [ ] Newsletter ^19-11
+- [ ] Newsletter ^20-11
+- [ ] Newsletter ^21-11
+- [ ] Newsletter ^22-11
+- [ ] Newsletter ^23-11
+- [x] Newsletter ^24-11
+- [?] Newsletter ^25-11
+- [?] Newsletter ^26-11
+- [x] Newsletter ^27-11
+- [x] Newsletter ^28-11
+- [x] Newsletter ^29-11
+- [ ] Newsletter ^30-11

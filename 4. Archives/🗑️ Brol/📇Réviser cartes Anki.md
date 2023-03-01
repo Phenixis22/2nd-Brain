@@ -1,0 +1,33 @@
+# #décembre-2022
+- [ ] 📇Réviser cartes Anki ^01-12
+- [ ] 📇Réviser cartes Anki ^02-12
+- [ ] 📇Réviser cartes Anki ^03-12
+- [ ] 📇Réviser cartes Anki ^04-12
+- [ ] 📇Réviser cartes Anki ^05-12
+- [ ] 📇Réviser cartes Anki ^06-12
+- [ ] 📇Réviser cartes Anki ^07-12
+- [ ] 📇Réviser cartes Anki ^08-12
+- [ ] 📇Réviser cartes Anki ^09-12
+- [ ] 📇Réviser cartes Anki ^10-12
+- [ ] 📇Réviser cartes Anki ^11-12
+- [ ] 📇Réviser cartes Anki ^12-12
+- [ ] 📇Réviser cartes Anki ^13-12
+- [ ] 📇Réviser cartes Anki ^14-12
+- [ ] 📇Réviser cartes Anki ^15-12
+- [ ] 📇Réviser cartes Anki ^16-12
+- [ ] 📇Réviser cartes Anki ^17-12
+- [ ] 📇Réviser cartes Anki ^18-12
+- [ ] 📇Réviser cartes Anki ^19-12
+- [ ] 📇Réviser cartes Anki ^20-12
+- [ ] 📇Réviser cartes Anki ^21-12
+- [ ] 📇Réviser cartes Anki ^22-12
+- [ ] 📇Réviser cartes Anki ^23-12
+- [x] 📇Réviser cartes Anki ^24-12
+- [ ] 📇Réviser cartes Anki ^25-12
+- [ ] 📇Réviser cartes Anki ^26-12
+- [ ] 📇Réviser cartes Anki ^27-12
+- [ ] 📇Réviser cartes Anki ^28-12
+- [ ] 📇Réviser cartes Anki ^29-12
+- [ ] 📇Réviser cartes Anki ^30-12
+- [ ] 📇Réviser cartes Anki ^31-12
+

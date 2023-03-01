@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "1c988a0020053269",
+    "type": "split",
+    "children": [
+      {
+        "id": "62aeacb3b0e156a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2. Areas/Futur/Finlande/Finnois/Finnois - Verbes et conjugaison.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "467ed834481dd168",
+    "type": "split",
+    "children": [
+      {
+        "id": "5766bd06716315b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06f1076e58d391c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a54f60dc50dbb1b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5a87bc3fd472a3e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339
+  },
+  "right": {
+    "id": "e301d1e2df3b0d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "1014f3cb274802b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "020c994e20c194a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Areas/Futur/Finlande/Finnois/Finnois - Verbes et conjugaison.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87cc813311a1f990",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Areas/Futur/Finlande/Finnois/Finnois - Verbes et conjugaison.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecf476380b6072e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a457879aa669d30f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Areas/Futur/Finlande/Finnois/Finnois - Verbes et conjugaison.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62aeacb3b0e156a6",
+  "lastOpenFiles": [
+    "1. Projects/Année 22-23/MDL/Projet pulls.md",
+    "1. Projects/Année 22-23/MDL/Pull bio patron.png",
+    "1. Projects/Année 22-23/MDL/Pull patron.png",
+    "1. Projects/Année 22-23/Mathématiques/Mathématiques.md",
+    "1. Projects/Année 22-23/MDL/Pull bio Coloris.png",
+    "1. Projects/Année 22-23/MDL/Coloris Pull Deuxième Bande.png",
+    "1. Projects/Année 22-23/MDL/Coloris Pull Première Bande.png",
+    "3. Ressources/PDF/Film du 19-10 (1).pdf",
+    "2. Areas/Futur/Finlande/Finnois/Finnois - Verbes et conjugaison.md",
+    "5. À Trier/Finnois - L'harmonie vocalique.md"
+  ]
+}

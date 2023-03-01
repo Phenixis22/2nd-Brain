@@ -1,0 +1,33 @@
+# {{date:#MMMM-YYYY}}
+- [ ] {{title}} ^01-{{date:MM}}
+- [ ] {{title}} ^02-{{date:MM}}
+- [ ] {{title}} ^03-{{date:MM}}
+- [ ] {{title}} ^04-{{date:MM}}
+- [ ] {{title}} ^05-{{date:MM}}
+- [ ] {{title}} ^06-{{date:MM}}
+- [ ] {{title}} ^07-{{date:MM}}
+- [ ] {{title}} ^08-{{date:MM}}
+- [ ] {{title}} ^09-{{date:MM}}
+- [ ] {{title}} ^10-{{date:MM}}
+- [ ] {{title}} ^11-{{date:MM}}
+- [ ] {{title}} ^12-{{date:MM}}
+- [ ] {{title}} ^13-{{date:MM}}
+- [ ] {{title}} ^14-{{date:MM}}
+- [ ] {{title}} ^15-{{date:MM}}
+- [ ] {{title}} ^16-{{date:MM}}
+- [ ] {{title}} ^17-{{date:MM}}
+- [ ] {{title}} ^18-{{date:MM}}
+- [ ] {{title}} ^19-{{date:MM}}
+- [ ] {{title}} ^20-{{date:MM}}
+- [ ] {{title}} ^21-{{date:MM}}
+- [ ] {{title}} ^22-{{date:MM}}
+- [ ] {{title}} ^23-{{date:MM}}
+- [ ] {{title}} ^24-{{date:MM}}
+- [ ] {{title}} ^25-{{date:MM}}
+- [ ] {{title}} ^26-{{date:MM}}
+- [ ] {{title}} ^27-{{date:MM}}
+- [ ] {{title}} ^28-{{date:MM}}
+- [ ] {{title}} ^29-{{date:MM}}
+- [ ] {{title}} ^30-{{date:MM}}
+- [ ] {{title}} ^31-{{date:MM}}
+

@@ -1,0 +1,1 @@
+![[Building a Second Brain - quotes#A Weekly Review Template: Reset to Avoid Overwhelm]]

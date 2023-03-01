@@ -1,0 +1,1 @@
+<mark class="hltr-default">Le 'Pointing and Calling' est un **système de sécurité** conçu **pour réduire les erreurs**</mark>. Le fait de pointer et d'anoncer une anomalie permet d'éliminer jusqu'à 85% des erreurs.

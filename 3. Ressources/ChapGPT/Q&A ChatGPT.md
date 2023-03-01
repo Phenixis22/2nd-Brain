@@ -1,0 +1,31 @@
+- [?] Comment peut-on connaître le cri d'un dinosaure si nous ne l'avons jamais entendu ?
+- ["] Bien que nous n'ayons jamais entendu le cri d'un dinosaure, il est possible d'en apprendre plus sur leurs sons grâce à des méthodes scientifiques. Les chercheurs peuvent étudier les fossiles de dinosaures pour voir comment leur gorge et leur larynx étaient faits, et ainsi en déduire quelles sortes de sons ils étaient capables de produire. De plus, en étudiant les cris des animaux actuels qui sont les descendants directs des dinosaures, comme les crocodiles et les oiseaux, les chercheurs peuvent trouver des informations sur les sons que les dinosaures faisaient. Ainsi, même si nous n'avons jamais entendu le cri d'un dinosaure, nous pouvons en apprendre plus sur leur vocalisation grâce à des études scientifiques.
+***
+- [?] Dans une tribu de nains, le chef est-il le plus grand ou le plus petit ?
+- ["] Dans une tribu de nains, le chef n'est pas nécessairement le plus grand ou le plus petit. En effet, ce qui compte le plus pour être chef est le respect que les autres membres de la tribu lui portent. Le chef peut être le plus grand ou le plus petit, mais ce qui compte c'est qu'il soit respecté et qu'il puisse guider et protéger la tribu.
+***
+- [?] Combien de trou a une paille ?
+- ["] Une paille a généralement un seul trou, ce qui lui permet de transporter des liquides. Ce trou est généralement situé à une extrémité de la paille et est suffisamment petit pour empêcher les particules solides de passer à travers.
+***
+- [?] De manière ironique : dans une tribu de nains, le chef est-il le plus grand ?
+- ["] Non, dans une tribu de nains, le chef n'est pas le plus grand. En fait, il est même le plus petit ! C'est une caractéristique typique des nains : le plus petit est le plus sage et le plus puissant. C'est pourquoi il est le chef de la tribu.
+***
+- [?] Donne moi un exemple de mise à jour de donnée en SQL
+- ["] Une mise à jour de données en SQL consiste à modifier des données existantes dans une table. Par exemple, si nous voulons modifier l'âge d'un client dans la table "clients", nous pouvons utiliser la commande SQL suivante : UPDATE clients SET age = 25 WHERE id = 1; Cette commande mettra à jour la colonne "âge" de la ligne avec l'identifiant "1" et le remplacera par la valeur "25".
+***
+- [?] Donne moI un exemple de suppression de donnée en SQL
+- ["] La suppression de données en SQL est une opération courante. Elle consiste à supprimer une ou plusieurs lignes d'une table spécifique. Par exemple, si vous souhaitez supprimer toutes les lignes d'une table qui contiennent un certain mot-clé, vous pouvez utiliser la commande SQL suivante : DELETE FROM nom_de_la_table WHERE mot_clé='valeur'; Cette commande supprimera toutes les lignes qui contiennent ce mot-clé et cette valeur spécifiques.
+***
+- [?] QuI suis-je ?
+- ["] Je suis une personne passionnée et curieuse qui adore apprendre de nouvelles choses et découvrir le monde. J'ai un esprit ouvert et je suis toujours prêt à explorer de nouvelles idées et à m'engager dans des projets stimulants. Je suis très créatif et j'aime partager mes idées et mes connaissances avec les autres. Je suis une personne très sociale et j'adore rencontrer de nouvelles personnes et tisser des liens avec elles. Je suis une personne qui aime rire et s'amuser, et qui apprécie la vie et tout ce qu'elle a à offrir.
+***
+- [?] Que devons-nous faire ?
+- ["] Nous devons prendre des mesures pour protéger notre planète et assurer un avenir durable pour les générations futures. Nous devons adopter des pratiques durables, telles que la réduction des déchets et l'utilisation de sources d'énergie renouvelables, et nous devons encourager les autres à en faire autant. Nous devons également prendre des mesures pour lutter contre le changement climatique, en réduisant nos émissions de gaz à effet de serre et en favorisant les pratiques agricoles durables. Enfin, nous devons nous assurer que les droits de l'homme et la justice sociale sont respectés à travers le monde.
+***
+- [?] Comment le changement climatique 
+- [ ] impacte-t-il les écosystèmes marins ?
+- ["] Le changement climatique a un impact profond et négatif sur les écosystèmes marins. Les températures des océans augmentent, ce qui entraîne une acidification des eaux, une baisse de l'oxygène et une augmentation des nutriments qui perturbent les habitats marins. Les changements climatiques peuvent également modifier les habitudes de migration des espèces marines, ce qui peut avoir des répercussions sur leur survie et leur reproduction. De plus, les tempêtes et les vagues plus intenses causées par le changement climatique peuvent endommager les habitats côtiers et les récifs coralliens, ce qui a des effets négatifs sur les communautés qui dépendent de ces écosystèmes.
+***
+- [?] De manière développée et construite, comment le changement climatique impacte-t-il les écosystèmes marins ?
+- ["] Le changement climatique a des effets profonds et néfastes sur les écosystèmes marins. Les réchauffements des océans et l'acidification des eaux sont les principales conséquences du changement climatique et ont des impacts directs sur les espèces marines. Les réchauffements des océans entraînent une hausse des températures qui peut affecter la croissance, la reproduction et la survie des espèces marines. De plus, l'augmentation de l'acidité des océans peut entraîner une diminution des stocks de calcium carbonate, ce qui peut affecter la croissance et la reproduction des organismes qui dépendent de ce composé pour leur structure, y compris les mollusques, les coraux et les crustacés. En outre, le changement climatique peut entraîner des phénomènes météorologiques extrêmes, tels que des tempêtes et des inondations, qui peuvent causer des dommages aux récifs coralliens et aux habitats marins. Les changements climatiques peuvent également entraîner une augmentation des niveaux d'oxygène dissous dans les océans, ce qui peut entraîner une diminution des populations de poissons et d'autres espèces marines. Enfin, le changement climatique peut entraîner une augmentation des déchets marins, ce qui peut avoir des conséquences néfastes sur les écosystèmes marins.
+***

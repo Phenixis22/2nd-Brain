@@ -1,0 +1,2 @@
+Un changement de comportement se fait en 3 étapes pouvant être représentées comme 3 cercles les uns dans les autres. <mark class="hltr-default">La première étape montre un **changement de résultats**. La deuxième étape montre un **changement de processus**. La troisième étape montre un **changement d'identité**.</mark>
+![[Les 3 étapes du changement de comportement.png]]

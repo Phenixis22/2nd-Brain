@@ -1,0 +1,1 @@
+Découper le livre en 10 parties égales à environ 1/10. Lisez chaque jour une partie du livre et c'est comme cela que vous lirez un livre chaque jour, soir 36 livres par an !

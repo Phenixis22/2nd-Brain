@@ -1,0 +1,21 @@
+- Lien interne : une touche rapide d'utilisation, Ctrl+1
+- Fermer la page active : même que sur un navigateur, Ctrl+W
+- Basculer entre édition et aperçu : Ctrl+E par habitude
+- To-do list : Ctrl+2 pour une touche rapide qui active la checklist
+- Créer une note (dans un autre volet) : Ctrl+(shift)+N pour new
+- Dédoubler : Ctrl+(shift)+T par facilité d'utilisation, comme l'ouverture d'une nouvelle page dans un navigateur
+- Déplacement des lignes : simple utilisation comme sur d'autres applications
+- Mettre en commentaire :  Ctrl+/ par habitude avec la programmation
+- Formatage : B pour bold, I pour italic, + pour la SURbrillance
+- Insérer le modèle : Ctrl+M par habitude
+- Modifier le titre : F2 car utilisation du même raccourci sur plusieurs applications
+- Ouvrir dans une nouvelle fenêtre : utile pour avoir une interface plus petite
+- Naviguer en arrière/avant : Ctrl+alt
+- Ouvrir le lien sous le curseur (dans un autre volet) : Ctrl+(alt)+enter 
+- Paramètres : touche rapide et peu utilisée
+- Palette de commande : Ctrl+p pour utilisation sur plusieurs apps et habitude
+- Rechercher et remplacer : alt+g pour différencier de la vue graphique et du Ctrl+f mais en être proche
+- Recherche : célèbre Ctrl+f
+- Sélecteur rapide : O pour ouvrir
+- Supprimer le fichier actuel : shift pour différencier d'une suppression de texte
+- Vue graphique (autour du fichier courant) : Ctrl+(shift)+G

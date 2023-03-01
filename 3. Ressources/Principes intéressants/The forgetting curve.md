@@ -1,0 +1,1 @@
+A curve which just shows that over time, our memories for everything decays unless we find a way to engage with it or consolidate our memory of the thing
