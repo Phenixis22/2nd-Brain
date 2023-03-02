@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "079f45fe07eb7b15",
+        "id": "9ba1b0d22d762f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "69b14bbc86d6e2b1",
+            "id": "d14fe7afdf3f0a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kotlin ->",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,9 +141,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
@@ -152,23 +153,25 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "69b14bbc86d6e2b1",
+  "active": "d14fe7afdf3f0a17",
   "lastOpenFiles": [
-    "5. À Trier/Étapes pour bien commencer quelque chose.md",
+    "3. Ressources/Langage de programmation/Kotlin/Mots-clé en Kotlin.md",
+    "3. Ressources/Langage de programmation/Kotlin/Kotlin.md",
     "3. Ressources/Newsletter/James Clear/3-2-1 - Momentum, how to be the best, and the source of inspiration.md",
+    "3. Ressources/Journal/2023/03/2023-03-02.md",
     "3. Ressources/Journal/2023/02/2023-02-23.md",
     "3. Ressources/Journal/2023/02/2023-02-22.md",
-    "5. À Trier/2023-03-03.md",
-    "3. Ressources/Journal/2023/03/2023-03-02.md",
-    "3. Ressources/Langage de programmation/Kotlin/Mots-clé en Kotlin.md",
-    "2. Areas/Ambre/Liste des choses que j'aime chez Ambre.md",
-    "1. Projects/Liste de mes projets.md",
+    "3. Ressources/Langage de programmation/Kotlin/Les structures de contrôle en Kotlin.md",
     "3. Ressources/Journal/2023/2023.md",
+    "3. Ressources/Langage de programmation/Kotlin/Les listes en kotlin.md",
+    "3. Ressources/Langage de programmation/Kotlin/Les intervalles en kotlin.md",
+    "3. Ressources/Langage de programmation/Kotlin/Les boucles en Kotlin.md",
+    "3. Ressources/Journal/2023/03/2023-03-01.md",
+    "1. Projects/Liste de mes projets.md",
     "3. Ressources/Journal/2023/2023-janvier.md",
     "3. Ressources/Journal/2023/02/2023-02-05 (conflict 2023-02-05-18-30-39).md",
     "3. Ressources/Journal/2023/02/2023-02-04 (conflict 2023-02-05-18-30-38).md",
     "3. Ressources/Journal/2023/02/2023-02-02 (conflict 2023-02-05-18-30-38).md",
-    "3. Ressources/Journal/2023/03/2023-03-01.md",
     "5. À Trier/Abréviation.md",
     "3. Ressources/Journal/2023/02/2023-02-28.md",
     "3. Ressources/Journal/2023/03",
@@ -179,11 +182,9 @@
     "3. Ressources/À Lire/Scorecard marketing.md",
     "3. Ressources/À Lire/Livre à lire.md",
     "2. Areas/Maxime Duhamel/Bibliothèque.md",
-    "3. Ressources/Newsletter/Ali Abdaal/The 15 best books I Read in 2022.md",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf.opdownload",
     "3. Ressources/Pièces jointes/PDF/Livres/Scorecard Marketing.pdf",
-    "3. Ressources/Pièces jointes/PDF/Livres/Scorecard Marketing.pdf.opdownload",
-    "3. Ressources/Journal/2023/02/2023-02-24.md"
+    "3. Ressources/Pièces jointes/PDF/Livres/Scorecard Marketing.pdf.opdownload"
   ]
 }
