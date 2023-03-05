@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0be1ebd94b19a215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Ressources/Journal/2023/03/2023-03-05.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-02.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-02.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-02.md"
+                "file": "3. Ressources/Journal/2023/03/2023-03-05.md"
               }
             }
           }
@@ -153,8 +166,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d14fe7afdf3f0a17",
+  "active": "0be1ebd94b19a215",
   "lastOpenFiles": [
+    "3. Ressources/Journal/2023/03/2023-03-05.md",
     "3. Ressources/Langage de programmation/Kotlin/Mots-clé en Kotlin.md",
     "3. Ressources/Langage de programmation/Kotlin/Kotlin.md",
     "3. Ressources/Newsletter/James Clear/3-2-1 - Momentum, how to be the best, and the source of inspiration.md",
@@ -181,7 +195,6 @@
     "1. Projects/Année 22-23/Philosophie/Que devons-nous faire.md",
     "3. Ressources/À Lire/Scorecard marketing.md",
     "3. Ressources/À Lire/Livre à lire.md",
-    "2. Areas/Maxime Duhamel/Bibliothèque.md",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf.opdownload",
     "3. Ressources/Pièces jointes/PDF/Livres/Scorecard Marketing.pdf",
