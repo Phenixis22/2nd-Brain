@@ -30,7 +30,7 @@ Licence Informatique :
 ***
 # Projet de formation motivé
 - MP2I :
-		- [[Projet de formation motivé - MP2I - Vannes]]
+	- [[Projet de formation motivé - MP2I - Vannes]]
 	- [[Projet de formation motivé - MP2I - Paris]]
 	- [[Projet de formation motivé - MP2I - Nantes]]
 - BUT Informatique :

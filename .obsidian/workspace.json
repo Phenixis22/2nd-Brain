@@ -11,8 +11,12 @@
             "id": "1d1513882c60bf07",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Ressources/Journal/2023/03/2023-03-06.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Ressources/Journal/2023/03/2023-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Ressources/Journal/2023/03/2023-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Ressources/Journal/2023/03/2023-03-06.md"
+              }
             }
           }
         ],
@@ -146,6 +154,7 @@
   },
   "active": "1d1513882c60bf07",
   "lastOpenFiles": [
+    "1. Projects/Projet de formation motivé/DOSSIER PARCOURSUP.md",
     "1. Projects/Année 22-23/Philosophie/L'Art.md",
     "3. Ressources/Dictionnaire/Indicible.md",
     "3. Ressources/Dictionnaire/Ineffable.md",
@@ -154,7 +163,6 @@
     "1. Projects/Année 22-23/Philosophie/Langage.md",
     "4. Archives/🗑️ Brol/Langage.md",
     "1. Projects/Année 22-23/Philosophie/Que devons-nous faire.md",
-    "1. Projects/Année 22-23/Philosophie/Philosophie.md",
-    "3. Ressources/Journal/2023/03/2023-03-05.md"
+    "1. Projects/Année 22-23/Philosophie/Philosophie.md"
   ]
 }
