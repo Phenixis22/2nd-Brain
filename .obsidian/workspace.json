@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31f206f7e8c8fa10",
+        "id": "6502d03b03880e37",
         "type": "tabs",
         "children": [
           {
-            "id": "71f03a8336042ba7",
+            "id": "1d1513882c60bf07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,17 +144,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "71f03a8336042ba7",
+  "active": "1d1513882c60bf07",
   "lastOpenFiles": [
+    "1. Projects/Année 22-23/Philosophie/L'Art.md",
+    "3. Ressources/Dictionnaire/Indicible.md",
+    "3. Ressources/Dictionnaire/Ineffable.md",
+    "3. Ressources/Journal/2023/03/2023-03-06.md",
     "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
     "1. Projects/Année 22-23/Philosophie/Langage.md",
     "4. Archives/🗑️ Brol/Langage.md",
     "1. Projects/Année 22-23/Philosophie/Que devons-nous faire.md",
-    "1. Projects/Année 22-23/Philosophie/L'Art.md",
     "1. Projects/Année 22-23/Philosophie/Philosophie.md",
-    "3. Ressources/Journal/2023/03/2023-03-06.md",
-    "3. Ressources/Journal/2023/03/2023-03-05.md",
-    "3. Ressources/Journal/2023/03/2023-03-02.md",
-    "3. Ressources/Langage de programmation/Kotlin/Mots-clé en Kotlin.md"
+    "3. Ressources/Journal/2023/03/2023-03-05.md"
   ]
 }
