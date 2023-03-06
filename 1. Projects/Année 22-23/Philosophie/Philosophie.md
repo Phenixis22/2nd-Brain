@@ -13,5 +13,6 @@ color: 204, 82, 0
 ## Cours
 ![[Introduction au notion]]
 ![[Qui suis-je]]
+![[Que devons-nous faire]]
 ## Méthode
 ![[Méthode]]

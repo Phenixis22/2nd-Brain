@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ba1b0d22d762f1c",
+        "id": "31f206f7e8c8fa10",
         "type": "tabs",
         "children": [
           {
-            "id": "d14fe7afdf3f0a17",
+            "id": "71f03a8336042ba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-02.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0be1ebd94b19a215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-05.md",
+                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-05.md",
+                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-05.md",
+                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-05.md"
+                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md"
               }
             }
           }
@@ -154,7 +140,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Créer une nouvelle toile": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "daily-notes:Ouvrir la note quotidienne": false,
@@ -162,42 +148,21 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "workspaces:Gérer les espaces de travail": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Create new canvas": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0be1ebd94b19a215",
+  "active": "71f03a8336042ba7",
   "lastOpenFiles": [
-    "3. Ressources/Journal/2023/03/2023-03-05.md",
-    "3. Ressources/Langage de programmation/Kotlin/Mots-clé en Kotlin.md",
-    "3. Ressources/Langage de programmation/Kotlin/Kotlin.md",
-    "3. Ressources/Newsletter/James Clear/3-2-1 - Momentum, how to be the best, and the source of inspiration.md",
-    "3. Ressources/Journal/2023/03/2023-03-02.md",
-    "3. Ressources/Journal/2023/02/2023-02-23.md",
-    "3. Ressources/Journal/2023/02/2023-02-22.md",
-    "3. Ressources/Langage de programmation/Kotlin/Les structures de contrôle en Kotlin.md",
-    "3. Ressources/Journal/2023/2023.md",
-    "3. Ressources/Langage de programmation/Kotlin/Les listes en kotlin.md",
-    "3. Ressources/Langage de programmation/Kotlin/Les intervalles en kotlin.md",
-    "3. Ressources/Langage de programmation/Kotlin/Les boucles en Kotlin.md",
-    "3. Ressources/Journal/2023/03/2023-03-01.md",
-    "1. Projects/Liste de mes projets.md",
-    "3. Ressources/Journal/2023/2023-janvier.md",
-    "3. Ressources/Journal/2023/02/2023-02-05 (conflict 2023-02-05-18-30-39).md",
-    "3. Ressources/Journal/2023/02/2023-02-04 (conflict 2023-02-05-18-30-38).md",
-    "3. Ressources/Journal/2023/02/2023-02-02 (conflict 2023-02-05-18-30-38).md",
-    "5. À Trier/Abréviation.md",
-    "3. Ressources/Journal/2023/02/2023-02-28.md",
-    "3. Ressources/Journal/2023/03",
-    "3. Ressources/Journal/2023/02/2023-02-27.md",
-    "3. Ressources/Journal/2023/02/2023-02-26.md",
     "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
+    "1. Projects/Année 22-23/Philosophie/Langage.md",
+    "4. Archives/🗑️ Brol/Langage.md",
     "1. Projects/Année 22-23/Philosophie/Que devons-nous faire.md",
-    "3. Ressources/À Lire/Scorecard marketing.md",
-    "3. Ressources/À Lire/Livre à lire.md",
-    "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf",
-    "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf.opdownload",
-    "3. Ressources/Pièces jointes/PDF/Livres/Scorecard Marketing.pdf",
-    "3. Ressources/Pièces jointes/PDF/Livres/Scorecard Marketing.pdf.opdownload"
+    "1. Projects/Année 22-23/Philosophie/L'Art.md",
+    "1. Projects/Année 22-23/Philosophie/Philosophie.md",
+    "3. Ressources/Journal/2023/03/2023-03-06.md",
+    "3. Ressources/Journal/2023/03/2023-03-05.md",
+    "3. Ressources/Journal/2023/03/2023-03-02.md",
+    "3. Ressources/Langage de programmation/Kotlin/Mots-clé en Kotlin.md"
   ]
 }

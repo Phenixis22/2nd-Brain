@@ -1,0 +1,1 @@
+La Technique a pour but de faciliter l'accès aux réponses à nos besoins. Elle a un caractère utile pourtant l'art, qui est une technique et qui fait partie de la Technique, n'a pas d'utilité^[Utilité dans le sens "qui répond à un besoin"].
