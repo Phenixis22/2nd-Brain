@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-06.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-07.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kotlin ->",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-06.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-06.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-06.md"
+                "file": "3. Ressources/Journal/2023/03/2023-03-07.md"
               }
             }
           }
@@ -154,10 +154,11 @@
   },
   "active": "0be1ebd94b19a215",
   "lastOpenFiles": [
+    "3. Ressources/Journal/2023/03/2023-03-06.md",
+    "3. Ressources/Journal/2023/03/2023-03-07.md",
     "3. Ressources/Journal/2023/03/2023-03-04.md",
     "3. Ressources/Journal/2023/03/2023-03-03.md",
     "5. À Trier/Application au démarrage.md",
-    "3. Ressources/Journal/2023/03/2023-03-06.md",
     "3. Ressources/Dictionnaire/Ineffable.md",
     "3. Ressources/Dictionnaire/Indicible.md",
     "1. Projects/Année 22-23/Philosophie/L'Art.md",
@@ -179,7 +180,6 @@
     "3. Ressources/Journal/2023/02/2023-02-05 (conflict 2023-02-05-18-30-39).md",
     "3. Ressources/Journal/2023/02/2023-02-04 (conflict 2023-02-05-18-30-38).md",
     "3. Ressources/Journal/2023/02/2023-02-02 (conflict 2023-02-05-18-30-38).md",
-    "5. À Trier/Abréviation.md",
     "3. Ressources/Journal/2023/03",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf.opdownload",
