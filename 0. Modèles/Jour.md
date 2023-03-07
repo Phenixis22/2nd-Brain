@@ -6,3 +6,5 @@ banner_y : 0.5
 
 
 Aujourd'hui, le {{date:dddd DD MMMM YYYY}}, j'ai aimé  ^Ambre
+
+- [ ] {{date:DD-MM-YY}} -> 

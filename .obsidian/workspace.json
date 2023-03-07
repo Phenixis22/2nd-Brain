@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0be1ebd94b19a215",
+            "id": "8908fb797f867412",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
+    "width": 305.5,
     "collapsed": true
   },
   "right": {
@@ -152,10 +152,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0be1ebd94b19a215",
+  "active": "8908fb797f867412",
   "lastOpenFiles": [
-    "3. Ressources/Journal/2023/03/2023-03-06.md",
+    "0. Modèles/Jour.md",
     "3. Ressources/Journal/2023/03/2023-03-07.md",
+    "3. Ressources/Homework for Life/Histoires.md",
+    "3. Ressources/Journal/2023/2023.md",
+    "3. Ressources/Journal/2023/01/2023-01-05.md",
+    "3. Ressources/Homework for Life",
+    "3. Ressources/Journal/2023/03/2023-03-06.md",
     "3. Ressources/Journal/2023/03/2023-03-04.md",
     "3. Ressources/Journal/2023/03/2023-03-03.md",
     "5. À Trier/Application au démarrage.md",
@@ -170,16 +175,12 @@
     "3. Ressources/Journal/2023/02/2023-02-23.md",
     "3. Ressources/Journal/2023/02/2023-02-22.md",
     "3. Ressources/Langage de programmation/Kotlin/Les structures de contrôle en Kotlin.md",
-    "3. Ressources/Journal/2023/2023.md",
     "3. Ressources/Langage de programmation/Kotlin/Les listes en kotlin.md",
     "3. Ressources/Langage de programmation/Kotlin/Les intervalles en kotlin.md",
     "3. Ressources/Langage de programmation/Kotlin/Les boucles en Kotlin.md",
     "3. Ressources/Journal/2023/03/2023-03-01.md",
     "1. Projects/Liste de mes projets.md",
     "3. Ressources/Journal/2023/2023-janvier.md",
-    "3. Ressources/Journal/2023/02/2023-02-05 (conflict 2023-02-05-18-30-39).md",
-    "3. Ressources/Journal/2023/02/2023-02-04 (conflict 2023-02-05-18-30-38).md",
-    "3. Ressources/Journal/2023/02/2023-02-02 (conflict 2023-02-05-18-30-38).md",
     "3. Ressources/Journal/2023/03",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf",
     "3. Ressources/Pièces jointes/PDF/Livres/The 3 Alarms.pdf.opdownload",
