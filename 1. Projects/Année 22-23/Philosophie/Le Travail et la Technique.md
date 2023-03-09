@@ -38,10 +38,39 @@ aliénation = être déposséder de soi-même pour un autre
 ## Dialectique du maître et de l'esclave - Hegel
 Selon Hegel, nous existons à travers la modification de la réalité. Dans cette réalité, il existes des limites qui s'opposent à nous. Elles peuvent être passives, par exemple la taille, mais aussi active, par exemple les parents qui disent "Non!". Les limites actives sont l'affirmation d'autres vis-à-vis de nous. Ainsi, ces autres personnes deviennent dangereuses, ce qui débute un conflit entre nous et les autres.
 Hegel matérialise ce conflit comme un duel : deux personnes voulant se mettre à mort. Pourtant l'enjeu réel n'est pas là : il ne cherche pas la mort de leur adversaire, mais la reconnaissance qu'ils recevront à gagner. De ce fait, la victoire est plus grande lorsque l'adversaire se rend que lorsqu'il est mis à mort. Dans le cadre d'un duel, lorsque l'adversaire se rend, il devient l'esclave du gagnant, qui lui devient le maître de ce dernier.
+
 L'esclave est un être de besoin tandis que le maître est un être de désir. L'être de besoin est caractérisé par l'importance primordiale qui est donnée à sa survie tandis que l'être de désir apporte plus d'importance à la reconnaissance des autres par le dépassement de nos besoins.
+
 L'esclave s'occupe donc de ses besoins mais aussi des besoins de son maître qui se retrouve donc à s'occuper uniquement de la reconnaissance qu'il reçoit. C'est la raison pour laquelle le maître devient dépendant de l'esclave : il accorde plus d'importance au fait de recevoir de la reconnaissance que de répondre à ses besoins, ainsi sans l'esclave pour résourdre à ses besoins il mourrait. L'esclave étant un être de besoin, il n'apporte plus de reconnaissance à son maître qui doit donc en chercher dans d'autres duels. Il se retrouve donc bloqué à toujours faire plus de duels, pour toujours recevoir plus de reconnaissance avec de moins en moins de besoins auxquels répondre. 
+
 Selon Hegel, cette attitude "immature" du maître est une chance car l'esclave développe des compétences et une maîtrise de ces compétences. Il développe profondément sa maîtrise de la réalité matérielle. Cette maîtrise atteint au final un niveau tel qu'il n'a plus besoins de la reconnaissance des autres pour savoir s'il a atteint ou non son objectif. Il se libère donc de la reconnaissance. Le maître quant à lui chercher encore et encore la reconnaissance. Sauf qu'il perdra un duel un jour, et deviendra donc l'esclave de quelqu'un et développera lui aussi des compétences importantes avant de pouvoir se libérer de la reconnaissance des autres.
 ## La marchandise - Marx
+Selon Marx, Hegel est déconnecté des conditions matérielles. Il faut étudier les situations concrètes basée sur les conditions matérielles. À l'époque de Marx, peu de temps après Hegel d'ailleurs, l'industrialisation battait son plein et n'était pas de l'esclavagisme. Cette industrialisation pose un problème important : elle ne permet pas de transformer la réalité. L'esclave d'Hegel est l'équivalent de l'ouvrier pour Marx. L'ouvrier ne peut pas se reconnaître dans ce qu'il produit car ce produit doit être exactement comme le précédent et le suivant. L'industrie ne laisse aucune place à l'originalité : une des exigences de l'industrie est que l'ouvrier ne puisse pas se reconnaître dans son travail, il doit se reconnaître dans le salaire qu'il reçoit. 
+
+L'industrie inverse l'idée d'Hegel, ce n'est plus le travail qui permet à l'esclave/ouvrier d'exister, alors ça doit être le salaire. Ce n'est ainsi plus une question de gens. La relation dominant/dominé vient des conditions matérielles car on s'y adapte. Le contexte industriel pousse celui qui possède l'usine à voir les produits comme des marchandises. Ainsi, 2 valeurs se remarquent :
+- La valeur d'usage -> besoin, utilité, etc...
+- La valeur d'échange -> prix qui varie selon la valeur d'usage, la rareté, ...
+|-> La valeur d'échange est un nombre qui permet de faire correspondre avec d'autres
+
+La marchandise est un objet basé sur la valeur d'échange. Pour cela, un gérant d'usine est un marchand, il ne voit que des marchandises même pour ses ouvriers, il se trouve entre le producteur et l'acheteur. Il est totalement déconnecté de l'humanisation du travail sauf par le salaire.
+```ad-help
+title: Le salaire humanise-t-il ?
+collapse: open
+icon: question
+color: 0, 255, 0
+```
+
+Le travail étant désagréable et épuisant et ne permettant aucune existence, il pousse au divertissement. 
+```ad-note 
+title: Divertissement = processus accélérant la récupération d'énergie. Il ne nécessite aucun effort et est plus ou moins nécessaire.
+collapse: open
+icon: align-left
+color: 255, 0, 0
+```
+
+Le divertissement est à distinguer du loisir. Le divertissement ne produit rien, il est donc impossible d'exister par le divertissement. Le loisir, lui, crée quelque chose mais requiert un effort. Il est possible de créer une chose en tant que loisir, mais à l'époque de l'industrialisation, le processus de création est court-circuité par le salaire qui permet d'acheter directement la chose. Il est possible de vivre dans le loisir, mais dans le processus de création de la chose - pas dans la chose en elle-même ni même dans sa consommation, il nous est donc impossible de vivre dans l'objet acheté.
+
+En définitive, Marx semble en accord avec Hegel au départ mais nuance cela par rapport aux conditions matérielles de son époque.
 # Le progrès technique
 ## Le corps, l'outil, la machine
 ## Essence de la technique - Heidegger
