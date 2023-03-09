@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
+                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9c8deb56f9986da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/🗑️ Brol/Cheatsheet - raccourci clavier - majuscules lettre et symbole.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"fonctions \"",
+                "query": "\"Hegel (\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
+                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md",
+                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/L'Art.md"
+                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md"
               }
             }
           }
@@ -152,9 +164,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7bc80ea53c53bea",
+  "active": "49092af064aa13c5",
   "lastOpenFiles": [
     "4. Archives/🗑️ Brol/Cheatsheet - raccourci clavier - majuscules lettre et symbole.md",
+    "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
     "1. Projects/Année 22-23/Philosophie/L'Art.md",
     "1. Projects/Année 22-23/Philosophie/Que devons-nous faire.md",
     "1. Projects/Année 22-23/Philosophie/Philosophie.md",
@@ -165,7 +178,6 @@
     "3. Ressources/Homework for Life/Histoires.md",
     "5. À Trier/Kotlin pour android.md",
     "5. À Trier/Kotlin packages pour Android.md",
-    "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
     "3. Ressources/Journal/2023/03/2023-03-06.md",
     "1. Projects/Projet de formation motivé/DOSSIER PARCOURSUP.md",
     "3. Ressources/Dictionnaire/Indicible.md",
