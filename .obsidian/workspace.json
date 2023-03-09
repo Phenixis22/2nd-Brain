@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93c24c3adb357861",
+        "id": "384ef022e61d0855",
         "type": "tabs",
         "children": [
           {
-            "id": "f7bc80ea53c53bea",
+            "id": "80188048913e5457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e9c8deb56f9986da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/🗑️ Brol/Cheatsheet - raccourci clavier - majuscules lettre et symbole.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md"
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md"
               }
             }
           }
@@ -164,7 +152,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7bc80ea53c53bea",
+  "active": "80188048913e5457",
   "lastOpenFiles": [
     "4. Archives/🗑️ Brol/Cheatsheet - raccourci clavier - majuscules lettre et symbole.md",
     "1. Projects/Année 22-23/Philosophie/Le Travail et la Technique.md",
