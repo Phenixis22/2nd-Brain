@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-08.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-08.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-08.md",
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Ressources/Journal/2023/03/2023-03-08.md"
+                "file": "3. Ressources/Journal/2023/03/2023-03-09.md"
               }
             }
           }
@@ -154,9 +154,10 @@
   },
   "active": "f7bc80ea53c53bea",
   "lastOpenFiles": [
+    "3. Ressources/Journal/2023/03/2023-03-08.md",
+    "3. Ressources/Journal/2023/03/2023-03-09.md",
     "3. Ressources/Langage de programmation/Kotlin/Kotlin.md",
     "3. Ressources/Langage de programmation/Kotlin/Mots-clé en Kotlin.md",
-    "3. Ressources/Journal/2023/03/2023-03-08.md",
     "3. Ressources/Homework for Life/Histoires.md",
     "5. À Trier/Kotlin pour android.md",
     "5. À Trier/Kotlin packages pour Android.md",
