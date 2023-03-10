@@ -30,4 +30,3 @@ Kotlin est un **langage orienté objet** et **fonctionnel** :
 [[Gérer les exceptions en Kotlin]]
 
 [[Kotlin pour android]]
-

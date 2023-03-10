@@ -2,3 +2,5 @@ Aucune fonction `main` principale, une `MainActivity` avec une fonction `onCreat
 [[Kotlin packages pour Android]]
 
 Fonctionne avec des `Activity`
+
+[[Logging en Kotlin]]
