@@ -1,0 +1,7 @@
+Madame, Monsieur,
+
+Actuellement en Terminale Générale, spécialités Mathématiques et Numérique et Sciences Informatique, j'ai fait le choix de ne suivre aucune option supplémentaire pour pouvoir me concentrer sur les matières dans lesquelles j'ai des difficultés et remplir mes rôles de président de la Maison Des Lycéens et de délégué de l'internat. 
+J'aimerai rejoindre votre établissement pour la qualité, la rigueur et les possibilités qu'offrent votre enseignement. Cet enseignement m'ouvrirait des portes dans les métiers de l'informatique. Mon intérêt pour ces derniers, plus spécialement pour la programmation, est grand et me motive à réussir dans votre formation tout comme à travailler personnellement. C'est cet intérêt qui me poussa à apprendre à coder en C, en Java puis en Kotlin afin de m'ouvrir mes perspectives. De plus, la qualité de vos installations, le cadre de vie proposé par votre établissement et son emplacement dans *la ville* sont à mes yeux des atouts supplémentaires.
+La rigueur acquise par un travail régulier m'a permis de m'améliorer dans tous les domaines. J'apprécie être confronté aux difficultés pour les surmonter et développer mes compétences d'apprentissage. Mon organisation personnelle se retrouve dans ma capacité à travailler profondément, à respecter les délais et à dépasser les atteintes.
+
+Dans l’espoir d’être retenu dans votre formation, je vous prie de recevoir, Madame, Monsieur, l’expression de mes salutations respectueuses.

@@ -4,49 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "05ebbead39fd2825",
-        "type": "split",
+        "id": "e128695568de5203",
+        "type": "tabs",
         "children": [
           {
-            "id": "384ef022e61d0855",
-            "type": "tabs",
-            "dimension": 35.18930957683742,
-            "children": [
-              {
-                "id": "80188048913e5457",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "5. À Trier/Lettre de motivation.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "6699493de65c7979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Projet de formation motivé/Lettre de motivation V2 - BUT et Licence.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           },
           {
-            "id": "e128695568de5203",
-            "type": "tabs",
-            "dimension": 64.81069042316258,
-            "children": [
-              {
-                "id": "a8b24dab2b5351bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "5. À Trier/lettre de motivation V1.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "fe3f333c78ee30f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Projet de formation motivé/lettre de motivation V2 - Prépa.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. À Trier/Lettre de motivation.md",
+                "file": "1. Projects/Projet de formation motivé/Lettre de motivation V2 - BUT et Licence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. À Trier/Lettre de motivation.md",
+                "file": "1. Projects/Projet de formation motivé/Lettre de motivation V2 - BUT et Licence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. À Trier/Lettre de motivation.md"
+                "file": "1. Projects/Projet de formation motivé/Lettre de motivation V2 - BUT et Licence.md"
               }
             }
           }
@@ -179,15 +164,25 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "80188048913e5457",
+  "active": "6699493de65c7979",
   "lastOpenFiles": [
-    "1. Projects/Projet de formation motivé/Idée Monsieur Fargier.txt",
+    "1. Projects/Projet de formation motivé/~$ttre de motivation V2 - BUT et Licence.docx",
+    "1. Projects/Projet de formation motivé/~WRL0003.tmp",
+    "1. Projects/Projet de formation motivé/~WRD0002.tmp",
+    "1. Projects/Projet de formation motivé/Lettre de motivation V2 - BUT et Licence.docx",
+    "1. Projects/Projet de formation motivé/lettre de motivation V2 - Prépa.md",
+    "1. Projects/Projet de formation motivé/~$ttre de motivation V2 - Prépa.docx",
+    "1. Projects/Projet de formation motivé/~WRL0001.tmp",
+    "1. Projects/Projet de formation motivé/~WRD0000.tmp",
+    "1. Projects/Projet de formation motivé/lettre de motivation V2 - Prépa.docx",
+    "1. Projects/Projet de formation motivé/Lettre de motivation V2 - BUT et Licence.md",
+    "1. Projects/Projet de formation motivé/Lettre de motivation - conseil Maman.md",
     "5. À Trier/lettre de motivation V1.md",
-    "1. Projects/Projet de formation motivé/Lettre de motivatio.txt",
     "5. À Trier/Lettre de motivation.md",
     "3. Ressources/Journal/2023/03/2023-03-11.md",
+    "1. Projects/Projet de formation motivé/Idée Monsieur Fargier.txt",
+    "1. Projects/Projet de formation motivé/Lettre de motivatio.txt",
     "3. Ressources/Pièces jointes/Images/Effet Dunning-Kruger.avif",
-    "3. Ressources/Pièces jointes/Images/Effet Dunning-Kruger.avif.opdownload",
     "3. Ressources/Journal/2023/03/2023-03-10.md",
     "5. À Trier/Logging en Kotlin.md",
     "5. À Trier/Kotlin pour android.md",
@@ -206,7 +201,6 @@
     "1. Projects/Projet de formation motivé/DOSSIER PARCOURSUP.md",
     "3. Ressources/Dictionnaire/Indicible.md",
     "3. Ressources/Dictionnaire/Ineffable.md",
-    "1. Projects/Année 22-23/Philosophie/Langage.md",
-    "4. Archives/🗑️ Brol/Langage.md"
+    "1. Projects/Année 22-23/Philosophie/Langage.md"
   ]
 }
