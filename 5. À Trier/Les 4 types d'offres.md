@@ -1,0 +1,4 @@
+- abonnement, 0 à 20€ - faible barrière à l'entrée, un bon moyen d'avoir un revenu récurrent
+- à bas prix, 0 à 499€ - faible barrière à l'entrée
+- à moyen prix, 50 à 4999€ - grosse marge, difficile à vendre
+- à haut prix, 5000 à 25000€ - grosse marge, difficile à vendre
