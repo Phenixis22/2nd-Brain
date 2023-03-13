@@ -20,6 +20,30 @@ Il tombe ainsi dans l'illusion de croire qu'une oeuvre d'art représenterai mieu
 
 Ce que fait l'artiste, c'est qu'après avoir eu l'impression de quelque chose, il essaie de l'expliquer aux autres. L'expression est, selon sa définition, une force physique exercée sur quelque chose ayant pour effet de faire sortir quelque chose de cette chose. L'artiste va essayer de retranscrire ce qu'il a vécu de façon artificielle pour la faire éprouver par les spectateurs. Il déforme la chose qui l'a fait vivre ce qu'il a vécu afin d'exprimer ce qu'il ressent. L'apparence révèle donc quelque chose.
 
-L'art cherche à représenter non pas l'Idée d'une chose, mais l'Idée de l'Idée de la chose. L'Idée ne sera jamais parfaitement représentée grâce à l'art. La 1ère approche de l'Idée est l'art symbolique. L'artiste percevrait l'universalité de l'art. L'art symbolique essaie de rendre compte de l'universalité par une quantité infinie de matière. Cet art symbolique évolua avec le temps en art classique qui se concentre sur la forme de la matière et l'équilibre entre cette dernière et l'Idée. Le modèle principal de cet art est l'être humain car il exprimerait l'expressif, de manière artificielle. La progression entre les deux arts se prolongent en dans l'art romantique. Le but de ce dernier est de faire disparaître au maximum la matière qui est de trop pour représenter une Idée purement immatérielle. 
+L'artiste s'est rendu compte qu'il y a une Idée par genre de chose et c'est l'Idée du principe d'Idée qu'il veut représenter. L'art cherche à représenter non pas l'Idée d'une chose, mais l'Idée de l'Idée. L'Idée ne sera jamais parfaitement représentée grâce à l'art. La 1ère approche de l'Idée est l'art symbolique. L'artiste percevrait l'universalité de l'art. L'art symbolique essaie de rendre compte de l'universalité par une quantité infinie de matière. Cet art symbolique évolua avec le temps en art classique qui se concentre sur la forme de la matière et l'équilibre entre cette dernière et l'Idée. Le modèle principal de cet art est l'être humain car il exprimerait l'expressif, de manière artificielle. La progression entre les deux arts se prolongent en dans l'art romantique. Le but de ce dernier est de faire disparaître au maximum la matière qui est de trop pour représenter une Idée purement immatérielle. 
 
 Hegel dit, à son époque déjà, que l'art est n'aura plus rien à dire, qu'il est mort. L'art se prolongerai dans la religion qui exprime la conscience que l'on aurait de l'idée comme étant immatérielle sans vraiment comprendre sa nature.
+
+Comment distinguer les oeuvres d'art entre elles ? Les chefs d'oeuvres des mauvaises oeuvres d'art ? Peut-on réellement les distinguer ?
+
+# Le Jugement de goût - Kant
+Devant toutes les oeuvres d'art, on évalue et émet un jugement. Notre jugement peut ne pas être clair, peut être brouillon, etc... mais tout le monde est confronté à cela. Le doute sur soi-même et notre capacité à juger est normal. 
+
+Le mot "goût" renvoie au sens gustatif. Le jugement de goût est donc un jugement qui a pour origine un sens, il nécessite donc un objet matériel. L'expression désigne le fait de juger selon 1 sens, peu importe lequel. Elle implique que d'autres jugements existent aussi. 
+```ad-help
+title: Apprécions-nous les oeuvres d'art selon ce jugement ? Si oui, utilisons-le aussi dans d'autres domaines ? Ou existe-t-il un jugement spécifique à l'Art ?
+collapse: open
+icon: question
+color: 0, 255, 0
+```
+
+Nous partirons du principe qu'il en existe un spécifique en revenant à la conscience. La conscience contient plusieurs facultés, dont celle de pouvoir juger dont un jugement spécifique pour l'art selon Kant ?
+
+Les facultés de la conscience sont les suivantes :
+- La raison -> organise les concepts
+- L'entendement -> conceptualise -> jugement intellectuel en bon/mauvais
+- La sensibilité -> sensations -> jugement agréable/désagréable
+
+Cette dernière est subjective, car une chose matérielle ne donne pas la même sensation à deux personnes différentes, voire même à la même personne plus vieille/plus jeune. Les sensations vont varier car les cellules se régénèrent. On ne les choisit pas, elles se créent toutes seules. Ce jugement agréable/désagréable n'est pas approprié aux oeuvres d'art.
+
+Le jugement intellectuel se décline en "bon" ou "mauvais", que l'on peut penser retrouver dans l'agréable/désagréable mais qui est à un niveau différent.
